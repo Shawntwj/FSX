@@ -1,5 +1,5 @@
-,date,location,news title,news source(url),content summary,keywords
-0,02/2022,GEORGE TOWN (THE STAR/ASIA NEWS NETWORK) ,"LATEST
+,date,location,news title,news source(url),content summary,keywords,class_name
+0,Feb-22,GEORGE TOWN (THE STAR/ASIA NEWS NETWORK) ,"LATEST
 Spike in cost leaves Malaysian durian farmers in thorny spot
 7 hours ago
 'It's like gold now': Indonesian food vendors feel the pinch of cooking oil shortage
@@ -24,41 +24,35 @@ Pagination",https://www.straitstimes.com/asia/se-asia/spike-in-cost-leaves-malay
 ""We have fertilisers for rooting and to reinforce the trees after the harvest, as well as fertilisers for flowering and fruiting.
 ""Fertilisers are used throughout the year as durian trees require a great amount of care to produce good fruit.
 Besides fertilisers, Goh said the cost of pesticides has also increased from RM300 (S$96) to RM500 for 20l concentrates.
-""There were three major price hikes in August, October and November last year, and I was told that suppliers might increase the price further.","price, spike, used, fertiliser, spot, increased, increase, durians, leaves, fertilisers, harvest, durian, trees, farmers, malaysian, thorny, cost"
-1,02/2022,JAKARTA ,"Spike in cost leaves Malaysian durian farmers in thorny spot
+""There were three major price hikes in August, October and November last year, and I was told that suppliers might increase the price further.","price, spike, used, fertiliser, spot, increased, increase, durians, leaves, fertilisers, harvest, durian, trees, farmers, malaysian, thorny, cost",Economic Crisis
+1,Feb-22,JAKARTA ,"Spike in cost leaves Malaysian durian farmers in thorny spot
 7 hours ago",https://www.straitstimes.com/asia/se-asia/its-like-gold-now-indonesian-food-vendors-feel-the-pinch-of-cooking-oil-shortage,"JAKARTA - For a few months, Jakarta fried snack vendor Sumarno had struggled to secure cooking oil.
 “I can’t use less cooking oil.
 “Tomorrow, I will fry with today’s used cooking oil that still looks clear, adding it to new oil,” he said.
 The shortage of palm oil-based cooking oil, which started in November, hit Indonesia despite it being the world’s largest producer of palm oil.
-This partly contributes to the shortage of palm-oil based cooking oil in the domestic market.","food, cooking, sumarno, feel, rupiah, shortage, pinch, started, vendors, palm, oil, stores, indonesian, price, biodiesel, gold"
-2,02/2022,WASHINGTON (AFP) ,"'It's like gold now': Indonesian food vendors feel the pinch of cooking oil shortage
+This partly contributes to the shortage of palm-oil based cooking oil in the domestic market.","food, cooking, sumarno, feel, rupiah, shortage, pinch, started, vendors, palm, oil, stores, indonesian, price, biodiesel, gold",Economic Crisis
+2,Feb-22,WASHINGTON (AFP) ,"'It's like gold now': Indonesian food vendors feel the pinch of cooking oil shortage
 Feb 11, 2022, 3:43 PM",https://www.straitstimes.com/business/economy/surging-beef-prices-hard-to-stomach-for-us-shoppers,"American shoppers saw prices for meats, poultry, fish and eggs jump 12.5 per cent last year, while beef has soared by as much as 23 per cent, depending on the cut.
 Prices for a quality cut of beef can cost up to US$25 a pound (S$34 for 454g).
 ""Foreign buyers of US meat, particularly China, have exhibited strong demand alongside strong domestic consumer demand,"" Prof Lusk said.
 Over the last three months of 2021, Tyson raised beef prices by an average of nearly 33 per cent compared with the same period of 2020, while the company's profits far exceeded expectations.
-Now with savings dwindling and prices soaring, eating a steak is out of reach for many low-income families.","washington, cent, strong, savings, prices, stomach, shoppers, beef, mother, meat, demand, hard, surging, lusk"
-3,02/2022,HONG KONG (AFP) ,"Surging beef prices hard to stomach for US shoppers
+Now with savings dwindling and prices soaring, eating a steak is out of reach for many low-income families.","washington, cent, strong, savings, prices, stomach, shoppers, beef, mother, meat, demand, hard, surging, lusk",Economic Crisis
+3,Feb-22,HONG KONG (AFP) ,"Surging beef prices hard to stomach for US shoppers
 Feb 10, 2022, 11:00 AM",https://www.straitstimes.com/asia/east-asia/shoppers-throng-hong-kongs-markets-after-covid-19-curbs-announced,"HONG KONG (AFP) - Shoppers thronged Hong Kong's markets fearing a shortage of food Wednesday (Feb 9), familiar scenes in a city that is back under gruelling Covid restrictions in contrast to much of the world.
 The Omicron-fuelled spike has alarmed authorities and leader Carrie Lam announced renewed curbs on the 7.5 million residents of the financial hub.
 She was among the throng of morning shoppers anxious over fresh produce supply, which the city mostly imports from the mainland.
 Hong Kong's vegetable supply has since decreased by about a third, the government said.
-The shortage - coupled with business savvy among suddenly popular vegetable sellers - has sent produce prices in Hong Kong's wet markets soaring with shelves in supermarkets sitting bare.","week, vegetable, hong, kongs, covid19, curbs, throng, shoppers, shortage, scenes, announced, city, markets, supply, siu"
-4,02/2022,LONDON (AFP) ,"Shoppers throng Hong Kong's markets after Covid-19 curbs announced
+The shortage - coupled with business savvy among suddenly popular vegetable sellers - has sent produce prices in Hong Kong's wet markets soaring with shelves in supermarkets sitting bare.","week, vegetable, hong, kongs, covid19, curbs, throng, shoppers, shortage, scenes, announced, city, markets, supply, siu",Pandemic
+4,Feb-22,LONDON (AFP) ,"Shoppers throng Hong Kong's markets after Covid-19 curbs announced
 Feb 9, 2022, 7:23 PM",https://www.straitstimes.com/world/europe/worst-to-come-on-soaring-uk-food-prices-tesco-boss,"LONDON (AFP) - The ""worst is still to come"" over soaring food prices, Britain's biggest retailer Tesco has warned, as fears grow over a cost of living crisis caused by decades-high inflation.
 ""The worst is still to come because... we are impacted by rising energy prices.
 Our suppliers are impacted by rising energy prices,"" Mr Allan told the BBC.
 Britain's annual inflation stands at 5.4 per cent, far above the Bank of England's (BoE) 2 per cent target.
-The BoE last week delivered a successive interest rate hike and forecast that Britain's annual inflation rate would peak at 7.25 per cent in April.","week, cent, food, soaring, inflation, rate, prices, annual, warned, boss, uk, worst, workers, tesco, energy, come"
-5,02/2022,WASHINGTON (NYTIMES) ,"'Worst to come' on soaring UK food prices: Tesco boss
-Feb 7, 2022, 10:45 PM",https://www.straitstimes.com/business/economy/global-food-prices-hit-2-decade-high-threatening-worlds-poorest,"WASHINGTON (NYTIMES) - Food prices have skyrocketed globally because of disruptions in the global supply chain, adverse weather and rising energy prices, increases that are imposing a heavy burden on poorer people around the world and threatening to stoke social unrest.
-A global index released on Thursday (Feb 3) by the United Nations Food and Agriculture Organisation showed that food prices in January climbed to their highest level since 2011, when skyrocketing costs contributed to political uprisings in Egypt and Libya.
-Even before the pandemic, global food prices had been trending upwards as disease wiped out much of China's pig herd and the United States-China trade war resulted in Chinese tariffs on US agricultural goods.
-But as the pandemic began in early 2020, the world experienced seismic shifts in demand for food.
-While food prices appear set to stabilise, events like a conflict in Ukraine, a major producer of wheat and corn, or further adverse weather could change that calculation, Mr Bogmans said.","hit, price, cent, food, world, 2decade, prices, threatening, worlds, high, weather, supply, global, increases, poorest, pandemic"
-6,01/2022,SINGAPORE ,"Global food prices hit 2-decade high, threatening world's poorest
+The BoE last week delivered a successive interest rate hike and forecast that Britain's annual inflation rate would peak at 7.25 per cent in April.","week, cent, food, soaring, inflation, rate, prices, annual, warned, boss, uk, worst, workers, tesco, energy, come",Economic Crisis
+5,Jan-22,SINGAPORE ,"Global food prices hit 2-decade high, threatening world's poorest
 Feb 4, 2022, 8:46 AM",https://www.straitstimes.com/business/companies-markets/ukraine-tensions-can-choke-supply-of-energy-food-for-spore-and-asia,"SINGAPORE - Far away from Singapore, there is a conflict brewing in eastern Europe that can make a bad situation worse in the global commodities markets and in turn cause problems here.
-The stand-off between Russia and the West over Ukraine can add more volatility in energy and food prices, which are already in flux, and further boost inflation in Singapore and elsewhere by adding to the supply constraints caused by the pandemic.","food, standoff, asia, tensions, ukraine, turn, russia, singapore, worse, west, supply, volatility, choke, energy, spore, situation"
-7,01/2022,"Catch the latest news video reports on The Big Story, The Straits Times' weekday online news programme.
+The stand-off between Russia and the West over Ukraine can add more volatility in energy and food prices, which are already in flux, and further boost inflation in Singapore and elsewhere by adding to the supply constraints caused by the pandemic.","food, standoff, asia, tensions, ukraine, turn, russia, singapore, worse, west, supply, volatility, choke, energy, spore, situation",Localised military conflict
+6,Jan-22,"Catch the latest news video reports on The Big Story, The Straits Times' weekday online news programme.
 
 Prices of some popular fish, such as Chinese pomfret and red grouper, have spiked ahead of Chinese New Year.
 
@@ -75,20 +69,20 @@ Jan 31, 2022, 5:00 AM",https://www.straitstimes.com/multimedia/the-big-story-mor
 Prices of some popular fish, such as Chinese pomfret and red grouper, have spiked ahead of Chinese New Year.
 Visiting six wet markets on Wednesday (Jan 26), ST found that some sellers are doubling their prices for these fish.
 Vegetable prices also continued to creep up, as sellers said they are still coping with the aftermath of the Malaysia floods, as well as manpower shortages in farms there.
-And despite bak kwa costing more as well, the higher prices have not deterred people from queuing at Lim Chee Guan's flagship store in Chinatown.","expensive, ahead, cny, sellers, projects, kwa, despite, prices, floods, big, singapore, fish, markets, chinese, malaysia, vegetables, wet, spore"
-8,01/2022,SINGAPORE ,"The Big Story: More expensive fish, vegetables at S'pore wet markets ahead of CNY
+And despite bak kwa costing more as well, the higher prices have not deterred people from queuing at Lim Chee Guan's flagship store in Chinatown.","expensive, ahead, cny, sellers, projects, kwa, despite, prices, floods, big, singapore, fish, markets, chinese, malaysia, vegetables, wet, spore",Idiosyncratic
+7,Jan-22,SINGAPORE ,"The Big Story: More expensive fish, vegetables at S'pore wet markets ahead of CNY
 Jan 26, 2022, 5:25 PM",https://www.straitstimes.com/singapore/consumer/prices-of-popular-fish-double-at-wet-markets-ahead-of-cny-pomfret-going-for-as-high-as-100-a-kg,"SINGAPORE - Prices of some popular fish, such as Chinese pomfret and red grouper, have spiked ahead of Chinese New Year, with some sellers at wet markets doubling their prices.
 The Straits Times visited six wet markets on Wednesday (Jan 26) and found that Chinese pomfret was selling for as high as $90 to $100 a kg, up from $40 to $50 a kg last November.
 Red grouper was priced at up to $75 a kg, from $30 to $40 a kg in November.
 A 70-year-old stallholder at Tekka Centre, who wanted to be known only as Mrs Yang, raised the price of Chinese pomfret from $30 a kg last month to the current $70 a kg.
-""These are the most popular types of fish during the Chinese New Year period, so there's increased demand.","going, ahead, cny, kg, pomfret, prices, red, 100, high, fish, chinese, month, markets, market, price, centre, double"
-9,01/2022,BANGKOK ,"Pomfret going for as high as $100 a kg as some fish prices double ahead of CNY
+""These are the most popular types of fish during the Chinese New Year period, so there's increased demand.","going, ahead, cny, kg, pomfret, prices, red, 100, high, fish, chinese, month, markets, market, price, centre, double",Idiosyncratic
+8,Jan-22,BANGKOK ,"Pomfret going for as high as $100 a kg as some fish prices double ahead of CNY
 Jan 26, 2022, 4:00 PM",https://www.straitstimes.com/asia/se-asia/high-pork-prices-weigh-down-on-thai-consumers-as-chinese-new-year-nears,"On Tuesday (Jan 12), the Department of Livestock Development said it detected a case of African swine fever from a slaughterhouse in the Nakhon Pathom province near Bangkok.
 This is the first official confirmation of the presence of African swine fever in the country.
 It comes after growing speculation and reports from local bodies that the disease was already decimating pig herds and contributing to the soaring pork prices.
 African swine fever is harmless to humans, but it is highly contagious and fatal to pigs.
-African swine fever outbreaks have been reported in China and neighbouring countries such as Vietnam.","bangkok, weigh, nears, fever, prices, thai, swine, high, rise, consumers, chinese, supply, baht, price, pork"
-10,01/2022,KUALA LUMPUR ,"LATEST
+African swine fever outbreaks have been reported in China and neighbouring countries such as Vietnam.","bangkok, weigh, nears, fever, prices, thai, swine, high, rise, consumers, chinese, supply, baht, price, pork",Pandemic
+9,Jan-22,KUALA LUMPUR ,"LATEST
 Food supply hit ahead of CNY, Ramadan after floods wipe out Malaysian farms
 Jan 12, 2022, 4:43 PM
 Forum: Feeling the pinch from rising prices of everyday food items
@@ -113,8 +107,8 @@ Pagination",https://www.straitstimes.com/asia/se-asia/food-supply-hit-ahead-of-c
 Mr Azim, who has no income this month, will have to feed them vitamins and anti-stress supplements.
 Chilli grower Ahmad Irham Mohd Noor, 40, saw his entire farm in Dengkil, Selangor, completely destroyed in floods which reached 3.4m high, with losses of around RM100,000 (S$32,300).
 The disruptions in the food supply chain - ahead of Chinese New Year next month and Ramadan in April - come after a series of massive floods devastated parts of Malaysia from Dec 18.
-Malaysia Federation of Vegetable Farmers Association president Lim Ser Kwee said many farmers were badly hit by floods in states such as Johor, Selangor and Pahang.","hit, ahead, wipe, cny, food, flood, farm, ramadan, floods, high, month, chinese, supply, farms, malaysian, told, vegetables, johor"
-11,01/2022,"I am very concerned with the data released recently showing escalating food inflation.
+Malaysia Federation of Vegetable Farmers Association president Lim Ser Kwee said many farmers were badly hit by floods in states such as Johor, Selangor and Pahang.","hit, ahead, wipe, cny, food, flood, farm, ramadan, floods, high, month, chinese, supply, farms, malaysian, told, vegetables, johor",Acute climatological event
+10,Jan-22,"I am very concerned with the data released recently showing escalating food inflation.
 
 Overall and core inflation continued to climb last month, after both benchmarks hit their highest in several years the previous month (Inflation in S'pore continues to rise, surpasses Oct highs, Dec 24).
 
@@ -131,50 +125,32 @@ Jan 12, 2022, 4:43 PM",https://www.straitstimes.com/opinion/forum/forum-feeling-
 According to Trade and Industry Minister Gan Kim Yong, food in Singapore is expected to become more expensive in the coming months as energy prices increase amid higher prices for global food commodities, supply chain bottlenecks and labour shortages (Food prices set to rise amid energy and supply constraints, Nov 4).
 A trip to the supermarket for grocery shopping or to the coffee shop for a meal would show that the actual effect of food inflation might be worse than what it seems from the data.
 These are only some examples of the many common food items that have seen price increases or quantity reduction of more than 10 per cent.
-I fear that food prices may be raised again, judging from past instances when proprietors used an increase in GST to justify a hike in prices.","food, everyday, inflation, rising, prices, forum, pinch, shop, feeling, rise, hike, supply, noodles, increase, price, items"
-12,12/2021,SINGAPORE ,"Forum: Feeling the pinch from rising prices of everyday food items
+I fear that food prices may be raised again, judging from past instances when proprietors used an increase in GST to justify a hike in prices.","food, everyday, inflation, rising, prices, forum, pinch, shop, feeling, rise, hike, supply, noodles, increase, price, items",Economic Crisis
+11,Dec-21,SINGAPORE ,"Forum: Feeling the pinch from rising prices of everyday food items
 Jan 1, 2022, 12:15 AM",https://www.straitstimes.com/singapore/consumer/fish-vegetable-supplies-largely-undampened-by-malaysia-floods-but-prices-remain-uneven,"SINGAPORE - While floods have ravaged Malaysia, major retailers and industry players in Singapore said the overall supply of fish and vegetables here remains stable.
 Singapore Fish Merchants' General Association said the rain causing floods in Malaysia have deterred fishermen from going out to sea, while Punggol Fish Merchants Association cited the usual year-end monsoon season for the price hike.
 ""Supply from fish farms, such as seabass, red snapper and golden pomfret, are not affected,"" he added, referring to farms in both Singapore and Malaysia.
 Mr Daniel Pe, who chairs the Punggol Fish Merchants Association, said: ""Nowadays, our sources are quite diverse, our supply won't be affected by a single source.
-About 64 per cent of the 80,434 tonnes of leafy vegetables Singapore imported last year came from Malaysia.","vegetable, remain, cent, kg, despite, merchants, floods, singapore, fish, malaysia, supplies, increase, price, vegetables, cost, stable"
-13,12/2021,SINGAPORE ,"Fish, vegetable supplies remain stable despite Malaysia floods
+About 64 per cent of the 80,434 tonnes of leafy vegetables Singapore imported last year came from Malaysia.","vegetable, remain, cent, kg, despite, merchants, floods, singapore, fish, malaysia, supplies, increase, price, vegetables, cost, stable",Acute climatological event
+12,Dec-21,SINGAPORE ,"Fish, vegetable supplies remain stable despite Malaysia floods
 Dec 22, 2021, 7:08 PM",https://www.straitstimes.com/singapore/consumer/most-hawkers-say-they-are-unlikely-to-raise-prices-despite-rising-cost-of,"SINGAPORE - Despite the cost of essentials such as electricity, cooking oil and vegetables having gone up by as much as 30 per cent in recent months, most hawkers The Straits Times spoke to are delaying plans to hike the prices of their dishes.
-Instead, they are letting higher costs eat into their earnings, as many fear losing their regular customer base after an already tough year of fluctuating Covid-19 dining restrictions.","despite, cost, rising, prices, tough, spoke, regular, raise, recent, singapore, restrictions, times, straits, say, hawkers, vegetables, essentials, unlikely"
-14,12/2021,SINGAPORE ,"Most hawkers say they are unlikely to raise prices despite rising cost of essentials
+Instead, they are letting higher costs eat into their earnings, as many fear losing their regular customer base after an already tough year of fluctuating Covid-19 dining restrictions.","despite, cost, rising, prices, tough, spoke, regular, raise, recent, singapore, restrictions, times, straits, say, hawkers, vegetables, essentials, unlikely",Economic Crisis
+13,Dec-21,SINGAPORE ,"Most hawkers say they are unlikely to raise prices despite rising cost of essentials
 Dec 12, 2021, 6:23 PM",https://www.straitstimes.com/business/economy/rice-to-bananas-how-inflation-has-affected-the-prices-of-five-grocery-items-in,"SINGAPORE - The spectre of rising inflation looms large as global economies bounce back from the troughs of the Covid-19 pandemic and the supply chain crunch wears on.
-Singapore has not been spared, with inflation hitting an eight-year peak in October - 3.2 per cent on a year-on-year basis - partly due to costlier cars and higher housing rents.","spectre, grocery, inflation, yearonyear, prices, rising, bananas, rice, rents, singapore, wears, affected, troughs, supply, items, spared"
-15,11/2021,SINGAPORE ,"Rice to bananas: How inflation has affected the prices of 5 grocery items in Singapore
+Singapore has not been spared, with inflation hitting an eight-year peak in October - 3.2 per cent on a year-on-year basis - partly due to costlier cars and higher housing rents.","spectre, grocery, inflation, yearonyear, prices, rising, bananas, rice, rents, singapore, wears, affected, troughs, supply, items, spared",Economic Crisis
+14,Nov-21,SINGAPORE ,"Rice to bananas: How inflation has affected the prices of 5 grocery items in Singapore
 Dec 3, 2021, 5:15 PM",https://www.straitstimes.com/singapore/consumer/vegetable-prices-jump-after-wet-weather-in-malaysia,"SINGAPORE - The year-end monsoon season in Malaysia has resulted in more expensive vegetables sold here, with some almost doubling in price from a few weeks ago.
 Local vegetable sellers said the price hike is not unexpected, adding that leafy greens are easily damaged by torrential rain.
 ""While Malaysia is an important source for vegetables, we also source vegetables from Thailand, Indonesia, China and from local farms as well,"" she added.
 Malaysia is the largest supplier of vegetables here, accounting for 42 per cent of Singapore's fresh and chilled vegetables supply last year.
-According to the Malaysian Meteorological Department, Malaysia has been experiencing heavy rainfall and thunderstorms since Sept 24, with the monsoon weather expected to continue into late November.","vegetable, cent, prices, source, supermarket, jump, malaysia, vegetables, weather, monsoon, wet, price, spore"
-16,11/2021,GEORGE TOWN (THE STAR/ASIA NEWS NETWORK) ,"Vegetable prices in S'pore jump after wet weather in Malaysia
+According to the Malaysian Meteorological Department, Malaysia has been experiencing heavy rainfall and thunderstorms since Sept 24, with the monsoon weather expected to continue into late November.","vegetable, cent, prices, source, supermarket, jump, malaysia, vegetables, weather, monsoon, wet, price, spore",Acute climatological event
+15,Nov-21,GEORGE TOWN (THE STAR/ASIA NEWS NETWORK) ,"Vegetable prices in S'pore jump after wet weather in Malaysia
 Nov 25, 2021, 3:53 PM",https://www.straitstimes.com/asia/se-asia/veggie-prices-in-malaysia-up-due-to-bad-weather-and-strong-demand,"GEORGE TOWN (THE STAR/ASIA NEWS NETWORK) - Bad weather and strong demand have led to an increase in vegetable prices in Malaysia.
 Penang Island Vegetable Wholesalers Association chairman Tan Ban Ben said the price and supply of vegetables are largely determined by weather.
 ""The rainy season also sees imported vegetables from Thailand costing more,"" he said.
 Mr Tan said the vegetable supply will be adequate for upcoming festivities, adding that prices would be reduced once the rainy season is over.
-Consumer Association of Penang (CAP) president Mohideen Abdul Kadir said for the past two weeks, prices of some vegetables have increased by almost 200 per cent.","tan, vegetable, cent, strong, bad, season, prices, rainy, demand, malaysia, weeks, weather, chilli, price, vegetables, veggie"
-17,10/2021,LONDON (REUTERS) ,"Veggie prices in Malaysia up due to bad weather and strong demand
-Nov 24, 2021, 12:00 PM",https://www.straitstimes.com/world/europe/more-britons-struggling-to-pay-bills-poll-shows,"Seven in 10 respondents worried that fresh food and fuel prices would rise over the next few months, Kantar said.
-The share of people concerned about not being able to afford to keep their home warm during the winter months also climbed by nine points between September and October to 62 per cent.
-British utility bills rose earlier this month as a price cap on the most widely used tariffs increased by around 12 per cent.
-It is considering when to raise interest rates from their all-time low of 0.1 per cent.
-Kantar interviewed 1,075 people between Oct 14 and Oct 18.","points, cent, meet, bills, widely, months, worried, britons, winter, shows, oct, monthly, poll, kantar, pay, struggling"
-18,10/2021,"Last year's Nobel Peace Prize went to the World Food Programme for its efforts to combat hunger. That brought attention to the cause, but the world's willingness to avert a preventable crisis seems to remain half","More Britons struggling to pay bills, poll shows
-Oct 21, 2021, 7:20 AM",https://www.straitstimes.com/opinion/st-editorial/global-will-needed-to-head-off-hunger,"Last year's Nobel Peace Prize went to the World Food Programme for its efforts to combat hunger.
-That brought attention to the cause, but the world's willingness to avert a preventable crisis seems to remain half-hearted.
-After two decades of decline, the number of people facing hunger has been on the rise since the mid-2010s.
-Nearly 10 per cent of the world's population - up to 811 million people - are estimated to be undernourished.
-Sustainable Development Goals adopted in 2015 call for ending world hunger, achieving food security and promoting sustainable agriculture by 2030.","needed, food, global, world, sustainable, hunger, worlds, head, security, pandemic, million, nearly, went"
-19,10/2021,PARIS (REUTERS) ,"Global will needed to head off hunger
-Oct 18, 2021, 5:00 AM",https://www.straitstimes.com/world/world-food-prices-hit-10-year-peak-food-and-agriculture-organisation,"PARIS (REUTERS) - World food prices rose for a second consecutive month in September to reach a 10-year peak, driven by gains for cereals and vegetable oils, the United Nations (UN) food agency said on Thursday (Oct 7).
-The Rome-based Food and Agriculture Organisation (FAO) also projected record global cereal production in 2021, but it said this would be outpaced by forecast consumption.
-FAO's food price index, which tracks international prices of the most globally traded food commodities, averaged 130 points last month, the highest reading since September 2011, according to the agency's data.
-That was led by a near 4 per cent increase for wheat prices, with the UN agency citing tightening export availabilities amid strong demand.
-For cereal production, FAO projected a record world crop of 2.8 billion tonnes in 2021, up slightly from 2.788 billion estimated a month ago.","hit, wheat, cent, food, world, prices, demand, month, fao, oil, organisation, cereal, peak, agriculture, 10year"
-20,06/2021,LONDON (FINANCIAL TIMES) ,"LATEST
+Consumer Association of Penang (CAP) president Mohideen Abdul Kadir said for the past two weeks, prices of some vegetables have increased by almost 200 per cent.","tan, vegetable, cent, strong, bad, season, prices, rainy, demand, malaysia, weeks, weather, chilli, price, vegetables, veggie",Acute climatological event
+16,Jun-21,LONDON (FINANCIAL TIMES) ,"LATEST
 Global food prices post biggest jump in decade
 Jun 3, 2021, 4:20 PM
 Vegetables from Tamil Nadu triple in price in S'pore amid Covid-19 pandemic
@@ -199,150 +175,68 @@ Pagination",https://www.straitstimes.com/world/europe/world-food-price-index-sur
 The year-on-year rise in the UN Food and Agriculture Organisation's monthly index was the largest jump since 2011, as commodity prices surged.
 The higher inflation will hit poorer countries reliant on imports for staple goods.
 ""The decline in eating out was not totally compensated with eating at home, but as people start to go to restaurants again, you will see food prices rise,"" said Abdolreza Abbassian, senior economist at the FAO.
-The cost of labour, transport and shipping is expected to push prices higher in the coming months.","raw, cent, post, food, biggest, inflation, prices, rise, jump, decade, higher, global, price, products, cost"
-21,04/2021,TIRUCHIRAPPALLI ,"Global food prices post biggest jump in decade
+The cost of labour, transport and shipping is expected to push prices higher in the coming months.","raw, cent, post, food, biggest, inflation, prices, rise, jump, decade, higher, global, price, products, cost",Economic Crisis
+17,Apr-21,TIRUCHIRAPPALLI ,"Global food prices post biggest jump in decade
 Jun 3, 2021, 4:20 PM",https://www.straitstimes.com/singapore/consumer/vegetables-imported-to-singapore-from-tamil-nadu-triple-in-price-amid-covid-19,"TIRUCHIRAPPALLI - Vegetable markets in Tiruchirappalli are buzzing with activity ahead of the Tamil New Year, with traders packing brinjals, beans, cucumbers, drumsticks, mangoes, bananas and the seasonal palm fruit in export-grade bags.
 Over 70 per cent of the fresh vegetables in Singapore's Little India are flown in from Tiruchirappalli and Chennai in Tamil Nadu, said traders in Tekka market.
 Amid the Covid-19 pandemic, vegetables have become at least three times more expensive since March 2020, when India imposed a three-month lockdown, said traders in Singapore.
 Except for tomato, beetroot and leafy vegetables that traders get at cheaper prices from Malaysia and China, every other vegetable in Singapore arrives daily from India, especially Tamil Nadu.
-""There were over 120 flights taking off every month from Tiruchirappalli airport - at least 70 per cent of them going to Singapore and Malaysia.","triple, vegetable, traders, tamil, covid19, tiruchirappalli, mr, singapore, amid, nadu, india, pandemic, price, flights, vegetables, fruits"
-22,03/2021,YANGON (REUTERS) ,"Vegetables from Tamil Nadu triple in price in S'pore amid Covid-19 pandemic
+""There were over 120 flights taking off every month from Tiruchirappalli airport - at least 70 per cent of them going to Singapore and Malaysia.","triple, vegetable, traders, tamil, covid19, tiruchirappalli, mr, singapore, amid, nadu, india, pandemic, price, flights, vegetables, fruits",Pandemic
+18,Mar-21,YANGON (REUTERS) ,"Vegetables from Tamil Nadu triple in price in S'pore amid Covid-19 pandemic
 Apr 13, 2021, 5:47 PM",https://www.straitstimes.com/asia/se-asia/troubling-signs-of-myanmar-food-price-rises-since-coup-un-agency,"YANGON (REUTERS) - The UN food agency said on Tuesday (March 16) rising food and fuel prices in Myanmar since a Feb 1 military coup risk undermining the ability of poor families to feed themselves.
 The cost of fuel had risen by 15 per cent nationwide since Feb 1, raising concern about further food price increases, it said.
 ""These rising food and fuel prices are compounded by the near paralysis of the banking sector, slowdowns in remittances, and widespread limits on cash availability,"" the WFP said.
 The military defended its coup saying its complaints of fraud in a November election won by Ms Suu Kyi's party had been ignored.
-Myanmar, once Asia's main rice basket, was among the region's poorest countries after the military seized power in a 1962 coup and imposed an autarchic ""way to socialism"".","coup, food, military, cent, rises, signs, prices, myanmar, state, rising, yangon, rice, agency, wfp, troubling, price"
-23,02/2021,WASHINGTON (BLOOMBERG) ,"'Troubling' signs of Myanmar food price rises since military coup: UN agency
+Myanmar, once Asia's main rice basket, was among the region's poorest countries after the military seized power in a 1962 coup and imposed an autarchic ""way to socialism"".","Lessons, crisis, food, worship, worldwide, windfall, onion, contributor, india, garlic, wrote, statesman, indias, price, vegetables, onions",Localised military conflict
+19,Feb-21,WASHINGTON (BLOOMBERG) ,"'Troubling' signs of Myanmar food price rises since military coup: UN agency
 Mar 16, 2021, 2:08 PM",https://www.straitstimes.com/world/united-states/five-hotspots-where-food-prices-are-getting-people-worried,"Since the start of the year, protests have raged in Sudan, while anxieties over securing food contributed to strife in Lebanon and Tunisia, ground zero for the Arab Spring uprisings a decade ago.
 Even rich countries like the United Arab Emirates are considering possible price caps on some foods.
 Brazil: Populist pressureLatin America's biggest economy stands out among emerging markets for having the fastest increase in food prices in the past year relative to overall inflation because of a sustained decline in the currency, according to Oxford Economics.
 The trouble is that the money served to push up food prices, according to Ms Maria Andreia Lameiras, a researcher at the economics research institute Ipea.
-""The government dispensed money to the population with the highest expenditures on food,"" Ms Lameiras said.","price, countries, food, world, prices, worried, oil, hot, spots, rich, ms, getting, vulnerable, securing"
-24,02/2021,MANILA (REUTERS) ,"Five hot spots where food prices are getting people worried
+""The government dispensed money to the population with the highest expenditures on food,"" Ms Lameiras said.","price, countries, food, world, prices, worried, oil, hot, spots, rich, ms, getting, vulnerable, securing",Economic Crisis
+20,Feb-21,MANILA (REUTERS) ,"Five hot spots where food prices are getting people worried
 Feb 28, 2021, 2:44 PM",https://www.straitstimes.com/asia/se-asia/philippines-to-aggressively-ramp-up-pork-imports-to-tackle-price-rises,"MANILA (REUTERS) - The Philippines plans to increase pork imports this year to roughly 400,000 tonnes, more than double the initial proposal, as it seeks to cover a domestic shortfall that has pushed market prices higher, its farm minister said on Tuesday (Feb 9).
 Philippine inflation hit a two-year high in January, partly due to higher pork prices.
 ""We have a potential deficit of almost 400,000 metric tonnes, so we need supply augmentation,"" Mr Dar said.
 The plan is still subject to a review by a Cabinet panel before it is recommended for final approval by President Rodrigo Duterte.
-The public shock over spikes in meat prices has also prompted the government to allot billions of pesos for hog repopulation and impose a two-month price cap for both pork and chicken in the capital region, starting this week.","higher, inflation, rises, aggressively, prices, meat, hog, ramp, panel, imports, tackle, supply, philippines, price, dar, tonnes, pork"
-25,02/2021,SEOUL (Bloomberg) ,"Philippines to aggressively ramp up pork imports to tackle price rises
+The public shock over spikes in meat prices has also prompted the government to allot billions of pesos for hog repopulation and impose a two-month price cap for both pork and chicken in the capital region, starting this week.","higher, inflation, rises, aggressively, prices, meat, hog, ramp, panel, imports, tackle, supply, philippines, price, dar, tonnes, pork",Economic Crisis
+21,Feb-21,SEOUL (Bloomberg) ,"Philippines to aggressively ramp up pork imports to tackle price rises
 Feb 9, 2021, 4:31 PM",https://www.straitstimes.com/asia/east-asia/unrelenting-bird-flu-spread-sparks-egg-shortages-in-south-korea,"Given the scale of culling, South Korea is among the worst hit in the world, but it's not alone in its struggles.
 Eggs sold by South Korean farmers almost doubled from year-ago levels to about 1,924 won (S$2.30) for 10 extra-large ones.
 Retail prices rose 43 per cent to 2,477 won, according to the agriculture ministry.
 Chicken, which a South Korean person consumes more of than a Japanese or Chinese, gained 16 per cent.
-It's also bringing in more than 20 million eggs from the US by Feb 10 to bolster supply.","korea, unrelenting, used, shortages, prices, south, won, egg, store, eggs, korean, sparks, flu, bird, million, previous, retail, spread"
-26,01/2021,BEIJING ,"Unrelenting bird flu spread sparks egg shortages in South Korea
-Feb 8, 2021, 6:39 AM",https://www.straitstimes.com/asia/east-asia/beijing-under-pressure-over-rising-food-prices-ahead-of-chinese-new-year-celebrations,"BEIJING - The Chinese government is under pressure over rising food prices ahead of the Chinese New Year festivities, with a combination of Covid-19 disruptions and colder than usual winter weather putting a crimp on supplies.
-Meat, vegetable and cooking oil prices have risen in recent weeks, at a time of increased consumption as families prepare to celebrate the most important holiday of the year in China.","ahead, vegetable, suppliesmeat, food, celebrations, rising, prices, chinese, winter, pressure, weeks, weather, beijing, risen, usual"
-27,01/2021,WASHINGTON (REUTERS) ,"Beijing under pressure over rising food prices ahead of CNY celebrations
-Jan 26, 2021, 7:59 PM",https://www.straitstimes.com/world/united-states/biden-to-issue-order-targeting-us-hunger-crisis,"Some 16 million are now receiving some type of unemployment benefit, and an estimated 29 million don't have enough to eat.
-In the first order, Biden will ask the Treasury Department to consider taking steps to expand and improve delivery of stimulus cheques, such as establishing online tools for claiming payments.
-Biden's directive also eliminates a Trump order that allowed federal agencies to move many career federal employees into a category without job protections and putting them at risk of being fired.
-The White House fact sheet called the Trump order ""nothing more than an attempt to gut the career civil servant class and further marginalise career civil service employees.""
-""Its existence threatens the critical protections of career employees and provides a pathway to burrow political appointees into the civil service,"" it said.","biden, order, million, issue, white, service, stimulus, hunger, career, trump, sheet, crisis, protections, orders, targeting"
-28,12/2020,You have reached your limit of subscriber,"Biden to issue order targeting US hunger crisis
-Jan 22, 2021, 6:47 PM",https://www.straitstimes.com/life/sheng-siong-ceo-lim-hock-chee-expands-supermarket-chain-amid-soaring-profits,"You have reached your limit of subscriber-only articles this month.
-Get unlimited access to all stories at $0.99/month for the first 3 months.","soaring, chain, months, articles, reached, unlimited, hock, access, expands, lim, 099month, subscriberonly, siong, sheng, profits, limit, supermarket, monthget, chee"
-29,11/2020,CHICAGO (BLOOMBERG) ,"Pandemic Power List: Sheng Siong CEO Lim Hock Chee expands supermarket chain amid soaring profits
-Dec 26, 2020, 11:00 AM",https://www.straitstimes.com/business/companies-markets/cheese-prices-plunge-as-lockdowns-bite-into-dining-business,"CHICAGO (BLOOMBERG) - Cheese prices are plunging as Covid's second wave drives diners from restaurants.
-Prices for cheese blocks, the type that graces party platters, slipped 13 per cent this year to about US$1.66 (S$2.23) a pound, according to Chicago Mercantile Exchange data.
-Cheese blocks futures, which are above US$2 a pound, are expected to sink as low as US$1.49 by that period, the firm said.
-The latest lockdowns threaten to dent prices in a downturn that's set to deepen as more restaurants and schools close their doors and feed fewer people.
-Still, fast-food outlets and take-out restaurants may help blunt the impact for dairy producers.","dining, lockdowns, restaurants, state, cheese, dairy, prices, bite, pound, second, schools, thats, business, takeout, plunge"
-30,09/2020,"I applaud supermarket chain Giant's initiative to reduce the prices of 650 daily essentials for six months (Giant to lower prices of essentials for 6 months, Sept 24).
-
-Every cent counts, especially during this period of hardship and uncertainty due to the ongoing Covid","LATEST
-Supermarkets should take cue from Giant's move
-Sep 25, 2020, 10:36 PM
-Indonesia to cull millions of chickens, curb egg hatching to support prices
-Sep 1, 2020, 5:26 PM
-Look into cost of primary school canteen food
-Jul 27, 2020, 11:40 PM
-No money in posh coffee for growers slammed by Covid-19 pandemic
-Jun 17, 2020, 1:28 PM
-Coronavirus: World Bank warns pandemic could pressure food supply chain
-Apr 23, 2020, 10:30 PM
-Global shoppers hoarding rice costs Vietnam its stockpile amid coronavirus pandemic
-Apr 17, 2020, 4:37 PM
-California farmer destroys lettuce crop after coronavirus shutters restaurant market
-Apr 16, 2020, 11:15 AM
-Key food prices surging in some parts of the world from coronavirus effect
-Apr 7, 2020, 7:35 AM
-World food prices fall sharply in March because of coronavirus, oil slump: UN
-Apr 2, 2020, 4:34 PM
-Coronavirus: New Zealanders see red over surging cauliflower prices
-Apr 1, 2020, 12:26 PM
-Pagination",https://www.straitstimes.com/forum/forum-supermarkets-should-take-cue-from-giants-move,"I applaud supermarket chain Giant's initiative to reduce the prices of 650 daily essentials for six months (Giant to lower prices of essentials for 6 months, Sept 24).
-Every cent counts, especially during this period of hardship and uncertainty due to the ongoing Covid-19 pandemic.
-Lowering the prices of essential food items will certainly help strengthen the family meal budget.
-Besides Giant's price reduction move and FairPrice's price freeze of 100 house brand items, I hope other major supermarket chains will follow suit (FairPrice freezes prices of 100 daily essentials till year end, June 23).
-More than anything else, such a benevolent move is a pivotal part of corporate social responsibility of a large business corporation.","daily, cue, giants, prices, months, forum, help, supermarkets, supermarket, hardship, price, items, essentials"
-31,09/2020,JAKARTA (REUTERS) ,"Supermarkets should take cue from Giant's move
-Sep 25, 2020, 10:36 PM",https://www.straitstimes.com/asia/se-asia/indonesia-to-cull-millions-of-chickens-curb-egg-hatching-to-support-prices,"JAKARTA (REUTERS) - Indonesia's farming ministry has ordered breeders to cull millions of chickens and reduce the number of hatching eggs to control a slump in poultry prices, the ministry said in a statement on Tuesday (Sept 1).
-Oversupply of chickens has been a recurring problem in Indonesia, where last year the government told poultry breeders to cull around three million chickens.
-The farming ministry told breeders on Java island to cull 4.4 million chickens by Sept 13, according to a circular from the ministry.
-It also told poultry companies to cut the number of hatching eggs by seven million per week between Aug 25 and Sept 5.
-The ministry expects the supply of chicks will start coming down this month through to December due to the policy, the statement said, while gradually improving the price of live birds.","support, millions, prices, curb, sept, hatching, live, statement, indonesia, egg, cull, chickens, poultry, million, price, told, ministry"
-32,07/2020,"I feel that the cost of primary school canteen food is a contributing factor to the high cost of living for families.
-
-For example, homemade pancake costs $1.20 a piece, while roti prata costs $1 and homemade pizza costs $1.50.
-
-A small bowl of instant noodles with a fishball and a few pieces of fish cake costs at least $1.50.
-
-A plate of white rice with chicken and cabbage costs between $1.60 and $2.
-
-The serving sizes are small.
-
-When my daughter was in Primary 5, she had to eat two servings in order to fill her stomach.
-
-To put the serving sizes in perspective, I estimate that it would take about four servings of canteen food to get a similar serving size as that at a mixed","Indonesia to cull millions of chickens, curb egg hatching to support prices
-Sep 1, 2020, 5:26 PM",https://www.straitstimes.com/forum/forum-look-into-cost-of-primary-school-canteen-food,"I feel that the cost of primary school canteen food is a contributing factor to the high cost of living for families.
-For example, homemade pancake costs $1.20 a piece, while roti prata costs $1 and homemade pizza costs $1.50.
-The serving sizes are small.
-Getting this amount of food at a primary school canteen would translate to spending $6.40 to $8.
-I hope the Ministry of Education can look into the cost of school canteen food to help parents with the cost of living.","homemade, food, canteen, costs, serving, school, primary, forum, look, servings, cost, sizes"
-33,06/2020,NEW YORK (BLOOMBERG) ,"Look into cost of primary school canteen food
+It's also bringing in more than 20 million eggs from the US by Feb 10 to bolster supply.","korea, unrelenting, used, shortages, prices, south, won, egg, store, eggs, korean, sparks, flu, bird, million, previous, retail, spread",Pandemic
+22,Jun-20,NEW YORK (BLOOMBERG) ,"Look into cost of primary school canteen food
 Jul 27, 2020, 11:40 PM",https://www.straitstimes.com/business/economy/no-money-in-posh-coffee-for-growers-slammed-by-covid-19-pandemic,"NEW YORK (BLOOMBERG) - Covid-19 is making coffee growing unprofitable for Adan Rojas.
 Like thousands of small Colombian farmers, the pandemic forced him to use out-of-work locals to harvest his beans as travel restrictions kept out experienced seasonal pickers.
 ""You can still sell that coffee, but once it hits the ground, it's contaminated,"" said Mr Rojas, who expects to break even this season.
 The skilled labour squeeze is the latest pandemic-era blow for growers like Mr Rojas.
-Like Colombia, Costa Rica is looking to use pools of locals who have lost their jobs to harvest its mainly premium beans.","york, covid19, costa, growers, rojas, posh, labour, restrictions, slammed, pandemic, harvest, locals, coffee, money, beans"
-34,04/2020,WASHINGTON (AFP) ,"No money in posh coffee for growers slammed by Covid-19 pandemic
+Like Colombia, Costa Rica is looking to use pools of locals who have lost their jobs to harvest its mainly premium beans.","york, covid19, costa, growers, rojas, posh, labour, restrictions, slammed, pandemic, harvest, locals, coffee, money, beans",Pandemic
+23,Apr-20,WASHINGTON (AFP) ,"No money in posh coffee for growers slammed by Covid-19 pandemic
 Jun 17, 2020, 1:28 PM",https://www.straitstimes.com/world/coronavirus-world-bank-warns-pandemic-could-pressure-food-supply-chain,"WASHINGTON (AFP) - The coronavirus outbreak and government policies to limit the disease could disrupt food supply chains, potentially threatening food availability, even as prices remain stable in 2020, the World Bank cautioned on Thursday (April 23).
 Prices of agricultural commodities are likely to hold up better than oil, metals and other industrial materials that have seen demand plummet amid lockdowns and other measures to combat Covid-19, the World Bank said in a report.
 John Baffes, a World Bank economist and co-author of the report, said exports of flowers to Europe from Kenya and Tanzania have ""collapsed"" and that North African fruit and vegetable suppliers also are suffering.
 ""Although these measures have not yet been used widely, they could lead to problems if they are used extensively,"" the report said.
-Meanwhile, the World Bank expects energy prices to fall 40 per cent in 2020 before experiencing a ""sizeable rebound"" in 2021.","used, remain, warns, food, world, coronavirus, chain, bank, prices, trade, report, pressure, 2020, pandemic, supply, stable"
-35,04/2020,HO CHI MINH CITY (BLOOMBERG) ,"Coronavirus: World Bank warns pandemic could pressure food supply chain
-Apr 23, 2020, 10:30 PM",https://www.straitstimes.com/asia/se-asia/global-shoppers-hoarding-rice-costs-vietnam-its-stockpile-amid-coronavirus-pandemic,"The South-east Asian nation asked local traders in March to supply rice for state stockpiles, with those offering the lowest prices winning government contracts.
-This year, the virus upended those plans, and that could push Vietnam to further tighten rice export restrictions.
-Rice prices, in Vietnam and abroad, have surged since the government tendered for supplies, and traders can no longer deliver the rice without making a loss.
-Surging pricesWholesale prices of low-quality rice in Vietnam have soared to about 10,000-10,200 dong per kg, a 10-year high.
-There were just 7,700 tonnes added to state reserves as of Tuesday, only 4 per cent of the 190,000 tonnes planned for this year, the department said.","traders, stockpile, global, costs, coronavirus, food, state, shoppers, prices, loss, rice, amid, hoarding, pandemic, supply, vietnam, reserves, tonnes"
-36,04/2020,"HOLTVILLE, CALIFORNIA (REUTERS) ","Global shoppers hoarding rice costs Vietnam its stockpile amid coronavirus pandemic
-Apr 17, 2020, 4:37 PM",https://www.straitstimes.com/business/economy/california-farmer-destroys-lettuce-crop-after-coronavirus-shutters-restaurant,"""You put your blood, sweat and tears into a crop,"" said Vessey, president of Vessey and Company, Inc. ""To just disc it into the ground: It's painful.""
-But he said he couldn't justify paying for labour, and packaging and storage for a crop that distributors were not buying.
-Vessey, a fourth-generation farmer, plowed under some 350 acres of lettuce, or approximately US$1.46 million (S$2.1 million) worth of crop.
-Other growers in California, the top US fruit and vegetable producing state, are facing the same dilemma.
-Imperial County, California, on the Arizona border produces around US$1.2 billion in vegetables per year, according to Kay Pricola, the executive director of the Imperial Valley Vegetable Growers Association.","vegetable, restaurants, coronavirus, lettuce, california, vessey, growers, farmer, destroys, crop, market, vegetables, worth, million, shutters, produce, restaurant"
-37,04/2020,NEW YORK (BLOOMBERG) ,"California farmer destroys lettuce crop after coronavirus shutters restaurant market
+Meanwhile, the World Bank expects energy prices to fall 40 per cent in 2020 before experiencing a ""sizeable rebound"" in 2021.","used, remain, warns, food, world, coronavirus, chain, bank, prices, trade, report, pressure, 2020, pandemic, supply, stable",Pandemic
+24,Apr-20,NEW YORK (BLOOMBERG) ,"California farmer destroys lettuce crop after coronavirus shutters restaurant market
 Apr 16, 2020, 11:15 AM",https://www.straitstimes.com/business/economy/key-food-prices-surging-in-some-parts-of-the-world-from-coronavirus-effect,"NEW YORK (BLOOMBERG) - As the coronavirus pandemic penetrates more deeply into global supply chains, prices for key staples are starting to soar in some parts of the world.
 However, food prices don't move uniformly around the world.
 Export prices for rice from Thailand, the world's second-biggest shipper, are at a six-year high.
 There are also signs that price gains could be making their way to consumers for some foods in the US.
-Wholesale egg prices rose to a record as grocers boosted orders by as much as six times normal volumes.","food, effect, world, coronavirus, right, prices, rice, making, parts, surging, supply, pandemic, global, staples, price, key"
-38,04/2020,ROME (REUTERS) ,"Key food prices surging in some parts of the world from coronavirus effect
+Wholesale egg prices rose to a record as grocers boosted orders by as much as six times normal volumes.","food, effect, world, coronavirus, right, prices, rice, making, parts, surging, supply, pandemic, global, staples, price, key",Pandemic
+25,Apr-20,ROME (REUTERS) ,"Key food prices surging in some parts of the world from coronavirus effect
 Apr 7, 2020, 7:35 AM",https://www.straitstimes.com/world/europe/world-food-prices-fall-sharply-in-march-because-of-coronavirus-oil-slump-un,"ROME (REUTERS) - World food prices fell sharply in March, hit by a drop in demand tied to the coronavirus pandemic and a plunge in global oil prices, the United Nations food agency said on Thursday (April 2).
 The Food and Agriculture Organisation (FAO) food price index, which measures monthly changes for a basket of cereals, oil seeds, dairy products, meat and sugar, averaged 172.2 points last month, down 4.3 per cent on February.
 The FAO's sugar price index posted the biggest fall, down 19.1 per cent from the previous month.
 The drop was triggered by a reduction in consumption linked to the virus lockdowns seen in many countries, and lower demand from ethanol producers due to the recent dive in crude oil prices, the Rome-based agency said.
-The vegetable oil price index slumped 12 per cent, pushed down by sliding palm oil prices, which was linked to a plunge in crude mineral oil prices and growing uncertainty over the impact of coronavirus on the market.","vegetable, cent, food, coronavirus, world, prices, fall, index, sharply, demand, sugar, oil, price, slump, fao"
-39,04/2020,WELLINGTON (AFP) ,"World food prices fall sharply in March because of coronavirus, oil slump: UN
+The vegetable oil price index slumped 12 per cent, pushed down by sliding palm oil prices, which was linked to a plunge in crude mineral oil prices and growing uncertainty over the impact of coronavirus on the market.","vegetable, cent, food, coronavirus, world, prices, fall, index, sharply, demand, sugar, oil, price, slump, fao",Pandemic
+26,Apr-20,WELLINGTON (AFP) ,"World food prices fall sharply in March because of coronavirus, oil slump: UN
 Apr 2, 2020, 4:34 PM",https://www.straitstimes.com/asia/australianz/kiwis-cheesed-off-at-surging-cauliflower-costs,"WELLINGTON (AFP) - The coronavirus pandemic has upended life for billions, but New Zealanders tolerating strict lockdown laws have drawn the line at surging cauliflower prices and are demanding the government act.
 Rather than profiteering from soaring demand for face masks and cleaning products, or even alcohol and cigarettes, Kiwi retailers stand accused of dirty tactics in the vegetable aisle.
 ""The most common complaint was... the high price of cauliflower, with some e-mails quoting NZ$13 (S$11) each,"" she told reporters on Wednesday.
 ""Prices of hand sanitiser, bread, meat, face masks and garlic also featured.
-Statistics New Zealand's website has cauliflower pricing information going back more than a decade, showing the vegetable cost about NZ$4 at the end of last year.","vegetable, face, zealanders, coronavirus, zealands, red, prices, cauliflower, surging, masks, emails, price, cost, complaints"
-40,03/2020,WASHINGTON (REUTERS) ,"LATEST
+Statistics New Zealand's website has cauliflower pricing information going back more than a decade, showing the vegetable cost about NZ$4 at the end of last year.","vegetable, face, zealanders, coronavirus, zealands, red, prices, cauliflower, surging, masks, emails, price, cost, complaints",Pandemic
+27,Mar-20,WASHINGTON (REUTERS) ,"LATEST
 US egg prices hit record levels as pandemic buying boosts demand
 Mar 27, 2020, 8:38 AM
 Revolutionary squads guard Sudan's bakeries to battle corruption
@@ -367,172 +261,29 @@ Pagination",https://www.straitstimes.com/world/united-states/us-egg-prices-hit-r
 Consumer prices have also increased, although not quite as much as wholesale prices, experts said, since some grocery stores have not passed on the higher wholesale prices - at least for now.
 Brian Moscoguiri, a director with Urner Barry, said the current spike in wholesale prices exceeded that seen in 2015 during the avian flu outbreak and was due to increased demand.
 ""Egg prices are up because demand is up sharply.
-Suppliers are seeing four, five, six times the level of demand as before, and there's essentially a fixed supply.""","hit, urner, prices, increased, boosts, egg, demand, eggs, buying, record, levels, consumers, pandemic, moscoguiri, united, wholesale, states"
-41,02/2020,KHARTOUM (REUTERS) ,"US egg prices hit record levels as pandemic buying boosts demand
-Mar 27, 2020, 8:38 AM",https://www.straitstimes.com/world/middle-east/revolutionary-squads-guard-sudans-bakeries-to-battle-corruption,"KHARTOUM (REUTERS) - As bakers in flour-stained clothes knead dough and slide trays of loaves into ovens in Sudan's capital, a cluster of yellow-vested volunteers keep watch.
-Bread was a symbol of the revolution - an attempt to raise bread prices was a trigger for the first major protests, in the city of Atbara.
-The volunteers have already caught wheat or bread being smuggled out of bakeries in Arkawit - in one case 2,000 loaves for sale at triple the price outside Khartoum, Babeker said.
-Bread is sometimes sold to restaurants at a 20 per cent mark-up, a second volunteer said.
-At a bakery in Khartoum's Al-Riyadh district, some customers waved the smaller loaves, lamenting their reduced size.","sudans, bakeries, revolutionary, bakery, loaves, khartoum, squads, volunteers, sold, bread, guard, flour, smuggling, size, price, corruption, battle"
-42,02/2020,NEW DELHI (THE STATESMAN/ASIA NEWS NETWORK) ,"Revolutionary squads guard Sudan's bakeries to battle corruption
-Feb 19, 2020, 9:18 PM",https://www.straitstimes.com/asia/lessons-from-the-onion-price-crisis-statesman-contributor,"The knee-jerk reactions, such as onion imports and export bottlenecks, are no solution to the deep-rooted problem.
-While the people at the bottom of the pyramid can't afford to consume onions, the unscrupulous traders and hoarders make a windfall in the time of crisis.
-The Jains exclude onions, garlic and other root vegetables for a similar reason.
-For instance, Egyptians believed that the onion was a symbol of eternity and an object of worship because of this vegetable's circle-within-a-circle structure.
-But perceptions have drastically changed; the debate on the onion's profanity or sacredness is no longer relevant.","lessons, crisis, food, worship, worldwide, windfall, onion, contributor, india, garlic, wrote, statesman, indias, price, vegetables, onions"
-43,01/2020,SINGAPORE ,"Lessons from India's onion price crisis: Statesman contributor
-Feb 6, 2020, 9:30 AM",https://www.straitstimes.com/singapore/cheaper-prawns-and-vegetables-for-cny-but-popular-fish-prices-expected-to-rise,"SINGAPORE - Shelling out extra for prawns has become an unwelcome Chinese New Year tradition but not so this year, with prices down about 20 per cent thanks to good catches from Indonesia.
-Mid-sized prawns were going for $10 to $16 a kg at Chong Pang market on Thursday (Jan 16), well under the $40 a kg they have hit in past festive seasons.","popular, seasons, cny, 16, kg, unwelcome, tradition, prices, rise, singapore, fish, cheaper, expected, thanks, shelling, vegetables, prawns"
-44,12/2019,SINGAPORE ,"Cheaper prawns and vegetables for CNY, but prices of popular fish expected to rise
+Suppliers are seeing four, five, six times the level of demand as before, and there's essentially a fixed supply.""","hit, urner, prices, increased, boosts, egg, demand, eggs, buying, record, levels, consumers, pandemic, moscoguiri, united, wholesale, states",Pandemic
+28,Dec-19,SINGAPORE ,"Cheaper prawns and vegetables for CNY, but prices of popular fish expected to rise
 Jan 16, 2020, 4:41 PM",https://www.straitstimes.com/singapore/wet-weather-drives-up-prices-of-green-leafy-vegetables-from-malaysia,"SINGAPORE - Recent monsoon rains have affected the supply of green leafy vegetables from Malaysia and caused the price of some of them to jump.
 In particular, the price of choy sum and bok choy from Johor Baru and Cameron Highlands has shot up by 80 per cent, say wholesalers.
 Mr Jerry Tan, vice-president of the Singapore Fruits and Vegetables Importers and Exporters Association, said heavy rains have affected the supply and quality of vegetables from across the Causeway.
 Over two-thirds of the state's victims are from Kluang, Segamat and Kota Tinggi, the three most severely hit areas.
-Vendors said that wet markets are more likely than supermarkets to be affected by the rains as they rely on a single or limited pool of supplies.","drives, prices, green, singapore, malaysia, kok, affected, rains, weather, supply, wet, monsoon, price, leafy, vegetables, johor"
-45,12/2019,"""I wonder if it is necessary to eat such expensive food? We get onions, but a lesser amount. We get 100 grams or 200 grams for the house,"" he said. ""One kilo of onions is out of my reach,"" he added.
-
-High onion prices can be costly, politically. In 1998, a government run by the Bharatiya Janata Party in Delhi was booted out of office because state elections coincided with a rise in onion prices.
-
-Prime Minister Narendra Modi is in no danger of being toppled, but the onion prices have added to his government's economic troubles.
-
-India's economy expanded at its slowest, at 4.5 per cent, in the July","Wet weather drives up prices of green leafy vegetables from Malaysia
-Dec 18, 2019, 11:46 PM",https://www.straitstimes.com/asia/south-asia/india-in-the-grip-of-an-onion-crisis-for-the-second-time-in-3-months,"High onion prices can be costly, politically.
-In 1998, a government run by the Bharatiya Janata Party in Delhi was booted out of office because state elections coincided with a rise in onion prices.
-Prime Minister Narendra Modi is in no danger of being toppled, but the onion prices have added to his government's economic troubles.
-""The common person may not understand the nuances of other issues, including slowing economic growth, but will be bothered about high prices of onions.""
-In Nepal, which is dependent on India for its supplies, prices of onions have gone up 300 per cent.","economic, second, months, onion, prices, high, store, retailers, month, india, grip, slowest, crisis, tonnes, onions"
-46,11/2019,KUALA LUMPUR ,"India in the grip of an onion crisis for the second time in 3 months
-Dec 11, 2019, 7:38 PM",https://www.straitstimes.com/asia/se-asia/malaysia-defers-new-fruit-veg-export-rules-after-traders-who-supply-singapore-complain,"KUALA LUMPUR - Malaysia's plan to revise its export permit scheme for fruits and vegetables has been deferred to April, amid complaints from suppliers who export fresh produce to Singapore that the new rules will raise their costs considerably.
-The traders said the move would increase their operational expenses, with some claiming costs could rise as much as 700 per cent as a result.
-He added that most lorries which cross from Malaysia into Singapore carry no more than 20 types of items on average.
-This is to make sure there's honest reporting by traders and the government can facilitate trade easily,"" he said.
-Mr Tan said discussions are under way to make the new reporting system more seamless.","fruit, vegetable, system, traders, reporting, rules, costs, export, singapore, malaysia, defers, supply, sim, increase, items, complaints"
-47,09/2019,BEIJING (AP) ,"Malaysia defers new fruit, vegetable export rules after complaints from traders who supply to Singapore
+Vendors said that wet markets are more likely than supermarkets to be affected by the rains as they rely on a single or limited pool of supplies.","drives, prices, green, singapore, malaysia, kok, affected, rains, weather, supply, wet, monsoon, price, leafy, vegetables, johor",Acute climatological event
+29,Sep-19,BEIJING (AP) ,"Malaysia defers new fruit, vegetable export rules after complaints from traders who supply to Singapore
 Nov 28, 2019, 7:43 PM",https://www.straitstimes.com/asia/east-asia/china-releases-stockpiled-pork-to-cool-price-surge,"The price of pork, China's staple meat, has soared almost 50 per cent from a year ago due to a devastating outbreak of African swine fever that killed or prompted authorities to destroy pigs.
 That has pushed up global pork prices as importers buy foreign supplies.
 A government agency that manages the stockpile of frozen pork said Wednesday it will auction off 10,000 tons.
 The government keeps reserves of live pigs and frozen pork to guarantee adequate supplies.
-Details of the frozen pork reserve are secret but industry analysts estimate its size at up to 3 to 5 million metric tons.","frozen, china, prices, surge, chinas, tons, supplies, reserve, million, farmers, price, pigs, stockpiled, pork, cool, releases"
-48,09/2019,JAKARTA (BLOOMBERG) ,"China releases stockpiled pork to cool price surge
-Sep 18, 2019, 2:53 PM",https://www.straitstimes.com/asia/se-asia/indonesia-says-throw-eggs-away-to-support-chicken-meat-prices,"JAKARTA (BLOOMBERG) - In Indonesia, chickens come before eggs.
-At least in the sense that the government is asking poultry breeders to throw away eggs or give them away for free in an attempt to support slumping chicken prices.
-It is hoping that a reduction in the number of eggs that may hatch will shrink chicken supplies and prop up prices that are near a three-year low.
-The plan follows an order in June to cull parent-stock chickens that are older than 68 weeks to ensure breeders fetch good prices for their flocks.
-In an effort to help the poultry industry, the government is looking to cut supplies to boost farm-gate prices.","support, tells, prices, meat, breeders, indonesia, eggs, chickens, weeks, supplies, away, chicken, poultry, throw, centre"
-49,06/2019,SINGAPORE ,"Indonesia tells poultry breeders to throw eggs away to support chicken meat prices
+Details of the frozen pork reserve are secret but industry analysts estimate its size at up to 3 to 5 million metric tons.","frozen, china, prices, surge, chinas, tons, supplies, reserve, million, farmers, price, pigs, stockpiled, pork, cool, releases",Pandemic
+30,Jun-19,SINGAPORE ,"Indonesia tells poultry breeders to throw eggs away to support chicken meat prices
 Sep 4, 2019, 12:08 PM",https://www.straitstimes.com/singapore/global-swine-fever-outbreaks-set-to-push-up-pork-prices-in-singapore,"SINGAPORE - That plate of char siu or roast pork rice may soon cost more.
-Pork prices in Singapore are set to rise as the pig disease sweeping through Asia continues to disrupt global supply.","set, fever, siu, prices, swine, outbreaks, rise, rice, singapore, sweeping, supply, global, push, roast, pork, soon"
-50,05/2019,CHICAGO (BLOOMBERG) ,"LATEST
-Trump's farm aid is deja vu for 80s traders sceptical of plan
-May 11, 2019, 4:33 PM
-Farming veteran warns China's pig crisis only getting worse
-Apr 27, 2019, 9:01 PM
-Buy local: Eggs, vegetables, fish, goat's milk and honey are farmed in Singapore
-Apr 27, 2019, 11:00 AM
-New agency will strengthen Singapore's food security, says Masagos
-Feb 12, 2019, 10:42 PM
-Farmers' group threatens street action after France delays food price rise following 'yellow vest' protests
-Dec 5, 2018, 9:00 PM
-Durian prices fall due to low customer numbers, expected to dip further
-Nov 14, 2018, 7:56 PM
-NTU team develops natural preservative that can keep food fresh a lot longer
-Aug 16, 2018, 3:59 PM
-$4.50 for one avocado: In New Zealand, soaring prices drive a black market for the fruit
-Aug 15, 2018, 9:59 AM
-Eat durians on the cheap, as long as you return the seeds at this Saigon shop
-Aug 3, 2018, 11:42 AM
-Less for more: Fans enjoying cheaper durians, thanks to oversupply
-Jul 21, 2018, 6:30 PM
-Pagination",https://www.straitstimes.com/world/united-states/trumps-farm-aid-is-deja-vu-for-80s-traders-sceptical-of-plan,"CHICAGO (BLOOMBERG) - Traders that lived through the 1980s US farm crisis have a good reason to be sceptical of President Donald Trump's new plan to help growers.
-That's because they question whether the US would really be able to ship all of the US$15 billion (S$20.4 billion) in potential federal farm-good purchases as humanitarian aid to poor countries.
-The purchases were through the Commodity Credit Corporation - an entity established in 1933 to stabilise, support and protect farm income as well as prices.
-In the 1980s, crops expanded just as the export ban caused Soviet Union countries to start buying grain elsewhere.
-At the time, growers could deliver supplies to the Commodity Credit Corporation below certain loan rates.","billion, credit, plan, farm, 80s, prices, us15, countries, traders, vu, sceptical, deja, aid, trumps, grain, union, corporation, 1980s, commodity"
-51,04/2019,WASHINGTON/BEIJING (BLOOMBERG) ,"Trump's farm aid is deja vu for 80s traders sceptical of plan
+Pork prices in Singapore are set to rise as the pig disease sweeping through Asia continues to disrupt global supply.","set, fever, siu, prices, swine, outbreaks, rise, rice, singapore, sweeping, supply, global, push, roast, pork, soon",Pandemic
+31,Apr-19,WASHINGTON/BEIJING (BLOOMBERG) ,"Trump's farm aid is deja vu for 80s traders sceptical of plan
 May 11, 2019, 4:33 PM",https://www.straitstimes.com/asia/east-asia/farming-veteran-warns-chinas-pig-crisis-only-getting-worse,"WASHINGTON/BEIJING (BLOOMBERG) - In almost 40 years of analysing commodity markets, Arlan Suderman says he has never witnessed an industry-jolting event as dramatic as the contagion spreading across China's hog farms.
 Most react in disbelief, Suderman said, but the situation is likely to worsen before it gets better.
 The viral disease, first reported in China in August, has infected swine across the nation, as well as Mongolia, Vietnam and Cambodia.
 Just last week, they reported to him that African swine fever is ""spreading just as badly as it has been, and is continuing to get worse"", he said.
-The US Department of Agriculture echoes Suderman's views, saying last month that hog farms are ""vastly"" under reporting outbreaks.","china, crisis, warns, veteran, pig, fever, chinas, swine, african, hog, spreading, worse, shows, farming, suderman, getting, sudermans"
-52,04/2019,SINGAPORE ,"Farming veteran warns China's pig crisis only getting worse
-Apr 27, 2019, 9:01 PM",https://www.straitstimes.com/lifestyle/buy-local-eggs-vegetables-fish-goats-milk-and-honey-are-farmed-in-singapore,"SINGAPORE - Foodies in Singapore are used to noshing on exotic offerings, from Spanish Iberico ham to Italian truffles to Turkish apricots.
-But the most novel produce one can consume today could be food that is grown locally.","goats, truffles, local, buy, honey, singapore, fish, eggs, today, turkish, produce, milk, used, noshing, farmed, novel, spanish, offerings, vegetables"
-53,02/2019,SINGAPORE ,"Buy local: Eggs, vegetables, fish, goat's milk and honey are farmed in Singapore
-Apr 27, 2019, 11:00 AM",https://www.straitstimes.com/singapore/parliament-new-agency-will-strengthen-singapores-food-security-says-masagos,"SINGAPORE - Singapore's new food regulator will ensure the country's food security by further developing three national strategies to obtain food, said Minister for the Environment and Water Resources Masagos Zulkifli.
-He set out the Singapore Food Agency's (SFA) priorities in Parliament on Tuesday (Feb 12) during the debate on a Bill that will pave the way for its formation on April 1 to oversee food safety and security.
-Stressing that food security is fundamental to Singapore's national security, Mr Masagos said Singapore must not be overreliant on any single food source.
-""With the formation of SFA, we will continue to strengthen Singapore's food security and reduce our vulnerability to external volatility and price hikes,"" he said.
-First, the SFA will build on existing work by the Agri-Food and Veterinary Authority (AVA) to diversity import sources, Mr Masagos said.","masagos, food, exports, mr, singapores, parliament, strengthen, agency, singapore, formation, security, sfa, national"
-54,12/2018,PARIS (REUTERS) ,"New agency will strengthen Singapore's food security, says Masagos
-Feb 12, 2019, 10:42 PM",https://www.straitstimes.com/world/europe/farmers-group-threatens-street-action-after-france-delays-food-price-rise-following,"PARIS (REUTERS) - France, reeling from violent protests over the cost of living, said on Wednesday (Dec 5) it will delay until early next year minimum food price rises, incurring the wrath of the main farmers group which called on its members to take to the streets next week.
-""This was postponed because of other issues,"" Mr Guillaume told CNews TV, referring to the widespread protests over fuel taxes which have dominated the government's agenda.
-The measures, which also include limiting bargain sales, were originally taken in a ""field-to-fork"" review of the food sector, are aimed at raising farmers' income.
-France's largest farm union FNSEA, which says higher minimum food prices will help farm producers struggling on low incomes, warned that farmers would see a delay in the adoption of the measures as a ""disastrous signal"".
-FNSEA president Christiane Lambert said farmers would take to the streets next week to ask the government to ""keep its promises"" and stop imposing excessive taxes on farmers.","minister, vest, food, group, producers, taxes, rise, delay, streets, yellow, threatens, protests, minimum, farmers, price, street, france"
-55,11/2018,SINGAPORE ,"Farmers' group threatens street action after France delays food price rise following 'yellow vest' protests
-Dec 5, 2018, 9:00 PM",https://www.straitstimes.com/singapore/durian-prices-fall-due-to-low-customer-numbers-expected-to-dip-further,"SINGAPORE - Prices for Mao Shan Wang durians are falling, as vendors in Singapore see a slump in customer numbers.
-One vendor that Lianhe Wanbao spoke to, King Fruits Durian, even slashed prices to $10 a durian on Monday (Nov 12).
-Prices are expected to fall to around $14 or $15 (per kg) because of the oversupply.""
-He plans to buy more next month when prices fall further.
-Currently, only Mao Shan Wang durians are in season.","numbers, dip, kg, shan, prices, yearend, fall, owner, durians, vendors, wang, durian, customer, low, expected"
-56,08/2018,SINGAPORE ,"Durian prices fall due to low customer numbers, expected to dip further
-Nov 14, 2018, 7:56 PM",https://www.straitstimes.com/singapore/ntu-team-develops-natural-preservative-from-flavonoids-that-can-keep-food-fresh-a-lot,"SINGAPORE - Scientists have discovered a natural preservative that keeps food fresh for at least eight times longer than artificial preservatives, and at roughly the same cost.
-""This preservative may open new doors in food preservation technologies, providing a low-cost solution for industries which could... produce healthier food that stays fresh longer,"" he said.
-""Nowadays, consumers are increasingly aware of the different additives, preservatives and chemicals in processed food.
-Said Mount Elizabeth Medical Centre consultant medical oncologist Gabriel Oon, who was not involved in the research: ""The new source of natural food preservatives from flavonoids safely produced from yeast by NTU is brilliant.""
-This is unlike currently available artificial preservatives used in most processed foods... which may cause cancer, among other adverse health effects.""","fresh, used, team, food, ntu, preservative, develops, processed, preservatives, yeast, lot, natural, flavonoids, longer"
-57,08/2018,WELLINGTON (NYTIMES) ,"NTU team develops natural preservative that can keep food fresh a lot longer
-Aug 16, 2018, 3:59 PM",https://www.straitstimes.com/asia/australianz/450-for-one-avocado-in-new-zealand-soaring-prices-drive-a-black-market-in-avocados,"Ms Jen Scoular, chief executive of the industry body New Zealand Avocado, said the thefts were mostly ""opportunistic"", as criminals saw a way to make money from the shortage.
-Law-abiding citizens, meanwhile, have deluged garden centres with requests for avocado trees, often having to settle for being put on a waiting list.
-Avocado toast has become a hit among young, health-conscious adults in New Zealand as well as in other countries.
-The store did not currently have any avocado trees in stock and was awaiting another shipment, he said.
-Those eager to secure their own avocado toast supply will need patience, Mr Grilli said.","fruit, drive, soaring, black, 450, mr, prices, toast, worth, thieves, avocado, tree, trees, zealand, market, avocados"
-58,08/2018,"Want cheap durians? Return your seeds after polishing off the fruit.
-
-This is what one shop in Vietnam's Saigon is doing. And business has been brisk.
-
-Hundreds line up for almost an hour outside the shop every day for its cheaper durians which go on sale at 1pm. The fruit is sold at prices that range from 30,000 dong (S$1.80) to 40,000 dong per kg.
-
-The owner of the shop Le Hong Long explained his way of business in a report in Vietnamese newspaper VN Express: ""The demand for durian seeds is very high this year and the price for a kg is four times higher than last year, from 30,000 dong to 120,000 dong. So we use this way to collect the seeds and grow durians for our next season.
-
-""The durians are cheaper, at half the current market price since we collect the seeds. But we still make a profit even if it's not much.""
-
-When the shop first started the seed redemption, customers were required to eat the durians on the premises and return the seeds on the spot. But as space was limited, customers were allowed to take the durians home if they put down a refundable deposit ","$4.50 for one avocado: In New Zealand, soaring prices drive a black market for the fruit
-Aug 15, 2018, 9:59 AM",https://www.straitstimes.com/lifestyle/food/eat-durians-for-cheap-as-long-as-you-return-the-seeds-at-this-saigon-shop,"Hundreds line up for almost an hour outside the shop every day for its cheaper durians which go on sale at 1pm.
-When the shop first started the seed redemption, customers were required to eat the durians on the premises and return the seeds on the spot.
-Durian seeds are considered unusable after two days.
-These durians are sold out in one afternoon and the shop collects about 50kg of seeds every day.
-Due to high demand and the shop's policy of allowing only 10 customers at a time to choose their durians, customers have to wait almost an hour for their durians.","customers, saigon, dong, shop, durians, cheaper, eat, return, way, seeds, durian, cheap, price, long"
-59,07/2018,SINGAPORE ,"Eat durians on the cheap, as long as you return the seeds at this Saigon shop
-Aug 3, 2018, 11:42 AM",https://www.straitstimes.com/lifestyle/food/less-for-more-fans-enjoying-cheaper-durians-thanks-to-oversupply,"SINGAPORE - This durian season, design and media lecturer Jit Lim, 44, has been indulging in the fruit - one of his favourites - at least once a week.
-In previous seasons, he could do so only once or twice a month due to its cost.","fans, season, oversupply, media, lecturer, twice, durians, singapore, cheaper, month, lim, previous, thanks, weekin, enjoying, seasons"
-60,07/2018,SINGAPORE ,"LATEST
-More durians imported into Singapore so far this year than same period in 2017
-Jul 19, 2018, 6:39 PM
-Wet weather drives up fruit and vegetable prices; wholesalers to absorb costs for now
-Jan 15, 2018, 9:52 PM
-High prices for haute cuisine in France this Christmas
-Dec 22, 2017, 2:12 PM
-NTUC FairPrice launches house brand formula milk, prices start from $27 for 900g tin
-Sep 20, 2017, 11:55 AM
-India imposes limits on sugar stocks ahead of festive season to keep prices under control
-Aug 29, 2017, 11:59 AM
-The great cai png experiment
-Jul 6, 2017, 4:00 AM
-Indonesia launches website in bid to contain food prices, inflation
-Jun 12, 2017, 3:28 PM
-World sugar supply surplus seen fading in 2017/18
-May 10, 2017, 10:48 PM
-Florida probes Tyson Foods, Pilgrim's Pride on chicken pricing
-May 10, 2017, 7:19 PM
-Mud crab supply in Singapore drying up because of bad weather and increased demand
-Apr 10, 2017, 10:35 PM
-Pagination",https://www.straitstimes.com/singapore/more-durians-imported-into-singapore-so-far-this-year-than-same-period-in-2017,"SINGAPORE - There has been a deluge of the king of fruits in Singapore, with the number of durians imported in the first half of the year already exceeding the halfway mark for last year.
-According to the latest figures from the Agri-Food and Veterinary Authority of Singapore (AVA), 8,900 tonnes of fresh and chilled durians were imported into Singapore, more than the amount recorded at the halfway point last year when a total of 14,300 tonnes were imported for the whole of 2017.
-Of the number of durians imported so far this year, 8,300 tonnes came from Malaysia and 600 tonnes from Indonesia, the Philippines, Thailand and other countries.
-According to Shin Min Daily News, 8,900 tonnes of durian is equivalent to about 6 million durians, if one fruit weighs 1.5kg.
-This year, not only is there an abundance of the fruit but the quality of the durians is also better, said durian lovers.","fruit, number, 2017, far, 8900, durians, singapore, malaysia, halfway, durian, tonnes, imported, period"
-61,01/2018,"Mr Jimmy Quek, chairman of the Singapore Tropical Fruits Importers and Exporters Association, said the cold weather caused faster decay in harvested crops and a much shorter shelf life.
+The US Department of Agriculture echoes Suderman's views, saying last month that hog farms are ""vastly"" under reporting outbreaks.","china, crisis, warns, veteran, pig, fever, chinas, swine, african, hog, spreading, worse, shows, farming, suderman, getting, sudermans",Pandemic
+32,Jan-18,"Mr Jimmy Quek, chairman of the Singapore Tropical Fruits Importers and Exporters Association, said the cold weather caused faster decay in harvested crops and a much shorter shelf life.
 
 ""As a result, we have seen a 20 per cent drop in fruit sales overall,"" he said.
 
@@ -559,51 +310,14 @@ Jul 19, 2018, 6:39 PM",https://www.straitstimes.com/singapore/wet-weather-drives
 Mr Quek said mandarin orange prices are expected to go up by 10 per cent to 30 per cent during the Chinese New Year period because flood waters have affected harvests.
 A check with small fruit stalls across the island showed that merchants were largely not increasing prices.
 In Bukit Ho Swee, fruit stall owner Christine Goh said strong winds caused durians to drop before they are fully ripe, which also means the fruit is smaller and less sweet.
-Most people The Straits Times spoke to on Monday (Jan 15) said there was no noticeable increase in vegetable prices either at wet markets or supermarkets.","fruit, stall, vegetable, cent, costs, mr, drives, prices, wholesalers, quek, 20, malaysia, absorb, weather, wet, crops"
-62,12/2017,PARIS (REUTERS) ,"Wet weather drives up fruit and vegetable prices; wholesalers to absorb costs for now
-Jan 15, 2018, 9:52 PM",https://www.straitstimes.com/lifestyle/food/high-prices-for-haute-cuisine-in-france-this-christmas,"Oysters, lobsters and truffles are just some of the many luxury foods on sale at Rungis, south of Paris.
-The lead-up to Christmas is a crucial time for the giant fresh food wholesale market, which is the size of Monaco.
-The Christmas sales will enable the business to hold up for an entire year.
-When you go wrong at Christmas, you mess up the whole year,"" said Philippe Clemente, a seafood producer who specialises in prawns.
-There were butter shortages in supermarkets, and the cost of foie gras - a pate made from duck and goose liver - is 30 per cent higher than last year.","turbulent, shortages, prices, south, haute, truffles, christmas, high, supermarkets, size, wrong, specialises, cuisine, france, wholesale"
-63,09/2017,SINGAPORE ,"High prices for haute cuisine in France this Christmas
-Dec 22, 2017, 2:12 PM",https://www.straitstimes.com/singapore/ntuc-fairprice-launches-house-brand-formula-milk,"SINGAPORE - Shoppers at NTUC FairPrice supermarkets now have one more brand of formula milk to choose from, and it costs only about half the price of some premium brands.
-The supermarket chain on Wednesday (Sept 20) launched a new FairPrice Gold house brand formula milk for children up to the age of three.
-The formula milk, sourced from Australia, is available in three types: for infants up to six months of age, for those between six months and a year old, for those who are one and older.
-Mr Seah Kian Peng, chief executive of NTUC FairPrice, said this new launch ""adds another dimension to our ongoing efforts to holistically address parents' concerns on rising costs of formula milk"".
-Since then, the Government has set up a task force to look into tightening regulations on labelling and advertising, facilitating imports of more formula milk options, strengthening public education and encouraging good practices in hospitals.","formula, start, tin, fairprice, costs, prices, months, brand, singapore, launches, house, price, ntuc, milk"
-64,08/2017,NEW DELHI (REUTERS) ,"NTUC FairPrice launches house brand formula milk, prices start from $27 for 900g tin
-Sep 20, 2017, 11:55 AM",https://www.straitstimes.com/asia/south-asia/india-imposes-limits-on-sugar-stocks-ahead-of-festive-season-to-keep-prices-under,"NEW DELHI (REUTERS) - India, the world biggest sugar consumer, on Tuesday (Aug 29) imposed inventory level limits on sugar mills in an attempt to keep prices under control during the upcoming festive season.
-Sugar mills will not be allowed to hold more than 21 per cent of their output in stocks by the end of September, and they have to bring down stock level to 8 per cent of output by the end of October, Indian Food Minister Ram Vilas Paswan said on twitter.
-The measure is aimed at preventing mills from artificially withholding sugar in storage in order to push up prices during the high demand festive season of September and October.
-India's sugar production in 2016-17 marketing year ending on Sept 30 fell below consumption level, creating concerns of a shortage for the upcoming festive season.","ahead, cent, output, season, prices, imposes, control, sugar, upcoming, stocks, festive, india, limits, mills, end, level"
-65,07/2017,"Are all economy rice customers equal?
-
-Will you get more if you're in your SAF uniform? How about if you're a big","India imposes limits on sugar stocks ahead of festive season to keep prices under control
-Aug 29, 2017, 11:59 AM",https://www.straitstimes.com/lifestyle/food/the-great-cai-png-experiment,"Are all economy rice customers equal?
-Will you get more if you're in your SAF uniform?
-How about if you're a big-sized guy?
-Stirr hits up three kopitiams, and conducts a very unscientific experiment to find out.
-For more videos like this, like Stirr on Facebook or go to www.stirr.sg.","experiment, wwwstirrsg, saf, videos, kopitiams, great, youre, unscientific, rice, png, stirr, cai, uniform, outfor"
-66,05/2017,NEW YORK (REUTERS) ,"Indonesia launches website in bid to contain food prices, inflation
-Jun 12, 2017, 3:28 PM",https://www.straitstimes.com/business/companies-markets/world-sugar-supply-surplus-seen-fading-in-201718,"The world is headed toward a more balanced sugar market in the 2017/18 crop year, after two years of short supplies that sent prices soaring in 2016, Plinio Nastari, president of Datagro Consulting Ltd, said during an industry conference.
-Datagro, a sugar and ethanol consultancy in Brazil, is projecting a small deficit of 200,000 tonnes in the crop that begins Oct 1, on the heels of a deficit of 7.85 million tonnes this year, Nastari said.
-Even with sugar prices down sharply year-to-date, Brazil's center-south mills will increase the amount of cane they divert to sugar output to 47.5 percent, versus 46.3 per cent in 2016/17, as prices of sugar still remain more competitive or at parity with domestic ethanol prices.
-Brazil's mills can choose to divert their cane to production of ethanol for the domestic fuel market or sugar for export.
-Sucden's Jayet said prices would need to fall closer to parity with Brazil's domestic ethanol prices, currently equivalent to about 14.5 cents per lb, before millers choose to produce more biofuel.","seen, world, ethanol, prices, surplus, 201718, domestic, sugar, nastari, supply, cane, million, tonnes, fading"
-67,05/2017,(REUTERS) ,"World sugar supply surplus seen fading in 2017/18
-May 10, 2017, 10:48 PM",https://www.straitstimes.com/lifestyle/food/florida-probes-tyson-foods-pilgrims-pride-on-chicken-pricing,"(REUTERS) - Top US chicken companies Tyson Foods Inc and Pilgrim's Pride Corp said on Monday that Florida's attorney general sought information from them regarding a probe into possible anticompetitive behavior, widening a legal review into chicken pricing.
-It also disclosed that Bondi's office had requested information from the company through a ""civil investigative demand.""
-Pilgrim's Pride, mostly owned by Brazilian meatpacker JBS SA , also received ""an inquiry from Florida AG, similar to other chicken companies,"" spokesman Cameron Bruett said.
-Tyson said Bondi's office had requested information primarily related to the Georgia Dock, a pricing index for chicken products formerly published by the Georgia Department of Agriculture.
-State officials suspended the index last year amid concerns chicken companies could manipulate it.","foods, investigation, pilgrims, bondis, information, office, index, tyson, florida, companies, probes, chicken, pricing, pride"
-68,04/2017,SINGAPORE ,"Florida probes Tyson Foods, Pilgrim's Pride on chicken pricing
+Most people The Straits Times spoke to on Monday (Jan 15) said there was no noticeable increase in vegetable prices either at wet markets or supermarkets.","fruit, stall, vegetable, cent, costs, mr, drives, prices, wholesalers, quek, 20, malaysia, absorb, weather, wet, crops",Acute climatological event
+33,Apr-17,SINGAPORE ,"Florida probes Tyson Foods, Pilgrim's Pride on chicken pricing
 May 10, 2017, 7:19 PM",https://www.straitstimes.com/lifestyle/food/mud-crab-supply-in-singapore-drying-up-because-of-bad-weather-and-increased-demand,"SINGAPORE - The supply of mud crabs to Singapore has fallen due to bad weather and increased demand, but restaurants have yet to raise prices.
 While Singaporeans think of mud crabs as ""Sri Lanka crabs"", the mangrove mud crabs now come from Indonesia, the Philippines, India and the east coast of Africa.
 Their main supply of mud crabs is from Indonesia.
 In the long term, he foresees that stronger demand from China and climate change will ""negatively impact"" supply to Singapore.
-Delta Food imports about half a tonne of mud crabs a day.","mud, cent, bad, crabs, fall, increased, drying, crab, demand, singapore, supply, weather, restaurant"
-69,01/2017,(THE GUARDIAN) ,"LATEST
+Delta Food imports about half a tonne of mud crabs a day.","mud, cent, bad, crabs, fall, increased, drying, crab, demand, singapore, supply, weather, restaurant",Acute climatological event
+34,Jan-17,(THE GUARDIAN) ,"LATEST
 What a pickle: UK gripped by courgette shortage
 Jan 17, 2017, 10:00 PM
 Durian season comes early, but limited stocks of some types mean higher prices
@@ -628,91 +342,38 @@ Pagination",https://www.straitstimes.com/lifestyle/food/what-a-pickle-uk-gripped
 He said: ""The main issue is that supplies are low because of cold nights in Spain and Italy.
 He speculated that some UK supermarkets were not prepared to buy courgettes at such inflated prices.
 They had a year's worth of rain in less than 24 hours, and they've cold weather as well.
-He said courgette wholesale prices were at least triple the normal levels for this time of year.","vegetable, courgette, cold, theyve, prices, gripped, shortage, growers, spain, pickle, uk, weather, supply, courgettes"
-70,11/2016,SINGAPORE ,"What a pickle: UK gripped by courgette shortage
+He said courgette wholesale prices were at least triple the normal levels for this time of year.","vegetable, courgette, cold, theyve, prices, gripped, shortage, growers, spain, pickle, uk, weather, supply, courgettes",Acute climatological event
+35,Nov-16,SINGAPORE ,"What a pickle: UK gripped by courgette shortage
 Jan 17, 2017, 10:00 PM",https://www.straitstimes.com/singapore/durian-season-comes-early-but-limited-stocks-of-some-types-mean-higher-prices,"SINGAPORE - The durian season has come early, and some local fruit stalls will be selling the fruit from Monday (Nov 20), reported Lianhe Wanbao.
 However, due to insufficient stock of some types of durian like Mao Shan Wang, the selling price of the king of fruits could be more than $20 per kg.
 He said that the usual durian season is in December, but it has arrived about a month earlier.
 The durian season is also dependent on the weather.
-Mr Xu said that due to the unpredictable nature of the weather, it is hard to estimate the durian supply.","selling, mao, season, comes, shan, prices, durians, xu, 20, stocks, durian, wang, higher, supply, mean, limited, early, types"
-71,11/2016,LONDON (REUTERS) ,"Durian season comes early, but limited stocks of some types mean higher prices
-Nov 20, 2016, 7:41 PM",https://www.straitstimes.com/world/europe/chips-maker-walkers-hikes-prices-after-brexit,"LONDON (REUTERS) - First Marmite, now Walkers' crisps.
-A bag of Britain's favourite potato chips is to go up in price by about 10 per cent, thanks to the Brexit referendum.
-Walkers said over the weekend that the vote to leave the European Union had hiked its costs.
-Birdseye, whose fishfingers are a staple for many British kids, has also announced a price hike - its first since 2012.
-Last month, Unilever crossed swords with UK retail giant Tesco, when it tried to charge more for some iconic brands such as Marmite spread and Pot Noodle.","maker, materials, brexit, weekend, potato, vote, prices, chips, won, hikes, value, price, tesco, marmite, walkers"
-72,11/2016,SINGAPORE ,"Potato chips maker Walkers hikes prices after Brexit
-Nov 8, 2016, 2:43 PM",https://www.straitstimes.com/lifestyle/food/nespresso-lowers-prices-of-coffee-capsules,"SINGAPORE - When a new Nespresso boutique opens in Raffles City on Wednesday (Nov 2), the Grand Cru coffee capsules on the menu will be cheaper.
-The brand is adjusting prices of its coffee ranges downwards in Singapore, closer to prices in other markets.
-The Lungo range will be priced at 72 cents per capsule, instead of 99 cents; the Variations range will be priced at 82 cents, instead of $1.15; and the limited edition range will be priced at 88 cents, instead of $1.20.
-Kazaar and Dharkan capsules are cheaper in Europe, for instance, where they are priced at £0.33 (S$0.56) each in Britain, 0.39 euro (S$0.60) in France and 0.43 euro (S$0.66) in Italy.
-In Asia, they are priced at HK$4.30 (S$0.77) in Hong Kong, RM2.50 (S$0.83) in Malaysia and 4.20 yuan (S$0.86) in China.","capsules, nespresso, instead, euro, prices, range, singapore, bringing, markets, cents, priced, instance, dharkan, coffee, lowers, closer"
-73,10/2016,PETALING JAYA (THE STAR/ASIA NEWS NETWORK) ,"Nespresso lowers prices of coffee capsules in Singapore, bringing them closer to prices in other markets
-Nov 2, 2016, 3:58 PM",https://www.straitstimes.com/asia/se-asia/some-malaysia-hypermarts-limit-purchase-of-cooking-oil-amid-increased-demand,"PETALING JAYA (THE STAR/ASIA NEWS NETWORK) - The most sought-after item in Malaysia these days seems to be cooking oil and certain hypermarkets are limiting sales.
-Cooking oil in 5kg, 3kg and 1kg bottles have been flying off the shelves following a recent announcement on the removal of cooking oil subsidies in stages beginning Nov 1.
-""Yes, I was surprised to see the limited bottles of cooking oil on the shelves.
-Cafe supervisor Eugene Ong, 40, complained that he had to visit several outlets to buy cooking oil.
-Teacher Natalie Chan, 36, said stocking up on cooking oil never crossed her mind.","cooking, limit, increased, bottles, hypermarts, demand, amid, hypermarkets, malaysia, oil, buy, purchase, family, supervisor, usually, limited, surprised"
-74,07/2016,WASHINGTON (Reuters) ,"Some Malaysia hypermarts limit purchase of cooking oil amid increased demand
+Mr Xu said that due to the unpredictable nature of the weather, it is hard to estimate the durian supply.","selling, mao, season, comes, shan, prices, durians, xu, 20, stocks, durian, wang, higher, supply, mean, limited, early, types",Acute climatological event
+36,Jul-16,WASHINGTON (Reuters) ,"Some Malaysia hypermarts limit purchase of cooking oil amid increased demand
 Oct 24, 2016, 10:21 AM",https://www.straitstimes.com/world/united-states/starbucks-hikes-prices,"It says the price hikes will vary by market.
 The price hikes come one day after Starbucks' CEO Howard Schultz announced wage raises of at least five per cent starting October 3.
 Starbucks is one of the companies that does go out of its way to try to give benefits to employees.
 Starbucks has raised prices every summer for the past several years.
-Smucker chopped prices for most of its Folgers and Dunkin' Donuts coffee brands to bring back customers.","starbucks, pushing, prices, wage, hikes, companies, cents, coffee, price, cost"
-75,06/2016,LONDON (Reuters) ,"Starbucks hikes prices
+Smucker chopped prices for most of its Folgers and Dunkin' Donuts coffee brands to bring back customers.","starbucks, pushing, prices, wage, hikes, companies, cents, coffee, price, cost",Economic Crisis
+37,Jun-16,LONDON (Reuters) ,"Starbucks hikes prices
 Jul 13, 2016, 5:23 PM",https://www.straitstimes.com/business/companies-markets/poor-weather-weak-supply-of-robusta-coffee-could-trigger-price-rally,"LONDON (Reuters) - Expectations of poor robusta coffee crops next season in major producers such as Brazil, Vietnam, Indonesia and India could trigger a price rally, traders said.
 ""Weather is not ideal in all of these countries,"" a senior European coffee trader said.
 In top robusta grower Vietnam, dry weather in April and May and below average rainfall in June, augured for a drop in output in the next harvest due to start around October or November.
 3 robusta producer behind Brazil, is likely to erode production, while dry weather in India has scaled back expectations for robusta output there.
-""In emerging economies and producer countries demand for robusta is growing strongly, while arabica demand growth is stagnant,"" said Andrea Thompson, analyst with CoffeeNetwork.","vietnam, output, season, robusta, rally, dry, poor, demand, weak, india, trigger, supply, weather, expectations, coffee, price"
-76,05/2016,"When it comes to pork, China is the world's no. 1 consumer and producer. But now soaring prices of the favourite source of protein of the Chinese have forced the country's capital into an unprecedented purge of its reserves.
-
-Over the next two months beginning on Thursday (May 4), Beijing will release 3.05 million kilograms of frozen pork from its reserves in an effort to cool rising pork prices that jumped by as much as 50 per cent in April, reports said.
-
-The Beijing municipal government will sell 50,000kg of pork each day to 121 supermarket chains in the city of some 22 million residents, the Beijing Municipal government announced this week.
-
-The authorities will also provide a subsidy of 9 yuan (S$1.88) per kilogram to incentivise supermarkets to cut pork prices for consumers.
-
-China's raw pork prices have jumped 50.6 percent month on month in April, according to official data. The rise continues this month, with prices reaching 20.9 yuan per kg on Wednesday, up 4.5 per cent from the previous week and 24.4 per cent for the year to date, according to the Financial Times.
-
-A consumer identified only by her surname Zhong who told China News Service that a supermarket she frequents in Beijing was lowering pork prices by 2.5","Poor weather, weak supply of robusta coffee could trigger price rally
-Jun 24, 2016, 7:00 AM",https://www.straitstimes.com/asia/east-asia/china-feels-the-heat-from-sizzling-pork-prices,"When it comes to pork, China is the world's no.
-The authorities will also provide a subsidy of 9 yuan (S$1.88) per kilogram to incentivise supermarkets to cut pork prices for consumers.
-China's raw pork prices have jumped 50.6 percent month on month in April, according to official data.
-A consumer identified only by her surname Zhong who told China News Service that a supermarket she frequents in Beijing was lowering pork prices by 2.5-4.5 yuan less per kg during the two-month pork release period.
-""Pork prices are finally coming down,"" Ms Zhong was quoted as saying.","according, china, cent, feels, prices, zhong, heat, yuan, month, total, beijing, million, sizzling, pork"
-77,04/2016,"OPENED just February this year, modern Australian restaurant Cheek by Jowl offers big flavours and bold references to Asian cuisine. On first glance, the finnicky, stylish plating may put bargain hunters off, but portions lean towards fairly priced sharing plates, and the airy premises and friendly service will put you at ease.
-
-While the eatery is better known for its duck confit with waffles, it's head chef Rishi Naleendra's treatment of vegetables which gets our attention. For instance, he pairs the oysters with smoked tomato granita (S$10 for two), and the tangy topping melts into a chilly smokiness as it hits the palate.
-
-Then there's the roast pumpkin (S$22) which is in a league of its own (and vegetarian to boot): Sri Lankan curry powder kicks the ground cashews and sauce into high gear. The scorched kale and preserved pumpkin chutney ","China feels the heat from sizzling pork prices
-May 5, 2016, 11:36 AM",https://www.straitstimes.com/lifestyle/food/s50-dinner-deals,"OPENED just February this year, modern Australian restaurant Cheek by Jowl offers big flavours and bold references to Asian cuisine.
-There's a set dinner at S$38++ which serves as a gentle introduction to Eastern European fare.
-The breast meat is kept moist with a generous coat of butter, and the creamy mushroom sauce served on the side helps it along.
-By Tan Teck Hengthtan@sph.com.sgSuper Loco60 Robertson QuayTel: 6235 8900THIS 200-seater diner, sister to Lucha Loco at Duxton Hill, offers a vast selection of small plates in a relaxed riverside setting.
-By Tan Teck HengMad About Sucre27 Teo Hong RoadTel: 6221 3969PATISSERIE Mad About Sucre is not only about desserts, but it now has a savoury menu too, after customers started asking them to serve mains.","tan, crispy, teck, deals, soup, sweet, smoked, sauce, s50, dinner, served, theres, restaurant"
-78,02/2016,CAIRO (REUTERS) ,"Initiatives to help seniors cope with rising food and drink costs
+""In emerging economies and producer countries demand for robusta is growing strongly, while arabica demand growth is stagnant,"" said Andrea Thompson, analyst with CoffeeNetwork.","vietnam, output, season, robusta, rally, dry, poor, demand, weak, india, trigger, supply, weather, expectations, coffee, price",Acute climatological event
+38,Feb-16,CAIRO (REUTERS) ,"Initiatives to help seniors cope with rising food and drink costs
 Mar 6, 2016, 6:48 PM",https://www.straitstimes.com/world/middle-east/egypt-struggles-to-get-subsidised-food-to-poor-amid-dollar-crisis,"inquires the woman, leaning into a shop in Cairo and brandishing a green smartcard that carries her family's food credits.
 But in recent weeks, imported commodities like cooking oil have been in short supply as a dollar shortage makes it harder for state importers to secure regular supplies.
 The Supply Ministry also oversees a network of stores and kiosks offering subsidised food outside the smartcard system.
 ""Oil is in short supply.
-Though essential foods are high on the priority list, a foreign exchange shortage has made it more difficult for Egypt's state food importers to pay promptly over the past year.","goods, food, state, prices, grocers, dollar, poor, subsidised, struggles, amid, rice, egypt, oil, fihc, supply, short, crisis"
-79,11/2015,MUMBAI (REUTERS) ,"Egypt struggles to get subsidised food to poor amid dollar crisis
+Though essential foods are high on the priority list, a foreign exchange shortage has made it more difficult for Egypt's state food importers to pay promptly over the past year.","goods, food, state, prices, grocers, dollar, poor, subsidised, struggles, amid, rice, egypt, oil, fihc, supply, short, crisis",Economic Crisis
+39,Nov-15,MUMBAI (REUTERS) ,"Egypt struggles to get subsidised food to poor amid dollar crisis
 Feb 19, 2016, 2:56 PM",https://www.straitstimes.com/asia/south-asia/rural-india-faces-rising-food-prices-in-2016-due-to-drought,"MUMBAI (REUTERS) - India's villages face a sharp spike in food prices in 2016, as a second year of drought drives up the cost of ingredients such as sugar and milk, and poor transport infrastructure stops falling global prices from reaching rural areas.
 It is bad news for the central bank, too, which faces a conundrum achieving its 4 per cent inflation target for the medium term as levels diverge in town and country, and infrastructure development would take years to fix it.
 India's overall retail inflation eased to 4.41 per cent in September, helped by falling commodity prices, but rural inflation was at 5.05 per cent, mostly due to food prices.
 Prices of vegetables like onions, tomatoes and potatoes have already been rising, with some staples up as much as 20 per cent in a month.
-Palm oil prices have also climbed in the last two months, while milk prices have risen by 10 per cent.","faces, food, cent, drought, 2016, inflation, prices, rising, sugar, 50, rural, india, vegetables, milk"
-80,10/2015,"More than half of those that did not were selling mixed vegetable rice dishes.
-
-""For stalls that do not display their food prices, consumers will only be able to know the actual price of the food they ordered after it has been packed and handed over to them,"" said Case's president Lim Biow Chuan in a statement today. ""To help consumers to be more discerning and be able to compare prices, Case would like to urge all hawkers to display prices prominently at their food stalls.""
-
-The survey also found that there was no change in the mode prices compared to last year, or the price most commonly charged by hawkers, for the surveyed food items: Chicken Nasi Briyani, Chicken Rice, Fishball Noodles, Mixed Vegetables (two vegetables and one meat) and Roti Prata (two plain pratas)","Rural India faces rising food prices in 2016 due to drought
-Nov 10, 2015, 3:19 PM",https://www.straitstimes.com/singapore/consumer-watchdog-urges-hawkers-to-display-food-prices-prominently,"More than half of those that did not were selling mixed vegetable rice dishes.
-""For stalls that do not display their food prices, consumers will only be able to know the actual price of the food they ordered after it has been packed and handed over to them,"" said Case's president Lim Biow Chuan in a statement today.
-""To help consumers to be more discerning and be able to compare prices, Case would like to urge all hawkers to display prices prominently at their food stalls.""
-The survey also found that there was no change in the mode prices compared to last year, or the price most commonly charged by hawkers, for the surveyed food items: Chicken Nasi Briyani, Chicken Rice, Fishball Noodles, Mixed Vegetables (two vegetables and one meat) and Roti Prata (two plain pratas).","price, food, urges, prices, mixed, rice, consumer, consumers, display, hawkers, chicken, prominently, vegetables, watchdog"
-81,10/2015,"He said the banana trees at the 165ha and the 110ha farms only produced about 4,500 and 6,000 new buds.
+Palm oil prices have also climbed in the last two months, while milk prices have risen by 10 per cent.","faces, food, cent, drought, 2016, inflation, prices, rising, sugar, 50, rural, india, vegetables, milk",Economic Crisis
+40,Oct-15,"He said the banana trees at the 165ha and the 110ha farms only produced about 4,500 and 6,000 new buds.
 
 ""This is about half of what our farms normally produce,'' Omar said on Thursday (Oct 1).
 
@@ -735,107 +396,28 @@ Oct 30, 2015, 11:40 AM",https://www.straitstimes.com/asia/se-asia/two-month-long
 Omar said the estimated sales from the July and August fruits were expected to be between RM240,000 (S$77,692) and RM260,000.
 Omar said this year's haze, which had prolonged for almost 35 days, was the worst compared with last year's which lasted less than a month.
 According to Dr Mohd Norowi Hamid, who is the director of Agrobiodiversity and Environment Research Centre in Mardi, the haze reduced the photosynthesis rate because less sunlight reached the plants.
-Dr Mohd Norowi said with padi, if the haze occurred during the grain filling stage, the crop would face a reduction of 1.2 per cent.","twomonthlong, shrinks, haze, start, reduction, photosynthesis, sales, produced, profits, sunlight, malaysia, plants, reduced, rate, fruits"
-82,08/2015,SINGAPORE ,"Ringgit's down but why aren't Malaysian goods cheaper?
-Aug 28, 2015, 6:13 PM",https://www.straitstimes.com/singapore/parliament-more-than-8-in-10-hawkers-pay-less-than-1500-to-rent-stalls-each-month,"SINGAPORE - More than eight in 10 hawkers here pay less than $1,500 in monthly rent for their stalls.
-In fact, four in 10 pay less than $400, said Minister for the Environment and Water Resources Vivian Balakrishnan on Tuesday in Parliament.
-This was a result of government policies that helped keep rental costs for hawkers low, he added.
-Dr Balakrishnan was responding to questions from Nominated Member of Parliament, Ms Kuik Shiao-Yin, on how National Environment Agency (NEA) plans to help hawkers deal with the rising costs of ingredients and manpower.
-The Environment Ministry had said earlier this year that ingredients made up the largest cost component for hawkers, at about 60 per cent.","support, cent, balakrishnan, wages, costs, hawker, food, rising, parliament, rent, environment, month, hawkers, stalls, pay, 1500"
-83,08/2015,JAKARTA (AFP) ,"Parliament: More than 8 in 10 hawkers pay less than $1,500 to rent stalls each month
+Dr Mohd Norowi said with padi, if the haze occurred during the grain filling stage, the crop would face a reduction of 1.2 per cent.","twomonthlong, shrinks, haze, start, reduction, photosynthesis, sales, produced, profits, sunlight, malaysia, plants, reduced, rate, fruits",Man-Made Disaster
+41,Aug-15,JAKARTA (AFP) ,"Parliament: More than 8 in 10 hawkers pay less than $1,500 to rent stalls each month
 Aug 18, 2015, 3:07 PM",https://www.straitstimes.com/asia/se-asia/indonesia-raises-cattle-imports-as-beef-prices-soar,"JAKARTA (AFP) - Indonesia will issue permits to import another 50,000 cattle, the government said, after beef prices soared and butchers went on strike following a decision to dramatically reduce shipments from Australia.
 ""I have given consent for the state logistics agency to import 50,000 live cattle,"" he told reporters, adding it was a ""short-term"" measure.
 But it shocked Australian cattle producers, as Indonesia is their biggest market for live exports, and sparked concerns that recent diplomatic tensions were affecting trade.
 Following the decision, there was a sharp increase in the cost of beef in Indonesia, with prices as high as 130,000 rupiah (S$14) a kilogram in some areas.
-The decision to ask the logistics agency to import cattle marks a shift in normal procedure in Indonesia, as private importers are usually responsible.","50000, jakarta, prices, beef, cattle, quota, raises, indonesia, australian, indonesian, imports, import, soar"
-84,08/2015,SINGAPORE ,"Indonesia raises cattle imports as beef prices soar
-Aug 11, 2015, 8:10 PM",https://www.straitstimes.com/singapore/price-of-eggs-in-singapore-rise-slightly-as-malaysia-farms-export-to-hong-kong,"SINGAPORE - The price of eggs in Singapore have risen slightly as the supply from Malaysia is being diverted to Hong Kong, the chairman of the Eggs Import/Export Trading Association Mr Tan Lau Huah has said.
-Importers say prices have gone up by about 2 cents an egg, and Mr Tan foresees further increases.
-""They (Malaysia) have been sending containers of eggs to Hong Kong,"" Mr Tan, who also owns Chuan Seng Huat Egg Store, told The Straits Times in Mandarin.
-Added to this is an increase in demand for chicken meat, resulting in there being less laying chickens in Malaysian farms, Mr Tan said.
-""We will not raise prices for now, but I will monitor the price closely,"" Mr She, an egg seller at Tiong Bahru market told Wanbao.","tan, hong, mr, prices, export, rise, egg, singapore, eggs, slightly, malaysia, wanbao, supply, kong, farms, price, told"
-85,07/2015,SINGAPORE ,"Price of eggs in Singapore rise as Malaysia farms export to Hong Kong
-Aug 10, 2015, 10:09 PM",https://www.straitstimes.com/singapore/first-hawker-centre-in-pasir-ris-breaks-ground-to-open-in-2017,"SINGAPORE - Residents of Pasir Ris will have the town's first hawker centre by 2017, the National Environment Agency said on Sunday at the centre's groundbreaking ceremony near the Pasir Ris Sports and Recreation Centre.
-The centre, which will have 45 cooked food stalls and more than 800 seats, will be next to the recreation centre and within walking distance from Pasir Ris MRT station.
-A multi-storey carpark above the hawker centre will also have 115 parking lots and 60 bicycle parking lots to take into account the cycling path network around Pasir Ris.
-Part of the cycling path will lead cyclists right up to the hawker centre.
-""With more and more people living in Pasir Ris, this hawker centre will be very convenient for us and hopefully offer cheaper food,"" she said.","recreation, ground, breaks, 2017, ris, having, centres, open, town, pasir, park, residents, centre, hawker"
-86,07/2015,SINGAPORE,"LATEST
-Bukit Panjang Hawker Centre to have longer operating hours and lower food prices
-Jul 13, 2015, 12:14 PM
-Del Monte posts Q4 net loss despite stronger sales
-Jun 29, 2015, 8:25 PM
-Japan consumer inflation up 0.3 per cent on-year in April: govt
-May 29, 2015, 7:41 AM
-Costlier raw materials driving up hawker food prices: Study
-May 27, 2015, 7:33 AM
-Increase in egg supply from Malaysia leads to sunny side in Singapore prices
-May 18, 2015, 8:40 PM
-World food prices fell to near 5-year low in April: UN food agency
-May 7, 2015, 4:22 PM
-Be prepared to pay more for your lobster fix
-Apr 26, 2015, 3:28 PM
-Prices of fish dip amid bigger hauls
-Apr 13, 2015, 8:59 AM
-Fish supply, prices in supermarkets unaffected by plankton bloom
-Mar 5, 2015, 6:12 AM
-Low oil prices helping reduce food prices
-Feb 5, 2015, 11:12 PM
-Pagination",https://www.straitstimes.com/singapore/environment/bukit-panjang-hawker-centre-to-have-longer-operating-hours-and-lower-food,"SINGAPORE- The new Bukit Panjang Hawker Centre and Market, which is slated to open by the end of the year, will not just boast lower food prices but also longer operating hours.
-Cooked food stalls will be required to operate a minimum of six days a week and 12 hours a day to ensure that there are enough stalls to benefit residents.
-During the pre-launch event on Monday, Mr Ong said that the hawker centre will be one of ""several firsts"".
-The Bukit Panjang Hawker Centre was the first to be announced out of the 20 new centres that the Government will build by 2027.
-It will have 28 cooked food stalls, 14 market stalls and have a seating capacity of 500.kcarolyn@sph.com.sg","price, food, panjang, hawker, operating, prices, mr, open, bukit, market, hawkers, cooked, centre, stalls, lower, hours, longer"
-87,06/2015,SINGAPORE ,"Bukit Panjang Hawker Centre to have longer operating hours and lower food prices
-Jul 13, 2015, 12:14 PM",https://www.straitstimes.com/business/companies-markets/del-monte-posts-q4-net-loss-despite-stronger-sales,"SINGAPORE - Despite stronger sales of food and beverages, Del Monte Pacific posted a net loss of US$14.1 million (S$19.03 million) in its fourth quarter ended April 30.
-The net loss attributable to shareholders of US$14.1 million was also smaller than the net loss of US$38.7 million in the fourth quarter last year.
-Del Monte posted fourth quarter sales of US$528.2 million ($712.8 million), up 45 per cent over the same period a year ago.
-United States subsidiary Del Monte Foods Inc (DMFI) contributed a hefty US$423.4 million ($571.4 million) to total sales.
-For the full year ended April 30, Del Monte posted a net loss of US$38 million ($51.3 million) after acquisition and non-recurring expenses.","million, cent, fourth, net, stronger, loss, despite, del, sales, q4, quarter, posted, posts, monte"
-88,05/2015,TOKYO (REUTERS) ,"Del Monte posts Q4 net loss despite stronger sales
+The decision to ask the logistics agency to import cattle marks a shift in normal procedure in Indonesia, as private importers are usually responsible.","50000, jakarta, prices, beef, cattle, quota, raises, indonesia, australian, indonesian, imports, import, soar",Trade Dispute
+42,May-15,TOKYO (REUTERS) ,"Del Monte posts Q4 net loss despite stronger sales
 Jun 29, 2015, 8:25 PM",https://www.straitstimes.com/business/japan-consumer-inflation-up-03-per-cent-on-year-in-april-govt,"TOKYO (REUTERS) - Japan's core consumer prices rose 0.3 per cent in April from a year earlier, government data showed on Friday, keeping inflation distant from the central bank's 2 per cent target.
 The rise in the core consumer price index, which includes oil products but excludes fresh food prices, compared with a median market forecast for a 0.2 per cent increase.
 An increase in Japan's sales tax hike last April inflated consumer inflation by 2.0 percentage point until March this year, according to Bank of Japan estimates.
 Since some companies waited until May last year in passing on the tax hike, there is a 0.3 point boost from the tax hike for this year's April CPI, according to the estimates.
-The jobless rate in April fell to 3.3 per cent from 3.4 per cent in March, data from the internal affairs ministry showed on Friday, while household spending fell 1.3 per cent in April from a year earlier in price-adjusted real terms, government data showed.","cent, inflation, tax, 03, prices, point, showed, data, consumer, japans, hike, onyear, core, govt, japan"
-89,05/2015,"THE higher price of raw materials, not labour and rent, is the main factor driving up food prices at hawker centres, according to a new study out yesterday.
+The jobless rate in April fell to 3.3 per cent from 3.4 per cent in March, data from the internal affairs ministry showed on Friday, while household spending fell 1.3 per cent in April from a year earlier in price-adjusted real terms, government data showed.","cent, inflation, tax, 03, prices, point, showed, data, consumer, japans, hike, onyear, core, govt, japan",Economic Crisis
+43,May-15,"THE higher price of raw materials, not labour and rent, is the main factor driving up food prices at hawker centres, according to a new study out yesterday.
 
 It noted that a $500 increase in the monthly cost of raw materials ","Japan consumer inflation up 0.3 per cent on-year in April: govt
 May 29, 2015, 7:41 AM",https://www.straitstimes.com/singapore/costlier-raw-materials-driving-up-hawker-food-prices-study,"THE higher price of raw materials, not labour and rent, is the main factor driving up food prices at hawker centres, according to a new study out yesterday.
 There are about 6,000 cooked food stalls in hawker centres across Singapore, managed by the National Environment Agency.
 As prices of raw materials rise and employers remain stuck in a labour crunch, cost pressures could help explain rising food prices.
 Food prices rose 2.1 per cent last month from the same month a year ago, although consumer prices as a whole fell 0.5 per cent.
-Hawker food inflation was also at 2.1 per cent last month.","raw, materials, driving, cent, food, costlier, prices, study, rent, month, hawkers, coffee, stalls, hawker"
-90,05/2015,SINGAPORE,"Costlier raw materials driving up hawker food prices: Study
-May 27, 2015, 7:33 AM",https://www.straitstimes.com/singapore/increase-in-egg-supply-from-malaysia-leads-to-sunny-side-in-singapore-prices,"SINGAPORE- There is a sunny side to the current prices of eggs.
-Chinese evening newspaper Shin Min Daily News reported on Monday that the prices of eggs in Singapore have dropped recently, compared to the beginning of the year.
-A tray of 30 eggs that used to cost about $6 now costs about $4, it reported.
-It added that the reason for the drop is the increase in supply of eggs from Malaysia.
-The article said that a suspension on three egg farms that had a Salmonella scare in October 2014 has been lifted.","yeara, used, sunny, article, tray, current, prices, egg, singapore, eggs, malaysia, leads, supply, trading, increase, farms"
-91,05/2015,ROME (Reuters) ,"Increase in egg supply from Malaysia leads to sunny side in Singapore prices
-May 18, 2015, 8:40 PM",https://www.straitstimes.com/world/africa/world-food-prices-fell-to-near-5-year-low-in-april-un-food-agency,"ROME (Reuters) - Global food prices fell in April to their lowest since June 2010, with prices sliding for most commodities, led by dairy prices, the United Nations food agency said on Wednesday.
-The United Nations Food and Agriculture's (FAO) price index, which measures monthly changes for a basket of cereals, oilseeds, dairy, meat and sugar, averaged 171 points in April, 1.2 per cent below its reading in March.
-FAO lowered its forecast for world cereal production in 2015-2016 to 2.509 billion tonnes, below the March forecast of 2.548 billion tonnes.
-Cereal stocks at the end of the 2015-16 season are now forecast to reach 626.6 million tonnes, down from a previous reading of 645.6 million tonnes.","reading, million, food, united, world, near, fell, prices, 5year, dairy, nations, agency, billion, forecast, tonnes, low"
-92,04/2015,"Bad news for lobster fans: The price of the crustacean has increased by up to 40 per cent, thanks to tightening supplies.
-
-Industry watchers say bad weather conditions in Boston ","World food prices fell to near 5-year low in April: UN food agency
-May 7, 2015, 4:22 PM",https://www.straitstimes.com/lifestyle/food/be-prepared-to-pay-more-for-your-lobster-fix,"The result is that dishes incorporating lobster meat have become more expensive.
-This week, lobstercentric restaurant Pince & Pints in Duxton Road increased the price of its lobster rolls, each comprising 150g of lobster meat, from $48 to $58.
-Seafood restaurant The Naked Finn in Gillman Barracks raised prices of its lobster rolls with 90g of lobster meat from $29 to $35 earlier this month.
-Luke's owner Travis Masiero, 36, who says the restaurant's lobster roll contains 150g of meat and costs $45, notes: ""Lobster prices have always been volatile.
-Outside of the restaurants serving lobster rolls, other kinds of seafood restaurants have also raised their prices.","restaurants, seafood, fix, prices, meat, increased, boston, lobster, rolls, lobsters, prepared, price, pay"
-93,04/2015,"The red grouper or pomfret that you see at the market now costs a little less. Retail prices of fish have fallen in general, thanks in part to bigger hauls after the end of the monsoon season last month. Floods during this season usually disrupt supply chains and rough seas prevent fishermen from going out to sea.
-
-Malaysia's ban on the export of seven types of fish and prawns to Singapore, due to fears of a local shortage, ended in February.
-
-Lower demand during the Qing Ming festival has also dampened prices, said retailers. During the two","Be prepared to pay more for your lobster fix
-Apr 26, 2015, 3:28 PM",https://www.straitstimes.com/singapore/prices-of-fish-dip-amid-bigger-hauls,"Retail prices of fish have fallen in general, thanks in part to bigger hauls after the end of the monsoon season last month.
-Lower demand during the Qing Ming festival has also dampened prices, said retailers.
-During the two-week-long festival, Singaporeans typically cook duck, chicken and pork, and not fish, to offer to ancestors.
-Retailers - who change their prices according to the market - are adjusting prices downwards in turn.
-So if they drop prices, we drop too,"" said Mr John Tan, a fishmonger at a wet market in Serangoon.","bigger, cent, dip, hauls, prices, pomfret, fallen, drop, demand, amid, fish, wet, festival, market"
-94,03/2015,"With local produce accounting for less than 10 per cent of their supply, supermarkets still have plenty of fish even after a devastating plankton bloom over the weekend killed more than 300 tonnes of stocks at farms in Changi.
+Hawker food inflation was also at 2.1 per cent last month.","raw, materials, driving, cent, food, costlier, prices, study, rent, month, hawkers, coffee, stalls, hawker",Economic Crisis
+44,Mar-15,"With local produce accounting for less than 10 per cent of their supply, supermarkets still have plenty of fish even after a devastating plankton bloom over the weekend killed more than 300 tonnes of stocks at farms in Changi.
 
 Dairy Farm, which owns both Cold Storage and Giant supermarkets, said neither its supply nor price is affected as it practises ""diversified sourcing"", buying fresh fish from countries such as Indonesia and Malaysia.
 
@@ -846,10 +428,10 @@ Apr 13, 2015, 8:59 AM",https://www.straitstimes.com/singapore/fish-supply-prices
 Local farms supply species such as grey mullet, golden snapper and golden pomfret, she said.
 ""Most of the local fish farms do not have the required facilities to transport live fish directly to our chain stores.
 A plankton bloom is caused by various factors like warm temperatures and high nutrients leading to lower levels of dissolved oxygen.
-Even though when a plankton bloom occurs is ""anyone's guess"", a trained person will know how to read this information and be prepared for it, he said.","cent, local, bloom, prices, oxygen, plankton, supermarkets, sheng, fish, supply, unaffected, farms, tonnes"
-95,02/2015,ROME (AFP) ,"Fish supply, prices in supermarkets unaffected by plankton bloom
+Even though when a plankton bloom occurs is ""anyone's guess"", a trained person will know how to read this information and be prepared for it, he said.","cent, local, bloom, prices, oxygen, plankton, supermarkets, sheng, fish, supply, unaffected, farms, tonnes",Pandemic
+45,Feb-15,ROME (AFP) ,"Fish supply, prices in supermarkets unaffected by plankton bloom
 Mar 5, 2015, 6:12 AM",https://www.straitstimes.com/business/economy/low-oil-prices-helping-reduce-food-prices,"ROME (AFP) - The sharp drop in the cost of oil is not only helping people fill their petrol tanks but their stomachs as well by reducing food prices, according to data released Thursday.
 The UN's Food and Agricultural Organisation (FAO) said its food price index declined 1.9 per cent in January to 182.7 points, due to ""robust inventories, continued strength in the US dollar and weak crude oil prices.""
 Food prices have now fallen back to the levels of five years ago, but on a real basis are still about 20 per cent higher than in the 2000s.
 Global crude oil prices have fallen by about half since June, and lower fuel costs should reduce farmers' production costs, as well as expenses to ship food.
-The FAO's Food Price Index is a trade-weighted index that tracks prices of five major food commodity groups on international markets.","cent, reduce, food, prices, production, index, helping, oil, fallen, price, low, lower, fao"
+The FAO's Food Price Index is a trade-weighted index that tracks prices of five major food commodity groups on international markets.","cent, reduce, food, prices, production, index, helping, oil, fallen, price, low, lower, fao",Idiosyncratic
