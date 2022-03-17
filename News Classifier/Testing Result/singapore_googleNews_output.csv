@@ -1,0 +1,802 @@
+,Unnamed: 0,date,news title,news source(url),content summary,keywords,category,probability_score
+0,0,1/5/2021 0:00,Singapore says police will be given access to Covid-19 contact tracing data,https://www.theguardian.com/world/2021/jan/05/singapore-says-police-will-be-given-access-to-covid-19-contact-tracing-data,"Singapore has announced its police will be able to use data obtained by its coronavirus contact-tracing technology for criminal investigations, a decision likely to increase privacy concerns around the system.
+“The Singapore police force is empowered ... to obtain any data, including TraceTogether data, for criminal investigations,” the minister of state for home affairs, Desmond Tan, said on Monday in response to a question in parliament.
+The privacy statement on the TraceTogether website says: “Data will only be used for Covid-19 contact tracing.”Privacy concerns have been raised about such apps in various places, including Israel and South Korea.
+Singapore has reported only a handful of local Covid-19 cases in the past few months, and its extensive disease surveillance and contact tracing efforts have won international praise including from the World Health Organization.
+Australia based its own contact tracing app, Covidsafe, on the TraceTogether app source code.",,,
+1,1,1/5/2021 0:00,Singapore’s police now have access to contact tracing data,https://www.technologyreview.com/2021/01/05/1015734/singapore-contact-tracing-police-data-covid/,"Although Singapore’s general attitudes about data privacy may not mirror what’s happening elsewhere, contact tracing apps around the world have raised questions of user privacy since the first were launched last year.
+Data is still important: This isn’t the first time the use of contact tracing data has intersected with law enforcement.
+Last July, German restaurants, bars, and patrons raised objections when it was reported that police used information collected in contact tracing to track down witnesses in investigations.
+And in late December 2020, New York governor Andrew Cuomo signed a law that prohibits law enforcement and immigration authorities from accessing contact tracing data.
+Groups like the New York Civil Liberties Union, the Electronic Frontier Foundation, and the New York Immigration Coalition applauded the move.",,cyberattack,11.13417834
+2,2,2021-01-05 23:37:30+08:00,Police's ability to use TraceTogether data raises questions on trust: Experts,https://www.straitstimes.com/singapore/politics/polices-ability-to-use-tracetogether-data-raises-questions-on-trust-experts,"SINGAPORE - The revelation that TraceTogether data can be used for police investigations has raised questions over trust in government, especially in relation to data privacy, said observers on Tuesday (Jan 5).
+He had said then that TraceTogether data would be used ""purely for contact tracing, period"".
+National University of Singapore sociologist Tan Ern Ser noted that Singaporeans generally have a high degree of trust in the Government.
+But he suggested that an additional layer of safeguards should be created to allay concerns about data privacy, and make sure such data is not misused.
+This could come in the form of a committee comprising prominent public figures to which the police would be accountable to, should they plan to use the TraceTogether data, he said.",,cyberattack,14.90119145
+3,3,2021-01-05 23:37:30+08:00,PM Lee Hsien Loong receives first dose of Pfizer-BioNTech COVID-19 vaccine,https://www.channelnewsasia.com/singapore/pm-lee-hsien-loong-covid-19-vaccine-first-dose-pfizer-biontech-394561,"Public healthcare institutions, including hospitals and polyclinics, will start vaccinations for their staff on Friday.
+SGH estimated about 90 of its employees will get vaccinated on the first day.
+Speaking to reporters at SGH, Mr Lee said he was happy to see the start of inoculations for healthcare and frontline workers.
+""I took the opportunity to have my own jab this morning and now I'm done – 30 minutes waited, nothing happened,"" he said.
+""I've got my card, and the appointment to come back in three weeks' time.",,cyberattack,9.062691565
+4,4,2021-01-08 12:30:00+08:00,PM Lee receives Covid-19 vaccine as Singapore starts nationwide vaccination drive,https://www.straitstimes.com/singapore/politics/pm-lee-receives-covid-19-vaccine-as-singapore-starts-nationwide-vaccination-drive,"SINGAPORE - Prime Minister Lee Hsien Loong took the Covid-19 vaccine on Friday (Jan 8) morning, at the start of a nationwide drive to vaccinate staff across various public healthcare institutions.
+Also vaccinated were the Health Ministry's director of medical services Kenneth Mak, along with 88 healthcare workers from the Singapore General Hospital (SGH).
+The Prime Minister was at SGH to observe the start of inoculations for healthcare workers, and said he took the opportunity to get his own vaccine.
+""I felt happy and honoured to administer the vaccine for PM (Lee),"" said Ms Fatimah.
+Singapore received its first shipment of vaccines on Dec 21, making it the first Asian country to receive the Pfizer-BioNTech product.",,idiosyncratic,15.15297294
+5,5,2021-01-08 12:30:00+08:00,Singapore begins COVID-19 vaccination campaign,https://www.aa.com.tr/en/asia-pacific/singapore-begins-covid-19-vaccination-campaign/2103030,Your opinions matter to us times;Feedback 0 / 5,,idiosyncratic,13.6770897
+6,6,2021-01-21 18:30:00+08:00,Overseas travel to remain difficult even after all in Singapore get Covid-19 vaccine: Gan Kim Yong,https://www.straitstimes.com/singapore/overseas-travel-to-remain-difficult-even-after-all-in-singapore-get-covid-19-vaccine-gan,"SINGAPORE - International travel will not revert to normal even after everyone in Singapore has been vaccinated as travel depends on the global Covid-19 situation, said Health Minister Gan Kim Yong.
+""This is a bit like a circuit breaker,"" said Mr Gan, who co-chairs the multi-ministerial task force handling the crisis.
+Education Minister Lawrence Wong, the task force's other co-chair, acknowledged that many people hope that vaccination will allow them to travel without quarantine restrictions.
+""Even if the majority of people in Singapore get vaccinated, it's impossible for the world to be vaccinated by this year,"" he said.
+""The whole recovery is not a one-year issue... it's more like a four-year affair before you see some of these industries recovering back to where they were before,"" Mr Wong said.",,idiosyncratic,16.48389989
+7,7,2021-01-21 18:30:00+08:00,"More than 113,000 people in Singapore receive first dose of COVID-19 vaccine: MOH",https://www.channelnewsasia.com/singapore/covid-19-vaccine-113-000-receive-first-dose-moh-437456,"SINGAPORE: More than 113,000 people have received the first dose of the COVID-19 vaccine, the Ministry of Health (MOH) said in an update on Thursday (Jan 28).
+From next Monday, all 20 polyclinics across Singapore will also begin offering COVID-19 vaccinations, MOH said.
+Sign-ups for COVID-19 vaccination by seniors have been encouraging, the ministry said, adding that it expects more seniors to sign up in the coming days.
+MOH, HSA MONITORING VACCINE SAFETYMOH and Health Sciences Authority (HSA) said they were closely monitoring the safety profile of the Pfizer-BioNTech COVID-19 vaccine as it is being administered to our population.
+Anyone who develops anaphylaxis to the first dose of COVID-19 vaccine should not receive the second dose, according to MOH's website.",,pandemic,7.160095246
+8,8,2021-01-21 18:30:00+08:00,Singapore to restrict entry of some travellers from South Africa after reports of new COVID-19 strain,https://www.channelnewsasia.com/singapore/covid-19-travellers-south-africa-to-singapore-no-entry-transit-1329861,"SINGAPORE: People with a travel history to South Africa within the last 14 days will not be allowed to enter or transit through Singapore starting Monday (Jan 4), the Ministry of Health (MOH) announced.
+The restriction will apply to long-term pass holders and short-term visitors, including those who have obtained prior approval to enter Singapore, the ministry said in a press release on Friday.
+The tighter border measures will be put in place given the ""deteriorating situation in South Africa"", said the ministry, and to prevent the spread of a potentially more contagious strain of the COVID-19 virus circulating in South Africa.
+Currently, travellers with a recent travel history to South Africa are required to serve a 14-day stay-home notice at dedicated facilities upon arrival in Singapore.
+Those who are not Singapore citizens or permanent residents are also required to take a COVID-19 PCR test within 72 hours before departure and present a valid COVID-19 test result as a condition of approval to enter Singapore.",,pandemic,5.711383793
+9,9,2021-01-21 18:30:00+08:00,"All travellers, including Singaporeans, to take COVID-19 test upon arrival in Singapore",https://www.channelnewsasia.com/singapore/covid-19-test-travellers-singaporeans-border-measures-moh-411966,"SINGAPORE: All travellers, including Singaporeans and permanent residents, will need to take a COVID-19 polymerase chain reaction (PCR) test upon arrival in Singapore, announced the Ministry of Health (MOH) on Saturday (Jan 16).
+This will take effect from 11.59pm on Jan 24, as part of tighter border measures to manage the risk of imported COVID-19 cases.
+Existing stay-home notice requirements, including a PCR test at the end of the notice period, will continue to be in place, said the ministry.
+To facilitate the testing process, travellers are ""strongly encouraged"" to register and pre-pay for their on-arrival COVID-19 PCR test before departing for Singapore, said MOH.
+These further precautions will apply to travellers who are currently serving their stay-home notice, and they will be in place until further notice.",,pandemic,12.19853478
+10,10,2021-01-01 09:10:09+08:00,KL-Singapore High Speed Rail terminated after both countries fail to reach agreement on M'sia's proposed changes,https://www.straitstimes.com/singapore/politics/kl-singapore-high-speed-rail-terminated-after-singapore-and-malaysia-fail-to,"SINGAPORE - The Kuala Lumpur-Singapore High Speed Rail (HSR) project has been terminated, after both countries failed to reach an agreement on changes proposed by Malaysia by the deadline of Dec 31.
+Prime Minister Lee Hsien Loong and his Malaysian counterpart Muhyiddin Yassin announced this in a joint statement on Friday (Jan 1) morning.
+Therefore, the HSR Agreement had lapsed on 31 December 2020.""
+The joint statement added: ""Both countries remain committed to maintain good bilateral relations, and cooperate closely in various fields, including strengthening the connectivity between the two countries.""
+Both sides then said they would announce further details on the HSR Project through a joint statement in due course.",,idiosyncratic,15.76181035
+11,11,2021-01-27 17:00:00+08:00,16-year-old Singaporean detained under ISA for planning terrorist attacks on two mosques,https://www.straitstimes.com/singapore/16-year-old-detained-under-isa-for-planning-terrorist-attacks-at-two-mosques-in-singapore,"SINGAPORE - A 16-year-old Singaporean student has been detained under the Internal Security Act (ISA) for planning to attack two mosques and kill worshippers in Singapore on March 15 this year - the second anniversary of the Christchurch terror attacks.
+The Secondary 4 Normal (Academic) student was found to have made detailed plans and preparations to conduct terrorist attacks using a machete against Muslims at two mosques here, the ISD said.
+Influenced by the Christchurch attacker Brenton Tarrant, the youth had mapped out his route and bought a flak jacket.
+He watched the live-streamed video of the terrorist attack on the two mosques in Christchurch, New Zealand and read the manifesto of the attacker, Brenton Tarrant,"" said the ISD.
+First, he planned to carry out his attacks on the anniversary of the Christchurch attacks.",,idiosyncratic,16.17887925
+12,12,2021-01-27 17:00:00+08:00,16-year-old Singaporean detained under ISA after planning to attack Muslims at 2 mosques,https://www.channelnewsasia.com/singapore/16-year-old-singaporean-detained-isa-planned-attack-2-mosques-435241,"ISD said the detailed planning and preparation attested to the teen’s determination to follow through with his attack plan.
+The agency added that it received intelligence last November about a Singapore-based individual who wanted to attack Muslims in Singapore.
+The teen was convinced that an attack by Muslims on Christians would happen “sooner or later”, ISD said.
+""When it involves Muslims attacking Christians or Christians attacking Muslims, my own view is that a court process inflames passions even more.
+""Likewise the Muslims we pick up, we talk to the religious leaders and counselled them, that's why the religious rehabilitation group helps a lot.",,Terrorism,0.105196184
+13,13,1/27/2021 0:00,Singapore teenager arrested for plotting attack on Muslims,https://www.aljazeera.com/news/2021/1/27/singapore-arrests-teenager-for-plotting-attacks-against-muslims,"The 16-year-old Protestant, arrested last month, was planning to attack two mosques on the anniversary of Christchurch massacre.
+A teenager in Singapore has been detained under the country’s strict Internal Security Act (ISA) for plotting to kill Muslims in two mosques on the March 15 anniversary of the deadly 2019 Christchurch attacks, the government said on Wednesday.
+“A secondary school student at the time, he was found to have made detailed plans and preparations to conduct terrorist attacks using a machete against Muslims at two mosques in Singapore,” the ministry said.
+In December, the International Security Department (ISA) said a 48-year-old Singaporean man was detained under the ISA for being “actively” involved in the civil war in Yemen.
+Shanmugam pointed out that since 2015, seven people under the age of 20 have been detained or “given restriction orders under the ISA”.",,Terrorism,7.624598674
+14,14,1/27/2021 0:00,Singapore economy shrinks a record 5.8% in a pandemic-hit 2020,https://www.channelnewsasia.com/singapore/gdp-singapore-economy-2020-q4-contract-covid-19-384776,"SINGAPORE: Singapore’s economy shrank a record 5.8 per cent in a pandemic-hit 2020, preliminary data showed on Monday (Jan 4), although most industries saw some improvement in the fourth quarter of the year as COVID-19 restrictions were eased.
+The Government had estimated that Singapore's gross domestic product (GDP) would contract between 6 per cent and 6.5 per cent in 2020.
+On a quarter-on-quarter seasonally adjusted basis, Singapore’s GDP grew by 2.1 per cent in the final quarter of 2020, following the 9.5 per cent expansion between July and September.
+However, on a quarter-to-quarter seasonally adjusted basis, it shrank by 2.6 per cent, after expanding by 12.6 per cent in the third quarter.
+On a quarter-on-quarter seasonally adjusted basis, it grew by 2.4 per cent in the fourth quarter, softening gains of 6 per cent it saw in the previous quarter.",,Terrorism,2.758903263
+15,15,1/27/2021 0:00,"Singaporean teen who planned mosque attacks will get lawyer, attend hearing under ISA: Shanmugam",https://www.channelnewsasia.com/singapore/teen-singaporean-isd-lawyer-court-terrorist-acts-mosques-438451,"SINGAPORE: The Singaporean teenager detained under the Internal Security Act for planning to commit terrorist acts at two local mosques will get a lawyer and attend a hearing to set out his position.
+“He will get a hearing within the rubric of the Internal Security Act and he would have a lawyer, and his position will be put across.
+His parents are fully involved,” Law and Home Affairs Minister K Shanmugam told reporters on Thursday (Jan 28).
+The attacks were planned for Mar 15 this year, the second anniversary of the 2019 attacks in Christchurch, New Zealand.
+The teen was influenced by Christchurch attacker Brenton Tarrant's actions and manifesto, the Internal Security Department (ISD) said on Wednesday.",,idiosyncratic,15.16952671
+16,16,2021-01-13 16:37:21+08:00,Singapore will review Sinovac Covid-19 vaccine carefully before possible roll-out: Gan Kim Yong,https://www.straitstimes.com/singapore/covid-19-comprehensive-review-for-sinovac-vaccine-before-possible-roll-out-in-singapore,"This update follows the release of data on a Brazilian trial on Tuesday, which showed that the Sinovac vaccine was just 50.4 per cent effective at preventing symptomatic infections.
+The Sinovac vaccine has yet to be approved, Mr Gan told reporters on Wednesday, after receiving his first dose of the Pfizer-BioNTech vaccine, the only authorised one in Singapore.
+The HSA will assess the data when it is in, and the nation's Covid-19 expert committee will also evaluate if it is suitable for vaccination in Singapore, Mr Gan explained.
+""If and when the Moderna vaccine is authorised for use, then we will also use it for the vaccination programme,"" said Mr Wong, who co-chairs Singapore's Covid-19 multi-ministry task force with Mr Gan.
+Both the Moderna and Pfizer vaccines are mRNA vaccines and have similar efficacy rates of around 95 per cent.",,Terrorism,1.845398376
+17,17,2021-01-13 16:37:21+08:00,Singapore Airlines hopes to be world's first fully-vaccinated airline,https://www.cnn.com/travel/article/singapore-airlines-covid-vaccination-wellness-intl-hnk/index.html,"(CNN) — Singapore 's national carrier is hoping to become the world's first airline to get all of its crew members vaccinated against Covid-19.
+Singapore Airlines (SIA) confirmed to CNN Travel that all of their crew members -- including pilots, gate agents, flight attendants and anyone whose job requires contact with the public -- have been offered free coronavirus vaccines by the Singaporean government.
+According to the airline, 5,200 SIA employees have already signed up to get their shots.
+Once vaccinated, crew members will be subject to less scrutiny and fewer coronavirus-related security measures.
+A much-hyped ""travel bubble"" with Hong Kong was indefinitely postponed in December when Hong Kong had a spike in virus cases.",,idiosyncratic,12.48610084
+18,18,2021-01-13 16:37:21+08:00,"Assets company removal 'main concern' that led to HSR termination, project has cost Singapore more than S$270 million: Ong Ye Kung",https://www.channelnewsasia.com/singapore/assets-company-main-concern-hsr-termination-ong-ye-kung-384351,"SINGAPORE: The ""main concern"" that led to the termination of the Kuala Lumpur-Singapore High-Speed Rail (HSR) project was Malaysia's suggestion that the assets company that was to manage the project be removed, said Minister for Transport Ong Ye Kung on Monday (Jan 4).
+A joint tender for an assets company for the HSR project was called by Malaysia's MyHSR and Singapore's SG HSR in December 2017.
+The assets company would have been necessary to ensure the interests of both countries were protected and minimise the possibility of future disputes over the HSR, Mr Ong told Parliament.
+The removal of the assets company represented a ""fundamental departure"" from the bilateral agreement and could not be accepted, said Mr Ong.
+Another cross-border rail project, the Johor Bahru-Singapore Rapid Transit System Link (RTS), was ""progressing well"" and Singapore will break ground for the project soon, said Mr Ong.",,pandemic,5.760266518
+19,19,2021-01-27 05:45:20+00:00,Singapore faces talent crunch as tech giants scale up,https://www.reuters.com/article/us-singapore-technology-hiring-idUSKBN29W0GR,"SINGAPORE (Reuters) - At least three recruiters approach Singapore-based software engineer Xiao Yuguang every day with job offers.
+Singapore is aiming to become a regional tech hub but faces a severe talent crunch as more firms move in, interviews with more than a dozen recruiters, companies and workers show.
+“There are a lot of tech companies coming in and it’s a small island,” said Raagulan Pathy, head of enterprise Asia Pacific at Zoom, which plans to hire hundreds of engineers.
+The Economic Development Board (EDB) is getting healthy interest from global tech companies keen to expand operations, it said.
+The EDB has various programmes to bridge the skills shortage including one that helps tech companies bring in talent from overseas and a new work visa for top-tier tech executives.",,idiosyncratic,15.3033108
+20,20,2021-02-03 23:35:50+08:00,World Economic Forum in Singapore postponed from May to Aug 17-20,https://www.straitstimes.com/singapore/world-economic-forum-in-singapore-postponed-from-may-to-aug-17-20,"SINGAPORE - The World Economic Forum (WEF) has postponed its special annual meeting in Singapore from May to August, due to the global Covid-19 situation.
+The meeting will now take place from Aug 17 to 20, the WEF said in a statement on Wednesday (Feb 3) night.
+""We will continue to partner the World Economic Forum closely to host a safe and successful special annual meeting in Singapore,"" the MTI added.
+But the pandemic meant that this year's edition was to be held in Singapore from May 13 to 16.
+WEF founder and executive chairman Klaus Schwab encouraged global stakeholders to participate in the August summit in the statement on Wednesday.",,Economic Crisis,12.54151857
+21,21,2021-02-03 23:35:50+08:00,Singapore 'Davos' pushed to August over travel restrictions,https://asia.nikkei.com/Spotlight/WEF-in-Singapore/Singapore-Davos-pushed-to-August-over-travel-restrictions,"SINGAPORE -- The World Economic Forum announced Wednesday that its special annual meeting scheduled for May in Singapore has been deferred by three months, as the prolonged global COVID-19 situation exposes risks for international in-person gatherings.",,Economic Crisis,8.088037527
+22,22,2021-02-03 23:35:50+08:00,World Economic Forum Special Annual Meeting in Singapore rescheduled to August,https://www.channelnewsasia.com/singapore/world-economic-forum-special-annual-meeting-singapore-reschedule-300056,"SINGAPORE: The World Economic Forum (WEF) Special Annual Meeting that was due to take place in Singapore in May has been rescheduled to August.
+The meeting will convene on Aug 17 to Aug 20 instead of May 25 to May 28, as initially scheduled.
+""Current global travel restrictions have made planning difficult for an in-person meeting in the first half of the year.
+“We will continue to partner the World Economic Forum closely to host a safe and successful Special Annual Meeting in Singapore,” said MTI in response to media queries.
+The Special Annual Meeting in Singapore in August will be the first global leadership summit to address the challenges of recovering from the pandemic, said the WEF.",,Economic Crisis,10.11703595
+23,23,2021-02-16 17:00:41+08:00,Budget 2021: Expected deficit of $11b in 2021 with continued efforts to tide Singapore over Covid-19 crisis,https://www.straitstimes.com/singapore/budget-2021-expected-deficit-of-11b-in-2021-with-continued-efforts-to-tide-singapore-over,"SINGAPORE - The Budget will continue to be expansionary for financial year 2021, with an expected deficit of $11 billion, or 2.2 per cent of Singapore's gross domestic product.
+This is as it continues to tide Singaporeans and businesses over the coronavirus pandemic with the $11 billion Covid-19 Resilience Package, said Deputy Prime Minister Heng Swee Keat on Tuesday (Feb 16).
+Last year's expansionary Budget is expected to run Singapore's largest deficit since independence, with an overall deficit of $64.9 billion, or 13.9 per cent of gross domestic product.
+This is largely due to higher corporate income taxes, goods and services taxes and other taxes such as foreign worker levies.
+Meanwhile, the ministries' expenditures are projected to come in around $102.3 billion, some $8.3 billion or 9 per cent higher than revised 2020 estimates.",,Economic Crisis,9.297041498
+24,24,2021-02-16 17:00:41+08:00,Singapore to fund infrastructure with debt as COVID swells deficit,https://asia.nikkei.com/Economy/Singapore-to-fund-infrastructure-with-debt-as-COVID-swells-deficit,"Proceeds from Singapore's planned bonds will go toward new rail lines like this one as well as tidal walls to protect against rising sea levels.
+© ReutersKENTARO IWAMOTO, Nikkei staff writer",,Economic Crisis,8.374393808
+25,25,2021-02-16 17:00:41+08:00,"The Big Read: Pummelled by COVID-19, Singapore's economy to begin K-shaped recovery with Budget 2021",https://www.channelnewsasia.com/singapore/singapore-economy-k-shaped-recovery-covid-19-the-big-read-351196,"NOT WASTING A CRISISEven as the COVID-19 pandemic has severely disrupted Singapore’s economy, new opportunities have sprung up for companies in sectors such as healthcare, e-commerce and logistics.
+""The impetus to continue business transformation would still feature strongly in Budget 2021,"" said Mr Seah, the DBS economist.
+The push for Singapore companies to regionalise and internationalise will remain intact in this year’s Budget as well, said Ms Ling.
+Another way is for the Government to decrease the costs and hurdles to get sustainable financing that are already provided by the banks, said Mr Allen.
+All in all, with Singapore heading towards a recovery fraught with uncertainties, Budget 2021 is certainly one to watch, said the experts and observers.",,Acute climatological event (cyclone),11.342213
+26,26,2021-02-16 17:00:41+08:00,"Singapore Airlines defers more than S$4 billion of spending on Airbus, Boeing planes",https://www.channelnewsasia.com/business/singapore-airlines-defers-4-billion-spending-airbus-boeing-338806,"SINGAPORE: Singapore Airlines (SIA) said on Tuesday (Feb 9) that it would defer more than S$4 billion of spending on Airbus and Boeing planes after reaching agreements with the aircraft manufacturers to delay deliveries.
+""The agreements with Airbus and Boeing are a key plank of our strategy to navigate the disruptions caused by the COVID-19 pandemic,"" Singapore Airlines CEO Goh Choon Phong said.
+Singapore Airlines last week posted a S$142 million net loss in the third quarter as passenger numbers plunged by 97.6 per cent due to the COVID-19 pandemic, though its cargo business held up better given a tight freight market.
+The decision to switch some of its Boeing orders to 777-9s is a boost for the planemaker's poor-selling 777X programme, but adds pressure on the smaller 787, already hit by production problems.
+As of Tuesday, the revised SIA Group aircraft order book consists of 35 planes in the Airbus A320 family, 15 Airbus A350-900s, 31 Boeing 737-8s, 20 planes in the Boeing 787 family and 31 Boeing 777-9s.",,Economic Crisis,4.909701358
+27,27,2021-02-16 17:00:41+08:00,"British man, Singaporean wife plead guilty after he breaches stay-home notice to meet her in hotel",https://www.channelnewsasia.com/singapore/british-nigel-skea-stay-home-notice-fiancee-covid-19-ritz-352776,"SINGAPORE: A British national and his Singaporean wife pleaded guilty on Monday (Feb 15) to illegally spending time together during his stay-home notice at the Ritz-Carlton Millenia hotel.
+Under COVID-19 regulations, Nigel Skea, 52, was required to stay in his hotel room for 14 days.
+On the third occasion, he met Eyamalai, 39.
+She was not serving a stay-home notice but had booked a different room on the 27th floor of the same hotel.
+Skea and Eyamalai could be fined up to S$10,000 and be jailed for up to six months for each offence.",,pandemic,6.212674982
+28,28,2021-02-16 17:00:41+08:00,"Jail for British man, Singaporean wife who met in hotel where he was serving stay-home notice",https://www.channelnewsasia.com/singapore/nigel-skea-singapore-wife-hotel-covid-19-breach-british-377076,"SINGAPORE: A British man and his Singaporean wife were jailed on Friday (Feb 26) for conspiring to breach a stay-home notice so that they could spend time together in a hotel room.
+Skea had conspired with Eyamalai, his then-fiancee, to meet in a room at a hotel where he was serving a stay-home notice after arriving in Singapore from London.
+Skea admitted to two charges of exposing others to risk of infection by leaving his hotel room while on stay-home notice and failing to wear a mask.
+Eyamalai, who subsequently married Skea, pleaded guilty to one charge of conspiring with Skea to breach his stay-home notice.
+Skea left her room at 11.13am and tried to return to his own room, but was stopped by a security officer.",,idiosyncratic,15.65840591
+29,29,2021-02-16 17:00:41+08:00,Singapore passes bill governing police use of contact tracing data,https://www.zdnet.com/article/singapore-passes-bill-governing-police-use-of-contact-tracing-data/,"Singapore passes Bill governing police use of contact tracing data Watch NowSingapore has passed new legislation detailing the scope of local law enforcement's access to COVID-19 contact tracing data.
+Data collected is encrypted and stored for 25 days, before it is automatically deleted from the app or token.
+Public sector agencies then must stop collecting such data and remove collected personal contact tracing data ""as soon as practicable"".
+He acknowledged that some individuals were ""gaming"" the contact tracing system and urged them against doing so in order to better protect themselves against the pandemic.
+According to the minister, 350 people had requested their TraceTogether data to be deleted from the central server over the past month.",,idiosyncratic,11.5879781
+30,30,2021-03-15 23:07:45+08:00,Singapore-Australia travel bubble might just work,https://www.straitstimes.com/singapore/transport/singapore-australia-bubble-might-just-work,"SINGAPORE - Come July, Singapore and Australia could become the first countries to use ""Covid-19 vaccine passports"" for travel within a ""bubble"" of these two nations.
+Singapore Airlines has announced that it will begin testing the Iata Travel Pass on flights from Singapore to London.
+Beginning this week, passengers on that route using Apple iOS-enabled phones will be able to download the Travel Pass app and create a digital identification with their photo and passport information.
+China has announced its own Covid-19 passport system, while Germany and the United States are poised to come on board the Travel Pass initiative.
+This is not the first time Singapore has moved forward with the idea of a travel bubble.",,cyberattack,7.849635341
+31,31,2021-03-15 23:07:45+08:00,"About 580,000 Singapore Airlines KrisFlyer and PPS members affected by data security breach",https://www.channelnewsasia.com/singapore/sia-data-breach-krisflyer-pps-members-sita-cyber-attack-256896,"SINGAPORE: About 580,000 KrisFlyer and PPS members have been affected by a data security breach, Singapore Airlines (SIA) said on Thursday (Mar 4).
+The data breach involves the passenger service system servers of SITA, an air transport information technology company.
+All Star Alliance member airlines provide a restricted set of frequent flyer programme data to the alliance, which is then sent on to other member airlines to reside in their respective passenger service systems.
+As a result, SITA has access to the restricted set of frequent flyer programme data for all 26 Star Alliance member airlines including Singapore Airlines.
+Such information is not shared with other Star Alliance member airlines for this data transfer, said the airline.",,pandemic,18.14306966
+32,32,2021-03-15 23:07:45+08:00,Singapore Exchange may allow listing of SPACs but with restrictions,https://www.channelnewsasia.com/business/sgx-listing-special-purpose-acquisition-companies-spac-293396,"SINGAPORE: Singapore Exchange (SGX) is proposing introducing regulations to allow the listing of Special Purpose Acquisition Companies (SPACs) or blank cheque firms that have taken US markets by storm.
+SGX, the first major Asian bourse to consider the listing of SPACs, is calling for market feedback from Wednesday (Mar 31) until April 28 after which it could introduce regulations by mid-year.
+SPACs or shell companies, raise funds via IPOs to merge with operating firms and then take them public after offering them shorter listing timeframes and strong valuations.
+""The safeguards might not be a deal-breaker for many sponsors but then again Singapore really needs to roll out the red carpet to win over SPACs,"" he said.
+SPACs usually offer shares with warrants attached, which entitle them to buy shares at a certain price, becoming valuable if the underlying stock price goes up.",,cyberattack,2.508714757
+33,33,2021-03-15 23:07:45+08:00,Myanmar maid is Singapore's first COVID-19 community case in 2 weeks; developed symptoms the day she started work,https://www.channelnewsasia.com/singapore/covid-19-new-cases-community-first-in-2-weeks-march-26-283911,"SINGAPORE: Singapore reported one locally transmitted COVID-19 case as of noon on Friday (Mar 26), the first of such infections in two weeks.
+The woman, known as Case 61184, arrived from Myanmar on Jan 23 and served stay-home notice at a dedicated facility until Feb 6.
+MOH said her test taken on Feb 5 during stay-home notice was negative for COVID-19.
+On Mar 23, she started work at her employer's residence.
+The Tampines branch of Nation, an agency for foreign domestic workers, was visited on Mar 23 and Mar 25.",,Acute climatological event (droughts),25.90330207
+34,34,2021-03-15 23:07:45+08:00,"Singapore to vaccinate migrant workers against COVID-19, starting with 10,000 dormitory residents",https://www.channelnewsasia.com/singapore/covid-19-vaccination-migrant-workers-dormitories-moh-314116,"SINGAPORE: COVID-19 vaccinations for migrant workers in Singapore will begin with 10,000 people living in the country's five largest dormitories, said the Ministry of Health (MOH) on Monday (Mar 8).
+This batch of workers have never been infected by COVID-19, said the ministry, adding that their vaccinations will be conducted at the five dormitories.
+Vaccinations will progressively be made available to other migrant workers, said MOH.
+Migrant workers living in dormitories made up about 90 per cent of Singapore's COVID-19 tally.
+""Vaccination of migrant workers living in dormitories is thus part of our national COVID-19 vaccination strategy to protect all Singaporeans and long-term residents,"" it added.",,idiosyncratic,14.65115084
+35,35,2021-03-30 23:12:31+08:00,Singapore can play key role in China's 'dual circulation' economy: Vivian Balakrishnan,https://www.straitstimes.com/asia/east-asia/singapore-can-play-key-role-in-chinas-dual-circulation-economy-vivian-balakrishnan,"BEIJING - Singapore can play a key role in the external part of China's new ""dual circulation"" economic strategy, and can be a base for Chinese companies looking to expand into South-east Asia, given the island-state's strong trade and logistic links to China.
+China's dual circulation strategy is aimed at spurring domestic consumption and self-reliance while at the same time encouraging foreign investment and catering to export markets.
+The Singapore Foreign Minister will meet and be hosted to a meal by his Chinese counterpart, Mr Wang Yi, on Wednesday.
+""When RCEP comes into force, it will send a strong signal that our region remains committed to free and open trade.
+As many as 10 deals, ranging from food safety to the environment, were inked at this apex meeting between the two countries.",,idiosyncratic,14.59959136
+36,36,2021-03-30 23:12:31+08:00,Singapore and Taiwan in talks about possible travel bubble: Reports,https://www.channelnewsasia.com/singapore/singapore-taiwan-travel-bubble-reports-266791,"Singapore and Taiwan are in talks about a possible travel bubble, Taiwan’s Health Minister Chen Shih-chung reportedly said on Thursday (Mar 18).
+Since then, Singaporean authorities have pushed for a reciprocal policy in Taiwan, Mr Chen was reported as saying by Focus Taiwan.
+The Pacific nation of Palau announced an air travel bubble with Taiwan earlier this week, with the travel bubble set to kick off on Apr 1.
+He also noted that Taiwan had unilaterally reduced the quarantine period for essential business travellers from Singapore to five days.
+Singapore had established an air travel bubble with Hong Kong that was originally scheduled to begin on Nov 22.",,Trade Dispute,4.262776172
+37,37,2021-03-30 23:12:31+08:00,61-year-old man is Singapore's 30th COVID-19 fatality,https://www.channelnewsasia.com/singapore/covid-19-singapore-30th-death-61-year-old-man-uae-328571,"SINGAPORE: A 61-year-old man died on Friday (Mar 12) from complications due to the coronavirus, becoming Singapore's 30th COVID-19 fatality, the Ministry of Health (MOH) said on Saturday.
+The Singaporean man, known as Case 59858, had a ""past history"" of hypertension, hyperlipidaemia and gout, added the Health Ministry.
+The last COVID-19 death in Singapore was reported on Nov 28, when a 68-year-old man died from complications due to the coronavirus.
+His COVID-19 infection was confirmed on Nov 18 and he died from complications due to the coronavirus on Nov 27.
+""The cause of death as determined by the pathologist is ischaemic heart disease with COVID-19,"" said MOH in November.",,idiosyncratic,15.37691455
+38,38,2021-03-14 08:00:00+08:00,"Not possible for S'pore, many countries, to choose between US and China, PM Lee tells BBC",https://www.straitstimes.com/singapore/not-possible-for-spore-many-countries-to-choose-between-us-and-china-pm-lee-tells-bbc,"""I hope the time does not come,"" he said when asked which one Singapore will choose when the time comes.
+With both sides exerting their influence on allies and partners, it has become harder for countries to stay in the middle.
+Asked if it is realistic to sit on the fence in light of these developments, Mr Lee said: ""I do not think we are the only ones in this boat.""
+He cited the European Union, which had signed an investment agreement with China before Mr Biden took office.
+He also said that for Singapore, having kerfuffles from time to time, with either China or America, cannot be helped.",,pandemic,11.6543785
+39,39,3/3/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-03-03/exxon-mobil-to-cut-jobs-in-singapore-as-big-oil-retrenches,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,Military Conflicts,7.518704974
+40,40,4/5/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-04-05/passengers-flying-to-singapore-can-use-iata-travel-pass-from-may,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+41,41,4/6/2021 0:00,Singapore to accept Covid-19 digital travel pass from next month,https://www.cnbc.com/2021/04/06/singapore-to-accept-covid-19-digital-travel-pass-from-next-month.html,"People walk toward the departure hall at Changi International Airport in Singapore on March 15, 2021.
+Singapore will next month accept visitors who use a mobile travel pass containing digital certificates for Covid-19 tests and vaccines, its aviation regulator said on Monday, becoming one of the first countries to adopt the initiative.
+Singapore will accept the International Air Transport Association (IATA) mobile travel pass for pre-departure checks, where travelers can get clearance to fly to and enter Singapore by showing a smartphone application containing their data from accredited laboratories.
+The pass was successfully tested by Singapore Airlines.
+More than 20 carriers, including Emirates, Qatar Airways and Malaysia Airlines, are also testing the pass.",,idiosyncratic,16.45760434
+42,42,4/6/2021 0:00,Travellers flying to Singapore can use IATA travel pass from May,https://www.channelnewsasia.com/singapore/iata-travel-pass-air-travellers-changi-airport-caas-196196,"SINGAPORE: Passengers travelling to Singapore by air will be able to use the International Air Transport Association (IATA) travel pass from May 1, as part of an ongoing collaboration between the Civil Aviation Authority of Singapore (CAAS) and IATA.
+The IATA travel pass is a mobile app that can be used by passengers to obtain and store their COVID-19 test results from accredited laboratories.
+Last month, Singapore Airlines (SIA) tested IATA's travel pass on passengers travelling from Singapore to London between Mar 15 and Mar 28.
+Back-end transmission of health credentials from the travel pass to the airlines and immigration authorities' systems for pre-boarding and pre-arrival clearance will be included, as well as including digital vaccination certificates on the travel pass.
+Those who are travelling to Singapore and intend to use the travel pass should check with the airline they are travelling with for eligibility to use the travel pass, said CAAS and IATA.",,Acute climatological event (flood),11.00628739
+43,43,2021-04-01 13:46:32+08:00,"Over 120,000 have taken cruises to nowhere as Royal Caribbean, Genting extend cruise season",https://www.straitstimes.com/singapore/consumer/more-than-120000-have-taken-cruises-to-nowhere-with-no-covid-19-cases-on-board,"Other cruise lines have expressed interest in joining the pilot programme, noted Ms Chang.
+On Thursday (April 1), Royal Caribbean International announced it was extending its Quantum of the Seas cruises until October this year, after the cruise company saw an overwhelming demand for travel.
+This is the second time both cruise lines have extended their sailings, with the first extension to June announced in February.
+Royal Caribbean said that since its first cruise in December, it has completed over 30 successful sailings with more than 50,000 guests.
+To operate cruises to nowhere, both Royal Caribbean International and Genting Cruise Lines have to abide by STB's CruiseSafe guidelines.",,Acute climatological event (flood),12.18546609
+44,44,2021-04-01 13:46:32+08:00,"Singapore, China looking at how to gradually resume travel links: Vivian Balakrishnan",https://www.channelnewsasia.com/singapore/singapore-china-travel-border-restriction-vivian-balakrishnan-293101,"SINGAPORE: Singapore and China are looking at how travel links between the two countries can resume, Singapore's Foreign Affairs Minister Vivian Balakrishnan said on Wednesday (Mar 31).
+Dr Balakrishnan was speaking at the end of a two-day visit to Fujian, where he met China's State Councilor and Foreign Minister Wang Yi.
+""Now in a post-COVID recovery phase, we are looking at how - as both Singapore and China reopen the economy - we can slowly, gradually and carefully resume travel links as well,"" Dr Balakrishnan said.
+Dr Balakrishnan said on Wednesday that Singapore had opened its borders to travellers from China as the latter's COVID-19 case control was ""so good"".
+Last Monday, Dr Balakrishnan met Brunei's Sultan Hassanal Bolkiah and Second Minister of Foreign Affairs Erywan Pehin Yusof.",,idiosyncratic,16.91601522
+45,45,4/23/2021 0:00,Singapore names new finance minister in cabinet reshuffle after setback in leadership succession,https://www.cnbc.com/2021/04/23/singapore-cabinet-reshuffle-lawrence-wong-to-become-finance-minister.html,"Singapore's Minister for National Development Lawrence Wong at a press conference on the country's Covid-19 situation on April 22, 2021.
+SINGAPORE — Singapore's Prime Minister Lee Hsien Loong has named a new finance minister, replacing Heng Swee Keat who announced two weeks ago that he will step aside as Lee's designated successor.
+Lawrence Wong, the country's current education minister and second finance minister, will helm the finance portfolio from May 15, the prime minister's office said on Friday.
+Wong is among potential candidates that analysts said could eventually take over from Lee as prime minister.
+The cabinet shuffle came after Heng's announcement threw Singapore's carefully planned leadership succession into disarray.",,idiosyncratic,14.3903035
+46,46,2021-04-13 12:31:39+08:00,Hong Kong requires people leaving for Singapore to be vaccinated: Carrie Lam,https://www.straitstimes.com/asia/east-asia/hong-kong-requires-people-leaving-for-singapore-to-be-vaccinated-carrie-lam,"HONG KONG - Amid resumption of talks with Singapore over a much-delayed travel bubble, Hong Kong's chief executive Carrie Lam has said that Singapore will not impose a requirement on travellers from Hong Kong to be vaccinated before their trip.
+But Hong Kong will make it mandatory for people leaving the city for Singapore to be vaccinated, she added.
+Speaking ahead of her weekly meeting with the Executive Council on Tuesday (April 13), Mrs Lam said: ""The basis for discussion with Singapore is that people leaving Hong Kong and entering Singapore need to be vaccinated.
+Talks were restarted after the current wave of infections in Hong Kong was brought under control.
+Hong Kong has more than 11,600 Covid-19 cases and 207 deaths in all.",,idiosyncratic,16.00643931
+47,47,4/7/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-04-07/tiny-singapore-accounts-for-one-third-of-global-cruise-travelers,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,Economic Crisis,13.3301936
+48,48,4/7/2021 0:00,"Citi to hire up to 1,500 people in Singapore to boost consumer wealth management businesses",https://www.channelnewsasia.com/business/citi-hire-1-500-people-singapore-wealth-management-revamp-231581,"SINGAPORE: Citi plans to hire up to 1,500 more employees in Singapore, as it looks to ramp up its consumer wealth management businesses amid a significant revamp.
+Citi is also adding headcount in Hong Kong, another “wealth hub” it is focusing on in the region.
+Altogether, it plans to hire about 2,300 new employees in both Hong Kong and Singapore, including 1,100 relationship managers and private bankers.
+Citi will instead focus its global consumer banking business on four markets - Singapore, Hong Kong, London and the United Arab Emirates.
+As part of its plan, Citi intends to invest in “cutting-edge technology” in both Hong Kong and Singapore, the bank said in a press release on Monday.",,idiosyncratic,16.45760434
+49,49,4/7/2021 0:00,1 dormitory resident among 20 new COVID-19 infections in Singapore; first such case in 6 weeks,https://www.channelnewsasia.com/singapore/covid-19-cases-singapore-imported-community-moh-april-11-211271,"SINGAPORE: One dormitory resident was among the 20 new COVID-19 infections reported in Singapore on Sunday (Apr 11).
+The Singapore Flyer and Time Capsule was added to the list of places visited by COVID-19 cases during their infectious period.
+IMPORTED CASESThe remaining 19 cases were imported infections and were placed on stay-home notice upon arrival in Singapore.
+There are 58 cases remaining in hospital, with one in critical condition in the intensive care unit.
+As of Sunday, Singapore has reported a total of 60,653 COVID-19 cases and 30 fatalities.",,Economic Crisis,14.46592552
+50,50,5/20/2021 0:00,"Singapore tells Facebook, Twitter to carry correction notice on virus strain",https://www.reuters.com/world/asia-pacific/singapore-tells-facebook-twitter-carry-correction-notice-virus-strain-2021-05-20/,"REUTERS/Edgar SuSINGAPORE, May 20 (Reuters) - Singapore on Thursday ordered Facebook (FB.O) and Twitter (TWTR.N) to carry a correction notice to users of the social media platforms in the country over what it says is a false statement about a new virus variant originating in Singapore.
+A prompt on users' Facebook news feeds linked to a government website that said there was no new ""Singapore"" variant of COVID-19.
+Neither is there evidence of any COVID-19 variant that is ""extremely dangerous for kids"", the health ministry said.
+It said the B16172 strain found in many new COVID-19 cases in Singapore was first detected in India.
+Twitter sent notifications to its account holders based in Singapore, which included a tweet from the government's official account @POFMA_Notice.",,idiosyncratic,14.68320842
+51,51,5/20/2021 0:00,CORRECTIONS AND CLARIFICATIONS REGARDING FALSEHOOD ON “SINGAPORE” STRAIN,https://www.gov.sg/article/factually200521,"There is a false statement circulating online by multiple media outlets and social media platforms, which implies that a new, previously unknown variant of COVID-19 originated in Singapore and/or risks spreading to India from Singapore.
+There is no new “Singapore” variant of COVID 19.
+Neither is there evidence of any COVID-19 variant that is ‘extremely dangerous for kids’.
+The strain that is prevalent in many of the COVID-19 cases detected in Singapore in recent weeks is the B.1.617.2 variant, which originated from India.
+The existence and spread of the B.1.617.2 variant within India predates the detection of the variant in Singapore, and this has been publicly known and reported by various media sources from as early as 5 May 2021.",,pandemic,11.33187895
+52,52,5/20/2021 0:00,'No truth' in India news reports claiming Singapore variant of COVID-19 virus: MOH,https://www.channelnewsasia.com/singapore/singapore-variant-covid-19-no-truth-india-reports-moh-1380906,"SINGAPORE: The Ministry of Health (MOH) on Tuesday (May 18) said that there is “no truth whatsoever” in the assertion in several news reports in India that there is a Singapore variant of the COVID-19 virus.
+MOH said in response on Tuesday that “there is no ‘Singapore variant’”.
+“The strain that is prevalent in many of the COVID-19 cases in recent weeks is the B16172 variant, which originated in India,” it said.
+In the media reports in India, Mr Kejriwal was also cited as urging Prime Minister Narendra Modi’s government to immediately cancel air services with Singapore and prioritise the vaccination of children.
+Mr Kejriwal also made those views known on Twitter, which Singapore Foreign Affairs Minister Vivian Balakrishnan responded to on Wednesday morning:",,idiosyncratic,15.48264985
+53,53,5/17/2021 0:00,Are you a robot?,https://www.bloomberg.com/opinion/articles/2021-05-17/singapore-s-covid-lockdown-is-a-smart-combination-of-strict-and-lax-measures,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,pandemic,10.48233361
+54,54,5/14/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-05-14/singapore-to-return-to-lockdown-mode-for-one-month-as-cases-rise,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+55,55,5/17/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-05-17/world-economic-forum-to-cancel-annual-meeting-in-singapore,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+56,56,5/14/2021 0:00,"Singapore stocks slump as Covid restrictions tighten, travel bubble with Hong Kong likely delayed",https://www.cnbc.com/2021/05/14/singapore-covid-hong-kong-travel-bubble-likely-delayed-new-restrictions.html,"The Singapore government said it's ""very likely"" that the travel bubble with Hong Kong will not begin on May 26 as planned.
+The Singapore-Hong Kong air travel bubble would have allowed travelers to skip quarantine.
+Singapore's Transport Minister Ong Ye Kung said Hong Kong is ""a very safe region"" now, with few new Covid cases detected daily.
+However, infections in Singapore have been climbing and the city-state likely won't meet the threshold to start the travel bubble, he added.
+Both sides will make a decision early next week on whether to go ahead with the air travel bubble launch, said Ong.",,idiosyncratic,16.45760434
+57,57,5/17/2021 0:00,"Singapore warns children susceptible to virus variants, shuts schools",https://www.reuters.com/world/asia-pacific/singapore-warns-children-susceptible-virus-variants-shuts-schools-2021-05-17/,"""Some of these (virus) mutations are much more virulent, and they seem to attack the younger children,"" said Education Minister Chan Chun Sing.
+On Sunday, Singapore confirmed 38 locally transmitted COVID-19 cases, the highest daily number since mid-September, with 17 currently unlinked.
+Singapore has reported more than 61,000 virus cases, with the bulk linked to outbreaks last year in foreign worker dormitories, and 31 deaths.
+The Asian trade and financial hub of 5.7 million people had until recently been reporting almost zero or single-digit daily infections locally for months.
+Chan said the government is also working on plans to vaccinate children below 16 years after regulatory approval, which was being sought by Pfizer.",,pandemic,9.576236309
+58,58,5/17/2021 0:00,9 locally transmitted cases among 34 new COVID-19 infections in Singapore; 1 new death,https://www.channelnewsasia.com/singapore/covid-19-cases-community-tan-tock-seng-hospital-imported-may-1-1336696,"LOCALLY TRANSMITTED CASESNine locally transmitted cases were among the 34 new COVID-19 infections reported in Singapore as of noon on Saturday, MOH said in its preliminary daily update.
+She was tested for COVID-19 and her test result came back positive on the same day.
+Her test result came back positive on May 1, and she was conveyed in an ambulance to NCID.
+Locally, MOH said that individuals should limit their social interactions in view of the growing number of community cases.
+As of Saturday, Singapore has reported a total of 61,179 COVID-19 cases.",,pandemic,4.954346493
+59,59,5/31/2021 0:00,Singapore's Covid restrictions may be relaxed after June 13 if situation improves,https://www.cnbc.com/2021/05/31/singapore-covid-prime-minister-on-tests-tracing-and-vaccination.html,"Lee Hsien Loong, Singapore's prime minister.
+Roslan Rahman | AFP | Getty ImagesSINGAPORE — Singapore's Prime Minister Lee Hsien Loong said Monday that the country's Covid restrictions may be relaxed after June 13 if the situation improves.
+""If our situation continues to improve, and the number of community cases falls further, we should be able to relax the restrictions after 13 June,"" he said.
+The Southeast Asian nation imposed tighter measures twice in May, after the number of local coronavirus infections climbed higher in April.
+Singapore is using various types of Covid-19 tests along with polymerase chain reaction tests, which are widely viewed as the gold standard.",,idiosyncratic,13.47363254
+60,60,5/31/2021 0:00,"BioNTech to produce mRNA vaccines in Singapore, its new regional headquarters",https://www.channelnewsasia.com/business/biontech-vaccines-mrna-singapore-regional-headquarters-1354216,"SINGAPORE: German biotechnology firm BioNTech, which partnered Pfizer to develop a COVID-19 vaccine using messenger RNA (mRNA) technology, will set up its regional headquarters in Singapore, along with a manufacturing facility.
+BioNTech added that it plans to open its Singapore office and initiate construction of the manufacturing facility this year, subject to planning approval.
+It will be equipped to ""produce a range of novel mRNA vaccines and therapeutics for infectious diseases and cancer"", it added.
+""With this planned mRNA production facility, we will increase our overall network capacity and expand our ability to manufacture and deliver our mRNA vaccines and therapies to people around the world.""
+“In particular, BioNTech’s mRNA manufacturing facility will contribute significantly to the region’s ability to address future pandemic threats,"" he said.",,pandemic,14.10795625
+61,61,2021-05-10 15:09:40+08:00,"Vaccine maker BioNTech to set up regional HQ, manufacturing site in S'pore",https://www.straitstimes.com/business/vaccine-maker-biontech-to-set-up-regional-headquarters-manufacturing-site-in-singapore,"SINGAPORE - BioNTech, the vaccine maker that has partnered with Pfizer on its Covid-19 shot, will be designating Singapore as its regional headquarters for South-east Asia, and will set up an mRNA manufacturing facility here.
+It plans to open its Singapore office and start the construction of the manufacturing facility in 2021, subject to planning approval.
+""The global supply can only be addressed by increasing the existing production capacities.
+Across the world, over 1 billion doses of Covid-19 vaccines have been administered.
+Our hope here is that we can establish both a regional and even potentially global supply for a range of different vaccines and therapies based in Singapore.""",,pandemic,7.92636518
+62,62,2021-05-10 15:09:40+08:00,"BioNTech to produce vaccine in Singapore, as it expands in Asia",https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/BioNTech-to-produce-vaccine-in-Singapore-as-it-expands-in-Asia,"SINGAPORE -- German pharmaceutical company BioNTech plans to set up a vaccine manufacturing facility in Singapore as early as 2023 to meet future demand in Southeast Asia, the company announced Monday.",,idiosyncratic,13.26044651
+63,63,2021-05-10 15:09:40+08:00,"3 new community COVID-19 cases in Singapore, including two linked to Changi Airport cluster",https://www.channelnewsasia.com/singapore/covid-19-community-cases-changi-airport-cleaner-may-10-1376781,"SINGAPORE: Three community cases were among 19 new COVID-19 infections reported in Singapore as of noon on Monday (May 10), said the Ministry of Health (MOH).
+Two of the three community cases work in Changi Airport Terminal 3 and are linked to the cluster involving Case 62873, an 88-year-old airport cleaner employed by Ramky Cleantech Services.
+CHANGI AIRPORT CLUSTERThe two new COVID-19 cases who work at Changi Airport were both fully vaccinated against COVID-19.
+The other case is a 59-year-old Singaporean man who is employed by Certis Cisco as an aviation security officer at Changi Airport Terminal 3.
+There are now 10 cases linked to the cluster at Changi Airport.",,idiosyncratic,15.87801417
+64,64,2021-05-12 22:24:48+08:00,"Coronavirus: ﻿Singapore’s Jewel Changi Airport closed after outbreak, along with terminal buildings",https://www.scmp.com/news/asia/southeast-asia/article/3133251/singapores-jewel-changi-airport-and-terminal-buildings-be,"A passenger pushes her luggage through the arrival hall of Changi Airport in Singapore.
+Photo: EPA-EFE",,idiosyncratic,15.67867349
+65,65,2021-05-10 06:41:44+05:30,Singapore tests thousands as unlinked Covid-19 cases persist,https://www.livemint.com/news/world/singapore-tests-thousands-as-unlinked-covid-19-cases-persist-11620607637326.html,"Singapore will test thousands of people for Covid-19 as the number of infections unlinked to current virus clusters continued to rise over the weekend.
+An additional 10 Covid-19 cases were reported by the country’s health ministry late on Sunday, including a private-hire driver with Grab Holdings Inc., an employee at Lendlease Pte and a landscaper at government agency National Parks Board, none of whom are linked to previous virus cases.
+The number of unlinked virus cases in the local community has risen to 13 cases in the past week from 10 the week before, the government said Sunday.
+The threat had been easing for Singapore until a few weeks ago when new clusters started to emerge, including cases with the variant of Covid-19 first detected in India.
+A rise in unlinked cases in Singapore could jeopardize a planned travel bubble with Hong Kong, scheduled to begin on May 26.",,idiosyncratic,16.48389989
+66,66,5/24/2021 0:00,Singapore provisionally approves 60-second COVID-19 breathalyser test,https://www.reuters.com/business/healthcare-pharmaceuticals/singapore-provisionally-approves-60-second-covid-19-breathalyser-test-2021-05-24/,"REUTERS/Chen Lin/File PhotoSINGAPORE, May 24 (Reuters) - Singapore authorities have provisionally approved a COVID-19 breathalyser test that aims to show whether someone is infected with the coronavirus in under a minute, according to the local startup that developed the product.
+The breath analysis will be carried out alongside the current compulsory COVID-19 antigen rapid test.
+The breath test achieved more than 90% accuracy in a Singapore-based pilot clinical trial, the company said last year.
+Any individual screened as positive will need to undergo a confirmatory polymerase chain reaction (PCR) COVID-19 swab test, the company said.
+read more($1 = 1.3307 Singapore dollars)Register now for FREE unlimited access to Reuters.com RegisterReporting by Aradhana Aravindan in Singapore Editing by Ed DaviesOur Standards: The Thomson Reuters Trust Principles.",,pandemic,5.858489666
+67,67,5/24/2021 0:00,Singapore to extend stay-home notice to 21 days for travellers from higher-risk places,https://www.channelnewsasia.com/singapore/travellers-history-higher-risk-places-serve-21-day-stay-home-1347006,"SINGAPORE: Travellers with recent travel history to higher risk countries and regions will have to serve a 21-day stay-home notice at dedicated facilities from May 8.
+Those currently serving their stay-home notice and have yet to complete it before this date will have to serve another seven days at their stay-home notice location.
+Higher risk countries and regions refer to all places except Australia, Brunei Darussalam, Mainland China, New Zealand, Taiwan, Hong Kong and Macau.
+Speaking at a press conference by the multi-ministry task force on Tuesday (May 4), co-chair Lawrence Wong said the global COVID-19 situation has “worsened”, with new variants and new cases spreading from South Asia to Southeast Asia.
+“We are adopting this more stringent border measure up until the end of May, beyond at that time we will do a further review depending on the global situation and the local situation, and we will continue to update and fine-tune our border measures.”",,idiosyncratic,13.0199863
+68,68,5/24/2021 0:00,COVID-19: Singapore-Hong Kong air travel bubble to be deferred for a second time,https://www.channelnewsasia.com/singapore/covid-19-singapore-hong-kong-air-travel-bubble-deferred-1372431,"SINGAPORE: The launch of the Singapore-Hong Kong air travel bubble, originally planned for May 26, will be deferred for the second time.
+The deferment comes amid a recent increase in unlinked COVID-19 community cases in Singapore.
+The country is ""unable to meet the criteria to start"" the air travel bubble, said Singapore's Ministry of Transport (MOT) on Monday (May 17).
+The air travel bubble, which was initially due to launch on Nov 22 last year, was deferred after a rise in COVID-19 cases in Hong Kong.
+Both cities announced on Apr 26 – before the increase in unlinked community cases in Singapore – that the travel bubble would resume on May 26.",,Acute climatological event (droughts),21.48265247
+69,69,5/20/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-05-20/singapore-finds-27-new-virus-cases-with-some-unlinked-infections,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,15.20975269
+70,70,6/10/2021 0:00,"Singapore, Australia working towards travel bubble, leaders say",https://www.reuters.com/world/asia-pacific/singapore-australia-working-towards-travel-bubble-leaders-say-2021-06-10/,"Australia's Prime Minister Scott Morrison and Singapore's Prime Minister Lee Hsien Loong give a joint news conference at the Istana in Singapore June 10, 2021.
+Ministry of Communications and Information/Handout via REUTERSSINGAPORE, June 10 (Reuters) - Singapore and Australia will work towards putting in place an air travel bubble between the two countries, their prime ministers said on Thursday, after more than a year of travel disruption caused by the pandemic.
+Singapore had in March said the two nations were discussing plans for quarantine-free travel.
+""When all preparations are ready, then we can start small with an air travel bubble to build confidence on both sides,"" he said.
+Morrison said he welcomed the countries working together to put the systems in place to enable a bubble to emerge between them.",,idiosyncratic,16.45760434
+71,71,2021-06-10 19:12:42+08:00,"S'pore and Australia PMs agree to work towards a travel bubble, with students to pilot arrangement",https://www.straitstimes.com/singapore/singapore-and-australia-pms-agree-to-work-towards-an-air-travel-bubble-between-their,"SINGAPORE - Singapore and Australia will work towards an air travel bubble and both nations will lay the groundwork for resuming two-way travel in a safe and calibrated manner, said the prime ministers of both countries on Thursday (June 10).
+Both prime ministers expressed their hope that Singapore students in Australia would be the first to get the opportunity to travel from this arrangement so that they can continue their studies, which have been disrupted by Covid-19 travel restrictions.
+At a joint press conference after their meeting, Mr Lee said they discussed the fight against Covid-19 and resuming travel between the two countries.
+""We discussed how two-way travel between Singapore and Australia can eventually resume, in a safe and calibrated manner, when both sides are ready,"" he said.
+Mr Lee added that there is a need to prepare the infrastructure and processes for such travel.",,pandemic,17.63057259
+72,72,2021-06-10 19:12:42+08:00,"Sri Lanka Sues Singapore After Ship Spews Plastic Waste, Causing Huge Environmental Damage",https://www.globalcitizen.org/en/content/plastic-pollution-ocean-ship-sri-lanka/,"As much as 300 million tonnes of plastic are produced each year — half of which is made in Asia.
+Dharshani Lahandapura, the chair of the Marine Environment Protection Authority (MEPA), said the containers held plastic pellets known as nurdles.
+#srilanka_navy together with other stakeholders working at full force to mitigate damage to marine eco-system.
+pic.twitter.com/35IANdy5xf — The Sri Lanka Navy (@srilanka_navy) May 27, 2021Once the fire was under control, Sri Lanka turned its attention to X-Press Feeders, the company that operates the ship.
+The general manager of MEPA, Terney Pradeep Kumara, said the company would face criminal charges under the nation’s Marine Pollution Prevention Act.",,idiosyncratic,12.43251813
+73,73,2021-06-10 19:12:42+08:00,Singapore authorities investigate stricken cargo ship off Sri Lanka,https://www.todayonline.com/singapore/singapore-authorities-investigate-stricken-cargo-ship-sri-lanka,"SINGAPORE — Singapore authorities said that they have started their own investigation into a stricken cargo ship carrying tonnes of chemicals that caught fire off Sri Lanka's west coast.
+The Singapore-registered MV X-Press Pearl, carrying 1,486 containers, including 25 tonnes of nitric acid along with other chemicals and cosmetics, was anchored off Sri Lanka's west coast when a fire erupted on board after an explosion on May 20.
+Singapore's Marine and Port Authority (MPA) said it understood that the ship's stern was now submerged, and the ship may be at risk of sinking.
+Sri Lankan authorities were looking into the cause of the incident with the ship operator, the MPA said in a statement late on Wednesday.
+""As the flag State, MPA has also commenced its own investigation on the incident,"" it added.",,Acute climatological event (droughts),25.00632238
+74,74,2021-06-10 19:12:42+08:00,Formula 1: Singapore Grand Prix cancelled for second year in a row amid COVID-19 pandemic,https://www.channelnewsasia.com/sport/formula-1-singapore-grand-prix-cancelled-second-year-covid-19-1830601,"SINGAPORE: The Singapore Grand Prix has been cancelled for the second year in a row amid the ongoing COVID-19 situation.
+Race promoter Singapore GP on Friday (Jun 4) announced the cancellation of the 2021 Formula 1 Singapore Airlines Singapore Grand Prix, citing ""ongoing safety and logistic concerns"" brought about by the pandemic.
+Given the ""evolving and unpredictable"" pandemic situation around the world, Singapore GP said it has become increasingly challenging to stage a “complex multi-faceted event” for tens of thousands of local and overseas spectators.
+Ticket holders who deferred their 2020 tickets to the 2021 race will be fully refunded.
+Singapore GP said it will be contacting these ticket holders directly with the details.",,Man-Made Disaster,24.43076633
+75,75,2021-06-24 05:00:00+08:00,Singapore preparing road map for living with Covid-19,https://www.straitstimes.com/singapore/singapore-preparing-road-map-for-living-with-covid-19,"SINGAPORE - Singapore will prepare its population to deal with Covid-19 as part of their daily lives and people will be able to work, travel and shop without quarantines and lockdowns, even with the coronavirus in their midst.
+With enough people vaccinated, Covid-19 will be managed like other endemic diseases such as the common flu and hand, foot and mouth disease, said the three co-chairmen of the Government's multi-ministry task force on Covid-19 as they outlined plans for Singapore to transition to a new normal.
+A road map is being drawn up to shift to this new normal and it will be done in tandem with achieving certain vaccination milestones.
+Singapore has been taking steps to prepare for Covid-19 becoming endemic and has ramped up its vaccination drive amid the battle to bring down the spike in cases.
+By early next month, two-thirds of the population in Singapore will have received at least one jab of the two-jab vaccines, said the ministers.",,idiosyncratic,4.167624611
+76,76,2021-06-24 05:00:00+08:00,Singapore eases COVID-19 restrictions in two phases: What is allowed and when,https://www.channelnewsasia.com/singapore/covid-19-restrictions-eased-what-is-allowed-when-1846376,"The prevailing advice to limit social gatherings to no more than two a day stays.
+BIGGER MARRIAGE SOLEMNISATIONSUp to 250 attendees will be allowed at marriage solemnisations with pre-event testing, up from the current limit of 100.
+Couples will be allowed to unmask for key wedding moments while attendees will be allowed to unmask momentarily for photo-taking.
+A maximum of 250 attendees will be allowed in cinemas with pre-event testing, up from the current limit of 100.
+If there are fewer than 50 cinema-goers, pre-event testing will not be required.",,pandemic,3.851036524
+77,77,2021-06-24 05:00:00+08:00,Teen in Singapore admits to sending death threats to Premier League footballer Neal Maupay,https://www.channelnewsasia.com/singapore/singapore-teen-neal-maupay-death-threats-derek-ng-de-ren-1826096,"SINGAPORE: A Singaporean teen on Wednesday (Jun 2) admitted to harassing English Premier League footballer Neal Maupay by threatening to kill the Brighton & Hove Albion forward and his family in online messages sent last year.
+POSSIBLE PROBATION, REFORMATIVE TRAININGDuring the proceedings on Wednesday, District Judge May Mesenas called for reports to assess if Ng is suitable for probation or reformative training, according to TODAY.
+Yet they are not so serious as to necessitate the calling of a reformative training report,” he reportedly said.
+The judge disagreed and ordered that Ng be remanded for seven days, so that the reformative training report can be prepared.
+Reformative training, a regimented rehabilitation programme for young offenders who commit relatively serious crimes, is a more severe punishment.",,idiosyncratic,16.26712895
+78,78,2021-06-24 05:00:00+08:00,Indonesian man who entered Singapore illegally among new COVID-19 cases,https://www.channelnewsasia.com/singapore/covid-19-imported-case-indonesian-man-enter-singapore-illegally-1960651,"SINGAPORE: An Indonesian man who had entered Singapore without valid documentation was among the new imported COVID-19 cases reported on Thursday (Jun 17), the Ministry of Health (MOH) said.
+The 26-year-old man, known as Case 64265, was arrested by Police Coast Guard officers after entering Singapore waters.
+He was among the seven imported COVID-19 infections reported on Thursday.
+Singapore reported a total of 27 new COVID-19 cases on Thursday, 20 of which were in the community.
+As of Thursday, the country has reported a total of 62,366 COVID-19 cases and 34 fatalities from the disease.",,idiosyncratic,15.72213707
+79,79,2021-06-24 05:00:00+08:00,"7 new community COVID-19 cases in Singapore, including new cluster linked to karaoke lounge manager",https://www.channelnewsasia.com/singapore/singapore-new-covid-19-cases-community-june-4-karaoke-cluster-1832506,"In all, Singapore reported 13 new COVID-19 cases on Friday.
+Two community cases reported on Friday are household contacts of the KTV lounge manager.
+The Fuhua Primary School student was last in school on May 18 and is a family member and household contact of two previously confirmed COVID-19 cases.
+His test result came back positive for COVID-19 on the same day and his serology test result is pending.
+His PCR test result also came back positive for COVID-19 on the same day while his serology test result is pending.",,pandemic,11.2004461
+80,80,2021-06-24 05:00:00+08:00,GlobalFoundries puts $4bn into Singapore expansion,https://asia.nikkei.com/Business/Tech/Semiconductors/GlobalFoundries-puts-4bn-into-Singapore-expansion,SINGAPORE -- U.S. semiconductor giant GlobalFoundries will invest over $4 billion to expand its Singapore wafer plant and ramp up capacity as it attempts to tackle the global microchip shortage.,,idiosyncratic,12.9676145
+81,81,2021-06-24 05:00:00+08:00,,https://www.businesstimes.com.sg/global-enterprise/globalfoundries-breaks-ground-on-new-s5b-fab-in-singapore,,,Acute climatological event (droughts),43.3308336
+82,82,2021-06-22 15:00:00+08:00,"Chip giant GlobalFoundries to build new $5.4 billion plant in S'pore, add 1,000 high-value jobs",https://www.straitstimes.com/business/chips-giant-globalfoundries-to-increase-capacity-in-spore-add-1000-high-value-jobs,"SINGAPORE - Semiconductor manufacturer GlobalFoundries is increasing its production capacity in Singapore with a hefty US$4 billion (S$5.4 billion) investment.
+The addition of a new fab, or manufacturing plant, here comes amid a global chip shortage and is expected to add around 1,000 jobs, the firm said on Tuesday (June 22).
+About 95 per cent of these jobs will be high-value roles such as equipment technicians, process technicians, and engineers.
+The US$6 billion committed over the next few years is on top of its planned US$1.4 billion investment in 2021 to raise output at its factories.
+GlobalFoundries has five wafer fabs here and has committed $12 billion in fixed asset investments since its acquisition of Chartered Semiconductors in 2010.",,idiosyncratic,15.92482476
+83,83,6/28/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-06-28/singapore-grapples-with-reopening-plans-as-its-rivals-move-on,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,Military Conflicts,25.17399084
+84,84,6/28/2021 0:00,Moderna COVID-19 vaccine 'erroneously' given to 16-year-old boy in Singapore,https://www.channelnewsasia.com/singapore/moderna-covid-19-vaccine-error-16-year-old-boy-kolam-ayer-1833721,"SINGAPORE: A first dose of the Moderna COVID-19 vaccine was erroneously administered to a 16-year-old boy on Thursday (Jun 3) at Kolam Ayer Community Club vaccination centre, said the Ministry of Health (MOH) and Ministry of Education (MOE).
+The Moderna COVID-19 vaccine is currently authorised for use in Singapore for people aged 18 and above.
+""This resulted in his age being incorrectly registered as above 18 years of age, making it possible for a Moderna vaccination centre to be selected.
+The expert committee for COVID-19 vaccination said in a separate statement that it has reviewed the incident where the teen was ""erroneously administered"" the Moderna vaccine dose.
+Only the Pfizer-BioNTech COVID-19 vaccine has been authorised for use in Singapore for children aged 12 and above.",,idiosyncratic,16.45760434
+85,85,6/29/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-06-29/singapore-to-focus-on-local-virus-cluster-trends-prevention,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,pandemic,9.999468789
+86,86,2021-06-09 20:25:29+08:00,"South Korea hopes to expedite talks with Singapore, Taiwan to start travel bubble from July",https://www.straitstimes.com/asia/east-asia/south-korea-hopes-to-expedite-talks-with-singapore-taiwan-to-start-travel-bubble-from,"SEOUL - South Korea is hoping to expedite travel bubble talks with the likes of Singapore and Taiwan to allow quarantine-free travel for fully vaccinated people from as early as July, as part of a national campaign to encourage mass vaccination.
+The ministry said talks are already under way with Singapore and Taiwan to sign a travel bubble agreement, and it will also reach out to other territories such as Guam, Saipan and Thailand to discuss reopening air travel.
+An official was cited as saying that the prospect of signing a travel bubble deal with Singapore, Guam or Saipan is higher as they have shown a lot of enthusiasm for such an agreement.
+Singapore had planned to launch its first bilateral air travel bubble with Hong Kong last November but it was postponed twice due to spikes in Covid-19 cases.
+Jeju Air, South Korea's largest budget airline, has resumed flights to Saipan in anticipation of a surge in travel demand.",,idiosyncratic,16.45760434
+87,87,2021-06-09 20:25:29+08:00,English gaining ground as the language most used at home: Census 2020,https://www.channelnewsasia.com/singapore/census-2020-more-households-speaking-english-1966731,"For the Chinese ethnic group, English overtook Mandarin as the most used language at home – with a proportion of 47.6 per cent in 2020, up from 32.6 per cent in 2010.
+For the Malay ethnic group, a majority still spoke the Malay language most frequently at home in 2020.
+The proportion who used English most frequently rose to 39 per cent in 2020, more than double the 17 per cent from a decade before.
+For Chinese residents, for instance, nearly eight in 10 of those aged between five and 14 used English the most at home in 2020.
+About seven in 10 of the young residents used English the most at home, while half of elderly residents did so.",,idiosyncratic,8.82048478
+88,88,2021-06-16 12:53:41+08:00,Wanted French national has continued journey to France after transit in Singapore: MHA,https://www.straitstimes.com/singapore/wanted-french-national-has-continued-journey-to-france-after-transit-in-singapore-mha,"SINGAPORE - A wanted French national and his family, who had made a transit in Singapore on Sunday (June 13), left Singapore on Tuesday, said the Ministry of Home Affairs (MHA).
+The Malaysian authorities deported them to France via Singapore on Sunday.
+During their transit in Singapore, the pregnant Ms Bardet had complained of discomfort.
+A spokesman for MHA said on Wednesday: ""Daillet and the children remained in the transit hotel at Terminal 3.
+The MHA said the five French nationals were not under the custody of the Singapore police at any point during their transit in Singapore.",,idiosyncratic,15.3573653
+89,89,2021-07-30 21:52:14+08:00,US Vice-President Kamala Harris to visit Singapore and Vietnam,https://www.straitstimes.com/world/united-states/us-vice-president-kamala-harris-to-visit-singapore-and-vietnam,"WASHINGTON - United States Vice-President Kamala Harris will travel to Singapore and Vietnam next month to ""strengthen relationships and expand economic cooperation with two critical Indo-Pacific partners of the United States"", her spokesman announced on Friday (July 30).
+""Vice-President Harris will be the first vice-president to ever visit Vietnam.""
+Ms Harris' visit affirms the strength of the relationship between the US and Singapore, said the press secretary to Prime Minister Lee Hsien Loong in a statement on Friday.
+PM Lee said: ""I am delighted to welcome Vice-President Harris on her first official visit to Singapore.
+""By visiting Singapore and Vietnam, Vice-President Harris can reinforce overlapping strategic interests in a stable, rules-based order with two of the region's most strategic countries,"" he said.",,idiosyncratic,9.7381765
+90,90,7/16/2021 0:00,Singapore delays reopening plans after karaoke club cluster,https://www.reuters.com/world/asia-pacific/singapore-retighten-covid-19-curbs-after-recent-rise-cases-2021-07-16/,"People sit on the banks of the Singapore River at Clarke Quay in Singapore April 14, 2018.
+However, authorities will allow fully vaccinated individuals to continue to eat inside in groups of up to five at restaurants that have sufficient checks in place.
+""Potentially, this means that we can see very large clusters emerging over the coming weeks,"" he said.
+Singapore is racing to find people linked to the clusters at karaoke or KTV lounges and bars, but there are concerns some patrons could be reluctant to come forward.
+Register now for FREE unlimited access to Reuters.com RegisterReporting by Chen Lin and Aradhana Aravindan in Singapore Editing by Ed DaviesOur Standards: The Thomson Reuters Trust Principles.",,Economic Crisis,13.42098486
+91,91,2021-07-27 15:24:04+08:00,US defence chief Lloyd Austin and Ng Eng Hen reaffirm defence ties,https://www.straitstimes.com/singapore/us-defence-secretary-lloyd-austin-meets-ng-eng-hen-reaffirms-defence-ties,"SINGAPORE - US Defence Secretary Lloyd Austin met Defence Minister Ng Eng Hen in Singapore on Tuesday (July 27), as both leaders reaffirmed defence ties and expressed hope for further cooperation in areas such as cyber defence and strategic communications.
+The Ministry of Defence said Dr Ng and Mr Austin reaffirmed the excellent and longstanding bilateral defence relations during their meeting, and expressed satisfaction that military cooperation continued to be strong despite the Covid-19 pandemic.
+He will visit Vietnam and the Philippines after his Singapore trip, before heading back to Washington.
+Mr Austin, who took office in January, called on Prime Minister Lee Hsien Loong on Tuesday as part of his visit.
+He was due to lead a delegation last month to the annual Shangri-La Dialogue in Singapore, but the event was cancelled.",,pandemic,9.28679595
+92,92,2021-07-14 10:46:59+08:00,Dream Cruises ship turns back to Singapore after Covid-19 case found on board,https://www.straitstimes.com/singapore/dream-cruises-ship-turns-back-to-singapore-after-suspected-covid-19-case-on-board,"SINGAPORE - Dream Cruises ship World Dream was forced to turn back to Singapore after a Covid-19 case was found on board.
+The four-day, three-night cruise to nowhere, which had 1,646 passengers and 1,249 crew members on board, departed on Sunday (July 11).
+A 40-year-old passenger was identified as a close contact of a confirmed Covid-19 case on Tuesday and was immediately isolated as part of onboard health protocols, said Singapore Tourism Board's director of cruise Annie Chang on Wednesday.
+According to a notice from Dream Cruises to passengers seen by The Straits Times, the infected passenger was reported to have received both Covid-19 vaccination doses.
+""Upon detection, onboard contact tracing was immediately activated to identify and to inform close contact guests and crew for further quarantine and examination,"" it added.",,cyberattack,2.781614023
+93,93,7/20/2021 0:00,Singapore tightens restrictions again as Covid cases rise,https://www.cnbc.com/2021/07/20/singapore-tightens-restrictions-again-as-covid-cases-rise.html,"SINGAPORE — Singapore's government on Tuesday said it will again tighten Covid-19 measures as new cases continue to rise, complicating the country's reopening plans.
+Covid-19 cases in Singapore have been on the rise in recent weeks.
+Health ministry data showed last week, there were 480 community cases, a significant jump from the 19 reported in the previous seven days.
+Given the current rate of transmission, cases are expected to rise sharply as more people will likely get infected.
+Between July 12 and July 18, there was an average of 46 community cases detected per day — the highest number of cases detected since April 2020, the health ministry said Tuesday.",,idiosyncratic,15.94567415
+94,94,7/20/2021 0:00,130 new locally transmitted COVID-19 cases in Singapore; 5 new clusters,https://www.channelnewsasia.com/singapore/covid-19-cases-jurong-fishery-cluster-unlinked-jul-28-moh-2074506,"SINGAPORE: Singapore reported 130 new locally transmitted COVID-19 infections as of noon on Wednesday (Jul 28), including 27 cases linked to the Jurong Fishery Port/Hong Lim Market & Food Centre cluster and two to the cluster in KTV lounges.
+Another 21 linked cases were detected through surveillance testing.
+In total, Singapore reported 136 new COVID-19 cases on Wednesday.
+5 NEW CLUSTERSFive new clusters have been identified, taking the total number of active clusters in Singapore to 44.
+The other new clusters reported on Wednesday have a total of three or four cases each.",,idiosyncratic,15.05339752
+95,95,2021-07-20 11:19:41+08:00,"Singapore teen charged with murder of 13-year-old schoolmate, remanded for psychiatric assessment",https://www.scmp.com/news/asia/southeast-asia/article/3141756/singapore-teen-charged-murder-13-year-old-schoolmate,Students leave the River Valley High School on Monday after a 13-year-old boy was found dead on the campus.,,idiosyncratic,14.37799496
+96,96,2021-07-20 11:19:41+08:00,FTAs don't give 'unfettered access' to Singapore's labour market; policies must benefit Singaporeans: Tan See Leng,https://www.channelnewsasia.com/singapore/fta-ceca-foreign-worker-policy-singaporeans-tan-see-leng-1990731,"Dr Tan said that none of Singapore's FTAs gives ICTs ""unfettered access"" to the country's labour market, and they all have to meet the work pass criteria set by the Ministry of Manpower (MOM).
+Among them, there were about 4,200 ICTs, of which around 500 were from India, said Dr Tan.
+Dr Tan noted the attention on the finance and infocomm sectors, which accounted for 40 per cent of the increase in EPs.
+As a result, there has been significant job creation,"" said Dr Tan.
+Perhaps Mr Leong would like to think deeply about that, and deliberate and offer us some advice,"" said Dr Tan.",,idiosyncratic,16.44775397
+97,97,7/20/2021 0:00,Singapore tightens coronavirus curbs to buy time to boost vaccinations,https://www.reuters.com/world/asia-pacific/singapore-tighten-coronavirus-curbs-again-cases-rise-2021-07-20/,"People who had visited a mall which became a coronavirus disease (COVID-19) cluster, queue up for their swab tests in Singapore May 20, 2021.
+Register now for FREE unlimited access to Reuters.com RegisterHe said vaccinations had been completed for half the city-state's population.
+Once the situation stabilises, Singapore will have more lenient measures for those vaccinated, Wong said.
+Singapore has ramped up testing after clusters of infections at karaoke KTV bars and a fishery port.
+Singapore has reported more than 63,000 coronavirus infections overall, the bulk of those linked to outbreaks in migrant workers dormitories last year.",,idiosyncratic,16.36149747
+98,98,7/20/2021 0:00,Singapore eyes September border easing once vaccine rate hits 80%,https://asia.nikkei.com/Spotlight/Coronavirus/Singapore-eyes-September-border-easing-once-vaccine-rate-hits-80,"SINGAPORE -- Singapore is looking at relaxing its border rules this September, by which time around 80% of the country's 5.7 million people should have received two doses of coronavirus vaccines.",,pandemic,8.819707552
+99,99,7/26/2021 0:00,Singapore aims to start quarantine-free travel by September,https://www.reuters.com/world/asia-pacific/singapore-says-almost-80-population-be-fully-vaccinated-by-sept-2021-07-26/,"SINGAPORE, July 26 (Reuters) - Singapore is looking to allow quarantine-free travel for those who are fully vaccinated against COVID-19 from September, when 80% of the city-state's population should be inoculated, the government said on Monday.
+""If you want to go out to dine in the restaurant or workout in the gym, you have to be fully vaccinated.""
+As of July 25, Singapore had 1,537 active cases, with 12 cases of serious illness requiring oxygen, and two patients in critical condition in the intensive care unit (ICU).
+None of the 14 cases is fully vaccinated.
+Register now for FREE unlimited access to Reuters.com RegisterReporting by Aradhana Aravindan and Chen Lin in Singapore Editing by Ed DaviesOur Standards: The Thomson Reuters Trust Principles.",,idiosyncratic,13.57510078
+100,100,2021-07-27 23:12:14+08:00,"Post-pandemic world will be different, but Singapore's fundamental goals don't change: Lawrence Wong",https://www.straitstimes.com/singapore/politics/post-pandemic-world-will-be-different-but-singapores-fundamental-goals-dont,"Life will be different from what it used to be, with greater uncertainty and volatility to be expected, Mr Wong told the House.
+""As we transition to this new normal, we must go beyond support measures towards building strength and resilience for the future.
+At present, several emerging global trends threaten Singapore's value proposition as a hub economy, Mr Wong said.
+""But we cannot assume that this lead is going to be with us forever,"" Mr Wong said.
+""This process of restructuring and transformation is vital to keeping our economy vibrant and strong,"" Mr Wong added.",,pandemic,13.42437367
+101,101,7/23/2021 0:00,"Vaccinated people make up 75% of recent COVID-19 cases in Singapore, but few fall ill",https://www.reuters.com/world/asia-pacific/vaccinated-people-singapore-make-up-three-quarters-recent-covid-19-cases-2021-07-23/,"Of Singapore's 1,096 locally transmitted infections in the last 28 days, 484, or about 44%, were in fully vaccinated people, while 30% were partially vaccinated and just over 25% were unvaccinated, Thursday's data showed.
+Register now for FREE unlimited access to Reuters.com RegisterWhile seven cases of serious illness required oxygen, and another was in critical condition in intensive care, none of the eight had been fully vaccinated, the health ministry said.
+Singapore has already inoculated nearly 75% of its 5.7 million people, the world's second highest after the United Arab Emirates, a Reuters tracker shows, and half its population is fully vaccinated.
+""We've got to accept that all of us will have to have some restrictions, vaccinated or not vaccinated,"" said Peter Collignon, an infectious diseases physician and microbiologist at Canberra Hospital in the Australian capital.
+The recent rise in cases prompted authorities to tighten curbs on social gatherings in the push to boost vaccinations, particularly among the elderly.",,Economic Crisis,14.39925767
+102,102,7/26/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-07-26/singapore-sees-80-vaccinated-by-september-in-drive-to-reopen,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,pandemic,11.91279919
+103,103,7/1/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-07-01/singapore-to-follow-up-with-binance-in-wake-of-global-crackdown,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+104,104,7/14/2021 0:00,Singapore unveils one of the world's biggest floating solar panel farms,https://www.reuters.com/business/energy/singapore-unveils-one-worlds-biggest-floating-solar-panel-farms-2021-07-14/,"SINGAPORE, July 14 (Reuters) - Singapore unveiled on Wednesday one of the world's largest floating solar panel farms, spanning an area equivalent to 45 football fields and producing enough electricity to power the island's five water treatment plants.
+Located on a reservoir in western Singapore, the 60 megawatt-peak solar photovoltaic (PV) farm has been built by a wholly-owned subsidiary of Sembcorp Industries (SCIL.SI).
+1/2 General view of one of the world's largest floating solar panel farms in Singapore, July 13, 2021, in this still image taken from video.
+The solar panels are designed to last for 25 years and drones will be used to assist with maintenance.
+Currently, there are four other floating solar panel projects underway in Singapore.",,idiosyncratic,16.45760434
+105,105,7/14/2021 0:00,Singapore's economy roars back with a 14.3% surge in the second quarter from a year ago,https://www.cnbc.com/2021/07/14/singapore-releases-q2-2021-gdp-advance-estimates.html,"People wearing protective masks walk along the Jubilee Bridge at the Marina Bay waterfront on June 7, 2020 in Singapore.
+SINGAPORE — Singapore recorded its strongest economic growth in 11 years in the second quarter of 2021, rebounding from its worst economic slump on record a year ago due to the Covid-19 pandemic.
+The Southeast Asian economy surged 14.3% in the second quarter compared with the same period a year ago, according to advance estimates by the Ministry of Trade and Industry.
+That performance slightly exceeded the 14.2% year-on-year jump forecast by analysts in a Reuters poll.
+Circuit breaker refers to the partial lockdown implemented in Singapore, when large parts of the economy were shut to slow the spread of the coronavirus.",,idiosyncratic,16.46306195
+106,106,7/14/2021 0:00,MOH investigating case of 16-year-old who suffered cardiac arrest nearly a week after COVID-19 vaccination,https://www.channelnewsasia.com/singapore/covid-19-16-year-old-cardiac-arrest-vaccination-moh-investigate-1992571,"SINGAPORE: The Ministry of Health (MOH) said on Monday (Jul 5) it is investigating a case of a 16-year-old boy who suffered cardiac arrest six days after receiving his first dose of COVID-19 vaccination.
+“We will also work with the medical team in NUH to determine if this might be linked to his COVID-19 vaccination.
+The expert committee on COVID-19 vaccination will monitor the outcome of the investigation.
+Following ""extensive deliberation"", the expert committee said it continues to recommend mRNA COVID-19 vaccines for all eligible individuals, including adolescents and younger men.
+The protective benefits from the mRNA COVID-19 vaccines continue to outweigh the vaccination risks and vaccinations should continue to remain voluntary, it added.",,Economic Crisis,1.531687823
+107,107,7/14/2021 0:00,117 new locally transmitted COVID-19 cases in Singapore; 2 new clusters identified,https://www.channelnewsasia.com/singapore/covid-19-new-cases-july-25-jurong-fishery-post-cluster-moh-2065016,"LIKELY TO SEE HIGH NUMBER OF CASES IN COMING DAYS: MOHMOH said the overall number of new cases in the community has increased from 324 in the week before to 1,056 cases in the past week.
+The number of unlinked cases in the community has also increased from 24 cases in the week before to 136 cases in the past week.
+""Over the last 28 days, 15 local cases required oxygen supplementation, were admitted to ICU or passed away.
+In total, Singapore reported 125 new COVID-19 cases on Sunday.
+Protect yourself, and your family too.”As of Sunday, Singapore has reported a total of 64,179 COVID-19 cases and 37 fatalities from the disease.",,idiosyncratic,14.54042877
+108,108,2021-08-30 00:44:51+08:00,National Day Rally 2021: Read Prime Minister Lee Hsien Loong's speech in full,https://www.straitstimes.com/singapore/politics/national-day-rally-2021-prime-minister-lee-hsien-loongs-speech-in-full,"Racial harmony did not happen spontaneously in Singapore.
+Often, the majority group asserts its power and sidelines the minorities.
+Sometimes, the minorities pursue aggressive identity politics and the majority group feels pressured and threatened, and rallies around hardline chauvinist leaders.
+Our racial harmony is still work in progress, and will be so for a long time.
+That is not so hard but what is harder, to call out deliberate racist agitation that masquerades as something else.",,pandemic,14.27077417
+109,109,2021-08-30 00:44:51+08:00,Singapore must stay open or face 'disastrous' consequences: PM Lee,https://asia.nikkei.com/Politics/Singapore-must-stay-open-or-face-disastrous-consequences-PM-Lee,"SINGAPORE (Reuters) -- Singapore must stay open to preserve its status as a global business hub, its prime minister said on Sunday, even as the country continues to tighten its foreign-worker policies and addresses anxieties among locals over competition for jobs.",,idiosyncratic,16.03994082
+110,110,2021-08-30 00:44:51+08:00,NDR 2021: Singapore to enshrine into law workplace anti-discrimination guidelines,https://www.channelnewsasia.com/singapore/ndr-2021-anti-discrimination-law-tafep-pm-lee-2143101,"Mr Lee added that there is a need to assure Singaporeans that Employment Pass and S Pass holders are of the “right standard”.
+He said that “a practical and reasonable indication of quality, the standard, is how much the employer is prepared to pay for the work pass holder”.
+Therefore, to qualify for an Employment Pass or S Pass, there are salary cut-offs, which have risen in tandem with the rise in Singaporeans’ wages, Mr Lee said.
+For the financial sector, where salaries are higher, Singapore set a higher cut-off, he said.
+The approach towards disputes over discrimination will be modelled on how companies deal with disputes over salaries or wrongful dismissal.",,Economic Crisis,13.48044879
+111,111,8/11/2021 0:00,Singapore raises 2021 economic growth forecast as Covid vaccination progresses,https://www.cnbc.com/2021/08/11/singapore-updates-q2-gdp-full-year-2021-economic-forecasts.html,"People walk and cycle on a bridge leading away from the Merlion statue in the Marina Bay area of Singapore on Saturday, 22 May 2021.
+SINGAPORE — Singapore's government raised its official growth forecast for 2021 after the economy held up stronger than expected in the first half of the year as the domestic Covid-19 situation stabilizes.
+The Singapore economy is now expected to grow between 6% and 7% this year, the trade and industry ministry said Wednesday.
+That compared with the previous official projection range of 4% to 6%.
+""Barring a major setback in the global economy, the Singapore economy is expected to continue to see a gradual recovery in the second half of the year, supported in large part by outward-oriented sectors,"" the ministry said in an economic update.",,Economic Crisis,8.547026164
+112,112,2021-08-29 22:41:54+08:00,Covid-19 vaccination milestone of 80% may see further easing of restrictions: Experts,https://www.straitstimes.com/singapore/health/covid-19-vaccination-milestone-of-80-may-see-further-easing-of-restrictions-experts,"SINGAPORE - Covid-19 restrictions could be eased further, now that eight in 10 people have been fully vaccinated, although loosening would have to be in phases as there are still unvaccinated people at risk, said experts.
+There is no appetite to be rash and have a freedom day with removal of all restrictions at once,"" he said.
+Singapore will then move into the second stage, known as ""transition stage A"", which would see further economic reopening.
+But this is premised on a high vaccination rate and stable overall situation, with no surges that threaten to overwhelm the healthcare system, Mr Wong said.
+""This is exactly the evidence that shows vaccination is able to reduce the severity of Covid-19 infection, and with high vaccination uptake in the population, we are well poised to relax restrictions even further,"" said Prof Teo.",,Economic Crisis,6.621937577
+113,113,8/16/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-08-16/hsbc-buys-axa-singapore-for-575-million-to-grow-in-asia-wealth,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,pandemic,8.027337192
+114,114,8/9/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-08-09/singapore-hits-70-full-vaccination-rate-as-rules-start-to-ease,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+115,115,8/8/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-08-08/singapore-to-finetune-foreign-worker-policies-amid-expat-angst,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+116,116,2021-08-15 13:12:00+08:00,In Pictures: Meet Singapore's first panda cub,https://www.straitstimes.com/singapore/in-pictures-singapore-gets-first-panda-cub,"Despite being a first-time mum, Jia Jia’s maternal instincts kicked in as soon as the cub was born, and she picked up her newborn with care.
+PHOTO: WILDLIFE RESERVES SINGAPORE",,idiosyncratic,16.45760434
+117,117,9/3/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-09-03/singapore-takes-pause-on-reopening-moves-onto-vaccine-boosters,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,Acute climatological event (droughts),21.27509768
+118,118,9/3/2021 0:00,"Singapore to offer COVID-19 vaccine booster shots to seniors, some immunocompromised people",https://www.channelnewsasia.com/singapore/covid-19-vaccine-booster-shots-seniors-immunocompromised-elderly-care-homes-2154791,"SINGAPORE: Singapore will offer COVID-19 vaccine booster shots to people who are moderately to severely immunocompromised, as well as people aged 60 and above, and residents of aged care facilities.
+The Ministry of Health (MOH) and the Expert Committee on COVID-19 Vaccination have evaluated the need for booster shots, said co-chair of the COVID-19 multi-ministry task force Gan Kim Yong on Friday (Sep 3).
+Seniors are at risk of severe COVID-19 infection and may develop a lower immune response from their two-dose vaccination regimen, said MOH.
+They should receive a booster dose of an mRNA vaccine about six to nine months after having completed their primary course of vaccination regimen.
+Immunocompromised persons have a ""blunted immune response"" to vaccination, and are also at a higher risk of severe illness from COVID-19, said the Health Ministry.",,idiosyncratic,16.45760434
+119,119,2021-09-06 18:24:44+08:00,Younger adults may also get vaccine boosters as Singapore acts to prevent spike in Covid-19 cases,https://www.straitstimes.com/singapore/younger-adults-may-also-get-boosters-as-singapore-acts-to-prevent-spike-in-covid-19-cases,"SINGAPORE - The possibility of giving vaccine boosters to younger adults is being studied as Singapore embarks on an enhanced Covid-19 testing regime to dampen the increasing likelihood of an exponential increase in cases.
+In an update on Monday (Sept 6), Finance Minister Lawrence Wong, co-chairman of the multi-ministry task force handling the Covid-19 situation in Singapore, said the new testing regime will buy time for Singapore to roll out its vaccine booster programme for seniors.
+However, unvaccinated individuals remain susceptible, with cases doubling to more than 1,200 cases last week, up from 600 cases in the week before.
+The booster programme is on track and will be rolled out according to the planned timeline, said Mr Wong.
+Singapore will give its first Covid-19 vaccine booster shots - to seniors aged 60 and above, residents of aged-care facilities, and those whose immune systems are compromised - from this month.",,pandemic,4.336953857
+120,120,9/28/2021 0:00,Are you a robot?,https://www.bloomberg.com/opinion/articles/2021-09-28/singapore-forgot-about-managing-fear-when-it-battled-covid-by-the-numbers,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,14.78047732
+121,121,9/28/2021 0:00,"Singapore reports 2,236 COVID-19 cases, its highest ever single-day rise",https://www.reuters.com/world/asia-pacific/singapore-reports-2236-covid-19-cases-its-highest-ever-single-day-rise-2021-09-28/,"A woman walks across a tape demarcating social distancing in a mall during the coronavirus disease (COVID-19) outbreak, in Singapore September 28, 2021.
+REUTERS/Edgar SuSept 28 (Reuters) - Singapore's health ministry reported 2,236 new COVID-19 cases on Tuesday, the highest since the beginning of the pandemic.
+A recent rise in cases after the relaxation of some COVID-19 measures has prompted Singapore to pause further reopening.
+More than 80% of its population has been vaccinated against COVID-19.
+From this week, Singapore tightened some COVID-19 curbs such as limiting social gatherings to two people and making work from home a default.",,idiosyncratic,16.45760434
+122,122,2021-09-29 00:04:52+08:00,"5 seniors die from Covid-19 complications; 2,236 new cases in Singapore",https://www.straitstimes.com/singapore/covid-19-cases-hit-2236-including-5-who-die-from-complications,"SINGAPORE - Five more people have died from Covid-19 complications in Singapore, the Ministry of Health (MOH) said on Tuesday (Sept 28).
+The latest fatalities bring the total number of people who have died of Covid-19 this month to 30, compared with 18 last month.
+The number of new cases here hit 2,236 on Tuesday - surpassing the 2,000 mark for the first time.
+The total number of cases in Singapore now stands at 91,775.
+Two cases were added to the cluster, taking its total number to 11.",,pandemic,3.973066927
+123,123,9/10/2021 0:00,"Singapore pivots to living with Covid, refrains from tightening measures even as cases rise",https://www.cnbc.com/2021/09/10/covid-singapore-refrains-from-tightening-measures-even-as-cases-rise.html,"Singapore has one of the highest vaccination rates globally, with 81% of the population fully vaccinated, data from the health ministry showed.
+At the current trajectory, the number of cases could soon reach 1,000 per day, it added.
+But the number of serious cases has remained low.
+As of Thursday, there were 26 cases of serious illness requiring oxygen supplementation and seven critical cases in intensive care units, said the health ministry.
+Still, the city-state wants to limit the number of deaths from Covid and avoid overwhelming its hospitals, said Ong.",,idiosyncratic,15.17247126
+124,124,9/20/2021 0:00,Can we live with COVID-19? Singapore tries to blaze a path,https://www.aljazeera.com/news/2021/9/20/can-we-live-with-covid-19-singapore-tries-to-show-how,"Singapore – Only 60 people in Singapore have died from COVID-19 since the pandemic first emerged, and some 82 percent of its population is now fully vaccinated against the disease.
+“We are on a path of transition to a new normal of living with COVID-19,” Health Minister Ong Ye Kung told a virtual press conference on Friday.
+Do I have access to care?” Tucker, an American-trained oncologist living and practicing in Singapore since 2006, told Al Jazeera.
+“I would say it’s endemic when half our friends have it, or have had it,” Ong told Al Jazeera.
+“Singapore has done relatively well, with widespread testing, tracking, vaccinations, and broad adherence to government policies,” Jeannette Ickovics, a professor of public health and psychology at Yale-NUS College in Singapore, told Al Jazeera.",,pandemic,12.5908833
+125,125,9/30/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-09-30/singapore-s-reopening-resolve-tested-as-covid-deaths-hit-record,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,pandemic,3.279713882
+126,126,9/24/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-09-24/singapore-returns-to-work-from-home-as-covid-cases-surge,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+127,127,2021-09-14 22:45:35+08:00,Singapore hopes US and China can find ways to move forward despite their differences: Vivian Balakrishnan,https://www.straitstimes.com/singapore/singapore-hopes-us-and-china-can-find-ways-to-move-forward-despite-their-differences,"SINGAPORE - Competition between major powers is inevitable, but constructive competition and cooperation are possible, necessary and beneficial for all countries, Foreign Minister Vivian Balakrishnan said on Tuesday (Sept 14).
+He noted that in recent months, US-China tensions have generated some discomfort and unease among countries in the region.
+Dr Balakrishnan said he was glad to hear from his counterpart that China seeks a cooperative relationship with the United States, as an equal.
+Dr Balakrishnan added that Singapore welcomed the recent phone call between Chinese President Xi Jinping and US President Joe Biden.
+""It has created some concerns and even misjudgments towards China,"" he said, adding that this would affect the development of bilateral relations.",,idiosyncratic,16.45760434
+128,128,2021-09-06 11:49:06+08:00,"Singapore joins US, EU in lifting flight ban on Boeing 737 Max planes",https://www.straitstimes.com/singapore/transport/boeing-737-max-planes-will-be-able-to-ferry-passengers-in-singapore-after-ban,"SINGAPORE - Singapore's aviation authority has lifted a flight ban on Boeing 737 Max planes that was imposed more than two years ago.
+The 737 Max had been banned from commercial operations in Singapore in March 2019 after two fatal crashes in Indonesia and Ethiopia involving the aircraft.
+The 737 Max was grounded by aviation authorities worldwide after two crashes in five months - from October 2018 to March 2019.
+It requires airline operators that operate the 737 Max in Singapore to implement a set of measures, including establishing a specific flight crew training programme.
+Foreign airlines intending to operate the 737 Max will have to comply with a range of safety requirements as well.",,idiosyncratic,14.69791227
+129,129,9/6/2021 0:00,Singapore trials patrol robots to deter bad social behaviour,https://www.reuters.com/technology/singapore-trials-patrol-robots-deter-bad-social-behaviour-2021-09-06/,"REUTERS/Edgar SuSINGAPORE, Sept 6 (Reuters) - Singapore has started trialing robots to patrol public areas and deter poor social behaviour in its latest effort to further augment its strong portfolio of surveillance tools.
+It said the two patrol robots, named Xavier, are equipped with cameras that can detect bad social behaviour and trigger real-time alerts to the command and control centre.
+Register now for FREE unlimited access to Reuters.com RegisterThe trial is taking place at an area with high foot traffic in central Singapore.
+The agency said that during the three-week trial, the robots would be used for surveillance and displaying messages to educate the public on proper behaviour.
+A spokesperson from the agency said on Monday the robots would not be used for law enforcement during the trial.",,idiosyncratic,10.51609754
+130,130,2021-09-03 18:30:15+08:00,Rugby: HSBC Singapore Sevens cancelled for second straight year due to Covid-19,https://www.straitstimes.com/sport/rugby-hsbc-singapore-sevens-cancelled-for-second-straight-year-due-to-covid-19,"SINGAPORE - The HSBC Singapore Rugby Sevens has been cancelled for the second year in a row due to Covid-19, Sport Singapore said on Friday (Sept 3).
+The national sports agency added it made the collective decision with World Rugby and their partners to call off the Oct 29-30 event.
+Besides the Singapore leg, those in Hong Kong (November), Paris (October) and Cape Town (December) have also been cancelled.
+The Singapore Sevens is one of several marquee events the Republic hosts annually, including football's International Champions Cup (ICC), golf's SMBC Singapore Open and the Formula One Singapore Grand Prix.
+Existing tickets for the Singapore Sevens remain valid for next April's edition.",,idiosyncratic,16.48389989
+131,131,9/5/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-09-05/binance-to-halt-singapore-products-after-central-bank-warning,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,Acute climatological event (droughts),48.48078687
+132,132,9/2/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-09-02/singapore-rolls-out-spac-listing-rules-as-global-scrutiny-rises,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,16.45760434
+133,133,2021-09-15 01:47:07+08:00,10-hour debate in Parliament over foreign competition in job market ends past midnight,https://www.straitstimes.com/singapore/politics/robust-debate-in-parliament-over-foreign-competition-in-job-market,"SINGAPORE - Singapore's answer to foreign competition in the local job market cannot be to shut its doors and turn away investors.
+This was the gist of a 10-hour parliamentary debate that ended past midnight, during which four political office-holders rebutted the Progress Singapore Party's (PSP's) assertion that the Government's foreign talent policy has cost citizens jobs.
+They were debating the issue of jobs and foreign talent, which PSP Non-Constituency MP Leong Mun Wai and Mr Wong had filed motions on.
+The minister sharply criticised the racist and xenophobic undertones in the PSP's rhetoric on foreign talent - an allegation the opposition party has repeatedly denied.
+He also sought to get Mr Leong to admit that other Singaporeans, like some PSP members, might see his views as racist.",,idiosyncratic,16.45760434
+134,134,2021-09-02 12:25:34+08:00,"Singapore, Australia, Malaysia and South Africa launch central bank digital currency trial",https://www.straitstimes.com/business/banking/singapore-australia-south-africa-to-test-cross-border-central-bank-digital-payments,"HONG KONG (REUTERS) - Central banks in Singapore, Australia, Malaysia and South Africa will conduct a cross border payments trial using different central bank digital currencies (CBDC) to assess if this allows transactions to be settled more cheaply and easily, the banks said on Thursday (Sept 2).
+Many governments and central banks around the world are exploring the use of CBDCs, which are digital forms of existing currencies.
+This latest project aims to develop prototype shared platforms for cross-border transactions using multiple CBDCs, said the statement from the Reserve Bank of Australia, Bank Negara Malaysia, the Monetary Authority of Singapore, the South African Reserve Bank, and the Bank for International Settlements' (BIS) Innovation Hub, which is leading the scheme.
+The initiative, which will also explore different technical, governance and operating designs, should publish its results in early 2022, the statement said.
+A separate BIS-led project exploring using CBDCs for cross border payments is also underway involving central banks from China, Hong Kong, Thailand and the UAE.",,Acute climatological event (heat stress),9.795063038
+135,135,2021-09-02 12:25:34+08:00,Subscribe to read,https://www.ft.com/content/1d4231a8-d540-4cf1-a841-a49c961879a5,"Become an FT subscriber to read:Leverage our market expertiseExpert insights, analysis and smart data help you cut through the noise to spot trends, risks and opportunities.
+Join over 300,000 Finance professionals who already subscribe to the FT.",,Economic Crisis,17.26728317
+136,136,2021-09-02 12:25:34+08:00,,https://www.businesstimes.com.sg/banking-finance/singapore-india-to-link-real-time-payment-systems-paynow-and-upi-by-2022,,,idiosyncratic,16.09426228
+137,137,10/11/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-10-11/singapore-keen-to-work-with-australia-on-quarantine-free-travel,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,idiosyncratic,15.92482476
+138,138,10/11/2021 0:00,"Singapore to extend vaccinated travel lane scheme to eight more countries, including US, UK, Spain",https://www.channelnewsasia.com/singapore/singapore-extend-vaccinated-travel-lane-scheme-eight-more-countries-including-us-uk-spain-2232501,"SINGAPORE: Singapore is extending its vaccinated travel lane scheme to eight more countries, allowing those who are fully vaccinated against COVID-19 to enter Singapore without having to serve quarantine.
+The latest announcement comes after the ""experience and confidence gained"" from the first two vaccinated travel lanes with Brunei and Germany, which were launched last month, it added.
+It also comes a day after Singapore announced another vaccinated travel lane with South Korea.
+Speaking during a press conference on Saturday, Transport Minister S Iswaran said the vaccinated travel lanes would restore ""two-way quarantine-free travel"" between Singapore and the eight newly announced countries.
+He added that the airlines and Changi Airport, together with various government agencies, had gained ""valuable experience"" through the implementation of the two existing vaccinated travel lanes over the past month.",,idiosyncratic,16.45760434
+139,139,10/11/2021 0:00,"Singapore's new 'vaccinated travel lanes' won't significantly increase risks, minister says",https://www.cnbc.com/2021/10/11/singapore-covid-transport-minister-iswaran-on-travel-lanes-vtl.html,"Singapore is set to open ""vaccinated travel lanes"" with more countries — but that doesn't mean the country is taking on significantly higher risks, Transport Minister S. Iswaran told CNBC on Monday.
+The city-state announced last week that it will be launching more travel lanes for vaccinated travelers from South Korea, Canada, Denmark, France, Italy, Netherlands, Spain, the U.K. and the U.S. That's in addition to similar arrangements with Germany and Brunei that started in September.
+""So when you combine that with the vaccination requirement as well, actually the vaccinated travel lanes and the cross border flows that we're facilitating do not increase the risk that we are taking as a country … significantly at all,"" he told CNBC's ""Squawk Box Asia.""
+We are finding paths to open up international aviation in a safe way and reclaim and rebuild Singapore's status as an international aviation hub.
+Singapore aims to reclaim global aviation hub statusIswaran said that the launch of the vaccinated travel lanes was part of efforts to reestablish the city-state as an international aviation hub.",,pandemic,4.449483246
+140,140,10/11/2021 0:00,Singapore to extend vaccinated travel lane scheme to Australia and Switzerland,https://www.channelnewsasia.com/singapore/vaccinated-travel-lane-australia-switzerland-singapore-nov-8-caas-2269242,"SINGAPORE: Singapore will extend its quarantine-free vaccinated travel lane (VTL) scheme to Australia and Switzerland from Nov 8.
+""Singapore’s VTL for Australia will allow fully vaccinated travellers from Australia to enter Singapore without quarantine, for all purposes of travel,"" said CAAS.
+""We also expect student and business pass holders from Singapore to be able to enter Australia, after Australia has finalised the arrangement for their entry,"" said CAAS on Tuesday.
+Under the vaccinated travel lane scheme, travellers must have remained in one or more of the VTL countries in the last 14 days before departure to Singapore.
+They must take two polymerase chain reaction (PCR) tests - before departure and on arrival at Changi Airport - and enter Singapore via designated flights.",,pandemic,5.765152211
+141,141,10/8/2021 0:00,Singapore reports highest-ever single-day rise in COVID-19 cases,https://www.reuters.com/world/asia-pacific/singapore-reports-highest-ever-single-day-rise-covid-19-cases-2021-10-08/,"A man receives his vaccination at a coronavirus disease (COVID-19) vaccination center in Singapore March 8, 2021.
+REUTERS/Edgar SuOct 8 (Reuters) - Singapore's health ministry reported 3,590 new cases of COVID-19 on Friday, the highest since the beginning of the pandemic, while it recorded six new deaths.
+A recent spike in infections after the relaxation of some restrictions has prompted Singapore to pause further reopening.
+It also tightened curbs from last week that limited social gatherings to two people and made work from home a default.
+Register now for FREE unlimited access to Reuters.com RegisterReporting by Baranjot Kaur in Bengaluru; Editing by Rashmi AichOur Standards: The Thomson Reuters Trust Principles.",,pandemic,12.04635983
+142,142,10/1/2021 0:00,Singapore reports highest single-day rise in COVID-19 cases,https://www.reuters.com/world/asia-pacific/singapore-reports-highest-single-day-rise-covid-19-cases-2021-10-01/,"People queue up outside a quick test centre to take their coronavirus disease (COVID-19) antigen rapid tests, in Singapore September 21, 2021.
+REUTERS/Edgar Su/Oct 1 (Reuters) - Singapore's health ministry reported 2,909 new cases of COVID-19 on Friday, the highest since the beginning of the pandemic, while it recorded eight new deaths from the disease.
+A recent spike in infections after the relaxation of some restrictions has prompted Singapore to pause further reopening.
+It also tightened curbs from this week that limited social gatherings to two people and made work from home a default.
+Register now for FREE unlimited access to Reuters.com RegisterReporting by Juby Babu in Bengaluru; editing by Uttaresh.VOur Standards: The Thomson Reuters Trust Principles.",,pandemic,4.575596265
+143,143,10/21/2021 0:00,Singapore hospitals risk being ‘overwhelmed’ after record daily Covid deaths,https://www.theguardian.com/world/2021/oct/21/singapore-hospitals-risk-being-overwhelmed-after-record-daily-covid-deaths,"Singapore’s healthcare system is at risk of being “overwhelmed” by surging coronavirus infections, government officials warned on Wednesday, a day after the city-state expanded quarantine-free travel as it shifts its approach to dealing with the pandemic.
+The health ministry reported 18 deaths on Wednesday – Singapore’s highest toll in a single day – and 3,862 more cases, just shy of the record 3,994 tallied the day before.
+“At the current situation, we face considerable risk of the healthcare system being overwhelmed,” Lawrence Wong, co-chair of a government taskforce fighting Covid-19, said before the new figures were released.
+Most of Singapore’s cases are mild or asymptomatic with patients recovering at home, allowing hospitals to focus on seriously sick Covid patients.
+The recent spike in infections after the relaxation of some restrictions has prompted Singapore to pause further reopening.",,pandemic,6.927814854
+144,144,10/4/2021 0:00,Singapore parliament debates bill to tackle foreign interference,https://www.reuters.com/world/asia-pacific/singapore-parliament-debate-bill-tackle-foreign-interference-2021-10-04/,"""FICA has the makings of being the most intrusive law on the statute books,"" he said of the bill, to be formally known as the Foreign Interference Countermeasures Act (FICA).
+The bill lets the home minister order investigations in the public interest to ""expose hostile information campaigns"", based on suspicion of foreign interference.
+GROWING THREATAs use of social media and communications technology increases, experts and opposition parties have agreed on the need to counter a growing threat of foreign interference in domestic affairs.
+Critics have said Russia's 'sovereign internet' 2019 law allows authorities the discretion to limit access to resources and information, while Australian laws target lobbyists for foreign countries.
+Rights groups had warned the 2019 law on fake news could hurt freedom of expression.",,Economic Crisis,6.446549844
+145,145,10/28/2021 0:00,Singapore to investigate ‘unusual’ surge in COVID-19 cases,https://www.aljazeera.com/news/2021/10/28/singapore-reports-highest-single-day-rise-in-covid-19-cases,"Recent spike in infections after relaxation of some restrictions has prompted the city-state to pause further reopening.
+Singapore’s health ministry has said that it is looking into an “unusual surge” in infections after the city-state reported 5,324 new cases of COVID-19 — the most since the beginning of the pandemic.
+Singapore also recorded 10 new deaths from the disease on Wednesday, increasing the toll to 349.
+“MOH is looking into this unusual surge in cases within a relatively short window, and closely monitoring the trends for the next few days.”As of Wednesday, a total of 20,895 people in Singapore are recovering from COVID-19 in their own homes.
+A recent spike in infections after the relaxation of some restrictions has prompted Singapore to postpone further reopening.",,Trade Dispute,12.53999968
+146,146,10/28/2021 0:00,"Covid-19: 2,909 new cases in Singapore; sharp rise in infections in migrant worker dormitories",https://www.todayonline.com/singapore/covid-19-2909-new-cases-singapore-sharp-rise-infections-migrant-worker-dormitories,"SINGAPORE — There was a record 2,909 new cases of Covid-19 in Singapore on Friday (Oct 1), with 2,079 cases in the community, 818 in migrant worker dormitories and 12 that were imported.
+Data from the Ministry of Health (MOH) showed that there has been a sharp rise in the number of cases in the dormitories.
+This means that the increase of 431 cases was dominated largely by the dormitory cases, which went up by 366 in a day.
+Singapore has logged a total of 99,430 coronavirus cases since the start of the pandemic last year.
+VACCINATIONSAs of Sept 30, 82 per cent of the population has been fully vaccinated, and 85 per cent has received at least one dose.",,pandemic,7.839481574
+147,147,10/28/2021 0:00,Subscribe to read,https://www.ft.com/content/70cb075e-41e8-4edc-85a5-a14b70c8fb45,"Make informed decisions with the FTKeep abreast of significant corporate, financial and political developments around the world.
+Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust.",,pandemic,8.097856652
+148,148,2021-10-23 15:41:12+08:00,"Malaysia may reopen to Singapore travellers 'very soon', says its Tourism Minister",https://www.straitstimes.com/asia/se-asia/malaysia-may-reopen-to-singapore-travellers-very-soon-says-tourism-minister,"KUALA LUMPUR - Malaysia could be opening up to international tourists including travellers from Singapore ""very soon"", Malaysia's Tourism, Arts and Culture Minister Nancy Shukri has said.
+She is due to meet with Singapore officials next week to discuss the resumption of cross-border travel between the two neighbours, which she expects to happen as soon as next month.
+Malaysia is aiming to reopen its borders to international tourists in November, and visitors from the city state could be among the first to be allowed into the country, she said.
+""We are open (to) Singapore as long as Singapore is open to us as well,"" Datuk Seri Nancy told CNBC's Street Signs Asia show on Thursday (Oct 21).
+Before the border closed in March last year, roughly half a million people from both countries made daily trips between Singapore and Johor.",,Economic Crisis,11.44675357
+149,149,2021-10-23 15:41:12+08:00,161 deaths and a slowdown in reported infection rate: Singapore's COVID-19 situation since the start of new restrictions,https://www.channelnewsasia.com/singapore/covid-19-singapore-situation-stabilisation-phase-deaths-icu-cases-2253601,"SINGAPORE: Singapore has reported more than 160 COVID-19 deaths in the past three weeks, as the country experiences its worst wave of the pandemic.
+There has also been an upward trend in the number of cases who require hospital care, patients who need oxygen supplementation and those in the intensive care unit.
+Three weeks ago, the Government tightened restrictions for dining-in and social gatherings in what it called the Stabilisation Phase.
+About a week after that, Mr Gan said the daily number of COVID-19 cases could rise to more than 5,000 although the ""vast majority"" would be asymptomatic or have mild symptoms.
+About 98 per cent of local COVID-19 cases were asymptomatic or had mild symptoms, MOH said.",,Acute climatological event (droughts),19.20429843
+150,150,2021-10-23 15:41:12+08:00,Singapore surprises with monetary tightening as Q3 GDP grows 6.5%,https://asia.nikkei.com/Economy/Singapore-surprises-with-monetary-tightening-as-Q3-GDP-grows-6.5,SINGAPORE -- Singapore's central bank on Thursday tightened its monetary policy for the first time in three years -- an earlier-than-expected move as the country seeks to reopen its coronavirus-hit economy and manage inflationary pressures.,,pandemic,11.60300753
+151,151,2021-10-23 15:41:12+08:00,"Singapore to allow some travellers from South Asia, ease stay-home notice restrictions for Malaysia and Indonesia",https://www.channelnewsasia.com/singapore/singapore-allow-some-travellers-south-asia-ease-stay-home-notice-restrictions-malaysia-and-indonesia-2263722,"SINGAPORE: Singapore announced on Saturday (Oct 23) that it will reopen its borders to some travellers from six countries, including Bangladesh and India, as well as loosen testing and stay-home notice restrictions for several other countries, including Malaysia and Indonesia.
+These travellers will be subject to Category IV border restrictions, which include a 10-day stay-home notice at dedicated facilities.
+Category III travellers currently have to apply to opt out of serving their stay-home notice at dedicated facilities, subject to certain restrictions.
+Returning residents should ensure they can secure alternative accommodation prior to their return if their homes are unsuitable for their stay-home notice, it added.
+But the authority added that these travellers must remain in their declared place of residence or accommodation throughout their stay-home notice period, and wear an electronic monitoring device.",,Economic Crisis,9.787718414
+152,152,2021-10-23 15:41:12+08:00,"Singapore reports record 3,486 new COVID-19 cases; 9 more deaths",https://www.channelnewsasia.com/singapore/singapore-covid-19-cases-deaths-oct-5-moh-2223001,"SINGAPORE: Singapore reported a record 3,486 new COVID-19 cases as of noon on Tuesday (Oct 5) and nine more deaths from complications due to the coronavirus.
+Three of them were unvaccinated against COVID-19, while two were partially vaccinated and four had been vaccinated.
+Of the new cases, 3,480 are locally transmitted infections, comprising 2,767 cases in the community and 713 dormitory residents.
+The previous record in daily cases was on Oct 1 when there were 2,909 infections.
+As of Tuesday, Singapore has reported a total of 109,804 COVID-19 cases since the start of the pandemic.",,idiosyncratic,16.36818604
+153,153,2021-10-23 18:36:41+08:00,Moves to categorise Singapore as high-risk destination do not affect vaccinated travellers here: Ong Ye Kung,https://www.straitstimes.com/singapore/health/moves-to-categorise-singapore-as-high-risk-destination-does-not-affect-vaccinated,"SINGAPORE - The move by some countries to categorise Singapore as a high-risk destination due to its Covid-19 infection numbers does not affect vaccinated people living here.
+Health Minister Ong Ye Kung said on Saturday (Oct 23) that advisories issued by these countries are for their own citizens.
+It is to alert them that infection rates here are higher, and to inform them to take precautions.
+In the past week, Germany and the United States have moved Singapore to their higher Covid-19 risk categories of destinations.
+He added that moves to categorise Singapore as a high-risk destination should not stop the Republic and these countries from developing vaccinated travel lanes.",,pandemic,8.388454907
+154,154,2021-10-19 19:00:00+08:00,Singapore is No. 2 in the world for attracting and developing talent: Insead,https://www.straitstimes.com/business/economy/singapore-is-no-2-in-the-world-for-attracting-and-developing-talent-insead,"SINGAPORE - Singapore has moved up one notch to second place in a global ranking of how well countries attract, develop, support and retain talent - behind Switzerland but ahead of the United States.
+The yearly global talent competitiveness index, which covers 134 countries, is published by French business school Insead and non-profit research body Portulans Institute.
+San Francisco topped the city index, followed by Geneva, Boston and Zurich.
+For the country ranking, Singapore made it to top three in four of the six criteria, which encompass enabling, attracting, growing and retaining talent, vocational and technical skills, and global knowledge skills.
+The Republic was praised for enabling talent with its strong regulatory landscape, attracting talent around specific areas such as bio-nanotechnologies, and growing talent with its strong education quality.",,pandemic,8.98684094
+155,155,2021-10-19 19:00:00+08:00,U.S. biotech unicorn eyes bigger China presence from Singapore,https://asia.nikkei.com/Business/Biotechnology/U.S.-biotech-unicorn-eyes-bigger-China-presence-from-Singapore,SINGAPORE -- U.S. biotechnology unicorn 10x Genomics opened its Asia-Pacific headquarters and first overseas manufacturing facility in Singapore on Monday as the company aims to expand its presence in China and other regional markets.,,idiosyncratic,16.48389989
+156,156,2021-11-09 17:07:42+08:00,Singapore’s highest court delays execution for Malaysian drug trafficker Nagaenthran K. Dharmalingam after he tests positive for Covid-19,https://www.scmp.com/week-asia/people/article/3155412/singapores-highest-court-grants-stay-execution-malaysian-drug,"Activists at a vigil protesting against the impending execution of Nagaenthran K. Dharmalingam, who was convicted of a drug offence 10 years ago in Singapore.",,idiosyncratic,16.36149747
+157,157,2021-11-08 20:52:22+08:00,Court dismisses claim by drug trafficker facing execution that he has 'mental age of person below 18',https://www.straitstimes.com/singapore/courts-crime/court-dismisses-claim-by-drug-trafficker-facing-execution-that-he-had-mental,"However, Nagaenthran K. Dharmalingam was granted a stay of execution pending a hearing before the Court of Appeal at 2.30pm on Tuesday.
+Nagaenthran, who was arrested in 2009 at the age of 21 with a bundle of heroin strapped to his left thigh, had sought to challenge his execution, contending that he had the mental age of a person below 18 years old.
+In his oral remarks dismissing the application, Justice See Kee Oon said there was no credible basis for Nagaenthran's assertions as to his mental age.
+He was sentenced to death by the High Court in 2010 after being convicted of trafficking 42.72g of heroin.
+The Misuse of Drugs Act provides for the death penalty if the amount of heroin imported is more than 15g.",,Acute climatological event (droughts),31.02563189
+158,158,12/1/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-12-01/why-singapore-can-wait-before-pushing-panic-button-on-omicron,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,Acute climatological event (droughts),28.95331186
+159,159,2021-11-30 18:18:52+08:00,"Singapore's response to Covid-19 variant Omicron: Too much, too little or just right?",https://www.straitstimes.com/singapore/health/singapores-response-to-covid-19-variant-omicron-too-much-too-little-or-just-right,"This is what Singapore and the rest of the world are doing with the emergence of Omicron, the latest Covid-19 variant of concern (VOC).
+This is unlike how the WHO dragged its feet in declaring the Covid-19 a pandemic in 2020.
+If there is a positive test result, a ringfence will be thrown around the person and any close contacts, to prevent Omicron from entering the community.
+This approach seems well-calibrated as the community measures have only recently been eased.
+Until Omicron spreads in the community, there is no need to tighten measures, as it can be done quickly if needed.",,idiosyncratic,16.45760434
+160,160,11/30/2021 0:00,"Spooked by Omicron, Singapore defers expanding reopening plans",https://www.aljazeera.com/economy/2021/11/30/spooked-by-omnicron-singapore-defers-expanding-reopening-steps,"A quarantine-free entry policy for vaccinated arrivals in Singapore will not be extended to more countries for now.
+Singapore will hold off on more reopening measures while it evaluates the Omicron coronavirus variant and will increase testing of travellers and front-line workers to reduce the risk of local transmission, authorities say.
+Singapore will be prioritising the use of COVID-19 Polymerase Chain Reaction (PCR) tests produced by Thermo Fisher for travellers.
+Thermo Fisher said it is able to detect the Omicron variant.
+Any Omicron cases found in Singapore will be placed in government healthcare facilities rather than the home isolation so far used for mild COVID-19 cases.",,pandemic,9.29383631
+161,161,11/9/2021 0:00,Singapore to start charging Covid patients who are ‘unvaccinated by choice’,https://www.theguardian.com/world/2021/nov/09/singapore-to-start-charging-covid-patients-who-are-unvaccinated-by-choice,"Singapore will no longer pay the Covid-19 medical bills for people “unvaccinated by choice”, the government said, as the country grapples with a surge in cases.
+The government currently covers the full Covid medical costs for all Singaporeans, as well as permanent residents and long-term visa holders, unless they test positive soon after returning home from overseas.
+However from 8 December, the government said it will “begin charging Covid-19 patients who are unvaccinated by choice”.
+Yet the city state is struggling with rising Covid infections and last month warned its healthcare system was at risk of being “overwhelmed” by surging cases.
+The ministry of heath said 67 Covid cases were critically ill in intensive care.",,pandemic,9.397054887
+162,162,11/9/2021 0:00,"Singapore, Malaysia want 'more open borders' even if Omicron variant disrupts VTL expansion: PM Lee",https://www.channelnewsasia.com/singapore/malaysia-singapore-vtl-expansion-pm-lee-ismail-sabri-omicron-covid-19-2344971,"SINGAPORE: Singapore and Malaysia want ""more open borders"" even if the new Omicron coronavirus variant disrupts plans to expand the vaccinated travel lane (VTL) between both countries, Singapore Prime Minister Lee Hsien Loong said on Monday (Nov 29).
+Mr Lee and his Malaysian counterpart Ismail Sabri Yaakob were giving speeches at the Istana on the first day of the land and air VTL between Singapore and Malaysia.
+""Of course all this is COVID-19 permitting, because we are all watching anxiously the new Omicron variant, to see how it will behave,"" Mr Lee said.
+""But even if Omicron disrupts these plans, our goal will still be to have more open borders between Singapore and Malaysia.
+Countries have raced to contain the new Omicron variant amid reports it is potentially more contagious than the current dominant Delta variant.",,Acute climatological event (droughts),18.45888302
+163,163,2021-11-24 16:00:00+08:00,"Singapore-Malaysia land VTL to open on Nov 29, up to 2,880 travellers each day",https://www.straitstimes.com/singapore/singapore-malaysia-land-vtl-to-open-on-nov-29-up-to-2880-travellers-each-day,"Tickets for the designated land VTL buses go on sale at 8am on Thursday (Nov 25).
+For now, those travelling via the land VTL have to be citizens, permanent residents or long-term pass holders of the country that they are entering.
+This includes work pass holders, student pass holders and long-term visit pass holders.
+Singapore's Prime Minister's Office (PMO) said on Wednesday that depending on the public health situation in both countries, the land VTL will be progressively expanded to include general travellers.
+""The launch of the VTL (Land) is a big step towards reconnecting our people and economies, and will further enhance our bilateral relationship.""",,pandemic,16.30222656
+164,164,11/20/2021 0:00,Singapore relaxes tight COVID-19 social curbs from Monday,https://www.reuters.com/world/asia-pacific/singapore-relaxes-tight-covid-19-social-curbs-monday-2021-11-20/,"REUTERS/Caroline Chia/File PhotoSINGAPORE, Nov 20 (Reuters) - Singapore's government is easing some of the tight social curbs it imposed to contain the spread of COVID-19, after infections stabilised in the city-state over the past month.
+They said the overall infection numbers and hospital situation have largely stabilised and improved.
+Register now for FREE unlimited access to Reuters.com Register""We are now transiting towards living with COVID-19,"" Gan Kim Yong, minister for trade and industry, told reporters.
+Despite all this, compared to Europe, Britain and the United States, Singapore still has tight COVID-19 restrictions, including mandatory mask-wearing in public.
+Register now for FREE unlimited access to Reuters.com RegisterReporting by Anshuman Daga; Editing by William MallardOur Standards: The Thomson Reuters Trust Principles.",,Acute climatological event (flood),12.64060015
+165,165,2021-12-02 19:19:59+08:00,Singapore detects first 2 imported Covid-19 cases who test preliminarily positive for Omicron,https://www.straitstimes.com/singapore/health/2-imported-covid-19-cases-in-spore-test-preliminarily-positive-for-omicron-variant,"SINGAPORE - Two imported Covid-19 cases have preliminarily tested positive for the Omicron variant on Thursday (Dec 2), the Ministry of Health (MOH) said.
+He had tested negative for Covid-19 in his pre-departure test in Mozambique on Nov 29.
+She had tested negative for Covid-19 in her pre-departure test in Johannesburg on Nov 29.
+Their PCR test results revealed the presence of S-gene Target Failure, which may be associated with the Omicron variant, the ministry added.
+MOH said the National Public Health Laboratory is conducting whole genome sequencing to confirm if the two cases had indeed contracted the Omicron variant.",,idiosyncratic,14.29689057
+166,166,2021-12-22 07:12:52+00:00,Singapore slams border shut just month after setting up quarantine-free travel bubble with Australia,https://www.dailymail.co.uk/news/article-10335295/Singapore-slams-border-shut-just-month-setting-quarantine-free-travel-bubble-Australia.html,"Singapore will freeze the sale of tickets for arriving flights and buses under its quarantine-free travel program for four weeks from tomorrow, the government said, citing the risk from the fast-spreading Omicron COVID-19 variant.
+Under the vaccinated travel lane program, Singapore allows quarantine-free entry for fully vaccinated travellers arriving on designated flights and buses from about two dozen countries including Australia, India, Malaysia, Britain and the United States.
+Singapore has confirmed 65 imported Omicron cases, along with a handful of local cases.
+In Australia, there's pressure from medical experts to bring back mandatory mask-wearing and density limits, while New Zealand has pushed back the phased reopening of its border until the end of February due to the omicron variant threat.
+The ministry's latest release reported 280 new cases including 54 imports, but didn't provide a breakdown on the variant.",,pandemic,8.900166859
+167,167,12/22/2021 0:00,Singapore to freeze new ticket sales for quarantine-free arrivals,https://www.reuters.com/world/asia-pacific/singapore-freeze-new-ticket-sales-quarantine-free-travel-2021-12-22/,"SINGAPORE, Dec 22 (Reuters) - Singapore will freeze the sale of tickets for arriving flights and buses under its quarantine-free travel programme for four weeks from Thursday, the government said, citing the risk from the fast-spreading Omicron COVID-19 variant.
+Under the vaccinated travel lane (VTL) programme, Singapore allows quarantine-free entry for fully vaccinated travellers arriving from certain countries on designated flights or buses.
+The government said it would also reduce the VTL quotas and ticket sales for travel after Jan. 20.
+For flights, the total number of VTL tickets would be capped at 50% of the previously allocated quota.
+Travellers already holding tickets on VTL flights or buses and who meet all other requirements can still travel under the programme.",,pandemic,9.484181798
+168,168,12/22/2021 0:00,Singapore to suspend new ticket sales for quarantine-free travel starting Thursday,https://www.cnbc.com/2021/12/22/singapore-to-suspend-new-ticket-sales-for-quarantine-free-travel.html,"Singapore will freeze new ticket sales for quarantine-free travel in an effort to limit exposure to imported omicron cases, the health ministry said in a statement Wednesday.
+Travelers who have already booked tickets under Singapore's vaccinated travel lane arrangements will still be able to enter the country without serving quarantines.
+As of Monday, there were six local omicron cases in the country, the health ministry said.
+About 96% of Singapore's eligible population is fully vaccinated, or about 87% of the total population, according to health ministry data.
+More than a third of the total population (34%) has received a booster.",,pandemic,11.39193715
+169,169,2021-12-01 21:20:24+08:00,"Tel Aviv is world's most expensive city, with S'pore and Paris in joint second",https://www.straitstimes.com/business/economy/tel-aviv-now-priciest-city-to-live-in-singapore-paris-in-second-place,"SINGAPORE - Tel Aviv is now the most expensive city in the world to live in, according to an index compiled by the Economist Intelligence Unit (EIU).
+The Israeli city climbed from fifth place last year to head the rankings - the first time it has been in the top spot - after pushing Paris down to joint second place with Singapore.
+Combined with fluctuating consumer demand and exchange-rate shifts, the resulting supply problems also fuelled price rises in the world's major cities.
+Items are individually weighted across a range of categories and a comparative index is produced using the relative difference by weighted item.
+It then compares all cities with a base city, New York, which has an index score of 100.",,pandemic,4.177009653
+170,170,2021-12-01 21:20:24+08:00,Singapore superapp Grab to debut on Nasdaq via SPAC on Dec. 2,https://asia.nikkei.com/Business/Startups/Singapore-superapp-Grab-to-debut-on-Nasdaq-via-SPAC-on-Dec.-2,"SINGAPORE -- Singapore tech unicorn Grab will list in the U.S. on Thursday, after the special purpose acquisition company (SPAC) it plans to merge with received shareholder approval for the deal at an extraordinary general meeting on Tuesday.",,idiosyncratic,15.91637193
+171,171,12/22/2021 0:00,"Woodside, Keppel to study hydrogen supply to Singapore",https://www.reuters.com/business/energy/woodside-keppel-study-hydrogen-supply-singapore-2021-12-22/,"REUTERS/David GrayMELBOURNE, Dec 22 (Reuters) - Woodside Petroleum (WPL.AX) is working with units of Keppel Corp (KPLM.SI) and Osaka Gas Co (9532.T) to study a long-term supply of liquid hydrogen from Western Australia to Singapore and potentially Japan, the companies said on Wednesday.
+The study, which is in line with the Singapore Green Plan, will go on until mid-2022, before the companies decide on their next move.
+For Woodside, Singapore and Japan would be ideal export destinations for hydrogen from its planned H2Perth Hydrogen facility in Western Australia, while Keppel Data Centres said it is studying the use of hydrogen to power its data centres.
+City Energy, owned by Keppel Infrastructure Trust (KEPL.SI), said it would look into using hydrogen to help cut carbon emissions from its town gas manufacturing processes.
+Osaka Gas, which has a partnership with City Energy in Singapore, said it would contribute its know-how from the LNG import business to help develop a hydrogen supply chain between Australia and Singapore.",,Military Conflicts,9.89545518
+172,172,12/10/2021 0:00,‘I thought I was going to die’: otters attack British man in Singapore park,https://www.theguardian.com/world/2021/dec/10/i-thought-i-was-going-to-die-otters-attack-british-man-in-singapore-park,"A man attacked by a pack of otters in a Singapore park has said that he thought he was going to die during the ordeal.
+Spencer told The Straits Times he was approaching the gardens’ entrance on 30 November when he spotted about 20 otters crossing a path in front of him.
+The animals were moving quietly but “went crazy” after another man ran towards them, Spencer told the paper.
+“I actually thought I was going to die – they were going to kill me,” he added.
+After speaking with a representative from the Singapore Botanic Gardens, Spencer said he was told authorities were investigating the incident.",,Acute climatological event (droughts),22.04880394
+173,173,12/10/2021 0:00,454 new COVID-19 cases and 4 deaths in Singapore,https://www.channelnewsasia.com/singapore/covid-19-new-cases-deaths-weekly-infection-growth-rate-moh-dec-10-2371571,"Friday's daily case count is down from the 682 infections reported on Thursday.
+A total of 440 are locally transmitted cases, comprising 436 in the community and four in migrant workers' dormitories.
+This is the first time in three months that total new daily cases have fallen below 500.
+There were 457 infections reported on Sep 9.
+As of Friday, Singapore has recorded 272,433 COVID-19 cases since the start of the pandemic.",,idiosyncratic,13.07050692
+174,174,12/10/2021 0:00,Singapore reports first locally transmitted Omicron case,https://www.reuters.com/world/asia-pacific/singapore-reports-first-locally-transmitted-omicron-case-2021-12-10/,"SINGAPORE, Dec 10 (Reuters) - Singapore has detected its first locally transmitted case of the COVID-19 variant Omicron in a member of staff at the city state's airport, authorities said late on Thursday, warning that more Omicron cases are likely to be detected.
+The 24-year-old Singaporean woman, who works in a service role in the airport, ""may have interacted with transit passengers from Omicron-affected countries,"" the health ministry said in a statement.
+Register now for FREE unlimited access to Reuters.com RegisterA second Omicron case reported on Tuesday was a traveller from Germany.
+Singapore had previously detected three Omicron cases, all found in overseas travellers.
+Register now for FREE unlimited access to Reuters.com RegisterReporting by Chen Lin in Singapore Editing by Ed DaviesOur Standards: The Thomson Reuters Trust Principles.",,pandemic,4.65041555
+175,175,2021-12-11 01:39:08+08:00,S'pore approves Pfizer Covid-19 jab for children aged 5 to 11; booster shots for 18- to 29-year-olds from Dec 14,https://www.straitstimes.com/singapore/health/spore-approves-pfizer-covid-19-vaccine-for-children-5-to-11-years-old-vaccination,"SINGAPORE - Children from five to 11 years old will be able to receive the Pfizer-BioNTech/Comirnaty Covid-19 vaccine at the end of the month.
+Those aged between 18 to 29 years who have passed five months since completing their primary vaccination jabs will also be able to receive their booster shots from December 14.
+The Pfizer vaccine is the first Covid-19 vaccine approved by Singapore for use for children aged five to 11, following a recommendation by the expert committee on Covid-19 vaccination, which the multi-ministry taskforce has accepted.
+It recommended children with moderate to severe chronic medical conditions should be given priority to receive the jabs.
+He said: “In an ongoing study of over 2,000 children aged 5 to 11 years, vaccine efficacy was estimated to be 90.7%.",,pandemic,12.03257969
+176,176,2021-12-11 01:39:08+08:00,280 new COVID-19 cases reported in Singapore; 101 new Omicron infections confirmed,https://www.channelnewsasia.com/singapore/covid-19-new-cases-deaths-omicron-imported-moh-dec-27-2402691,"SINGAPORE: Singapore reported 280 new COVID-19 cases as of noon on Monday (Dec 27), of which 134 were imported.
+There were also three fatalities, taking the country's death toll from coronavirus complications to 825, according to the latest infection statistics on the Ministry of Health's (MOH) website.
+Monday's case count was up from the 209 infections reported on Sunday.
+Among the new cases reported on Monday, 146 were locally transmitted, comprising 141 in the community and five in migrant workers' dormitories.",,idiosyncratic,13.57189719
+177,177,12/25/2021 0:00,Are you a robot?,https://www.bloomberg.com/news/articles/2021-12-25/singapore-finds-new-omicron-cluster-braces-for-community-spread,"Why did this happen?
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.
+For more information you can review our Terms of Service and Cookie Policy.",,pandemic,13.05413494
+178,178,2021-12-25 20:17:50+08:00,"448 Omicron cases in S'pore to date, new cluster linked to The Vinyl Bar on River Valley Road",https://www.straitstimes.com/singapore/new-omicron-cluster-detected-all-10-cases-linked-to-bar-in-river-valley,"SINGAPORE - An Omicron cluster of 10 cases linked to The Vinyl Bar in River Valley Road has been detected.
+All 10 are fully vaccinated and have mild or no symptoms, said the Ministry of Health (MOH) on Saturday (Dec 25).
+On Dec 15, the traveller met a colleague, who two days later visited The Vinyl Bar at 266 River Valley Road.
+Staff and visitors of The Vinyl Bar who have been identified as close contacts of the new cases will be placed on quarantine, said MOH.
+Meanwhile, all visitors to The Vinyl Bar are advised to monitor their health closely, and minimise social interactions as far as possible, for 14 days from their date of visit.",,idiosyncratic,16.45760434
+179,179,2021-12-04 14:18:11+08:00,Dormitory-bound work pass holders cannot enter Singapore via vaccinated travel lane: MOM,https://www.straitstimes.com/singapore/dormitory-bound-work-pass-holders-cannot-enter-singapore-via-vaccinated-travel-lane-mom,"SINGAPORE - From 11.59pm on Saturday (Dec 4), employers of all S Pass and work permit holders in the construction, marine shipyard and process sector will not be allowed to make new applications for workers to enter Singapore via vaccinated travel lanes (VTLs).
+This will also apply to employers of other dormitory-bound work pass holders, the Manpower Ministry (MOM) said on Saturday.
+These workers should enter Singapore via ongoing industry initiatives - such as programmes with upstream testing and isolation in the source country - or the Work Pass Holder General Lane.
+Workers who had obtained approval before Saturday to enter Singapore via VTLs will still be allowed to do so.
+In its statement on Saturday, MOM noted that Malaysian and female work pass holders will still be allowed to enter Singapore via VTLs.",,idiosyncratic,13.90881214
+180,180,12/13/2021 0:00,"Binance Singapore affiliate says will withdraw licence bid, shut local platform",https://www.reuters.com/markets/currencies/binance-affiliate-says-will-withdraw-singapore-licence-application-2021-12-13/,"REUTERS/Dado Ruvic/IllustrationHONG KONG, Dec 13 (Reuters) - The Singapore affiliate of Binance, one of the world's largest cryptocurrency exchanges, said on Monday it will withdraw its local licence application and wind down its digital payment token business in the broadly crypto-friendly city-state.
+Binance's Singapore unit was one of well over 100 cryptocurrency companies to apply for a license to operate in Singapore and had been allowed do business while its license request was being processed.
+Binance said its Singapore platform for trading fiat and cryptocurrencies will close by mid-February.
+In September, the company said that because of local regulation, users in Singapore would not be able to trade on its global platform.
+""I think this (Binance's withdrawal of its application) signifies again Singapore's licence regime is quite stringent,"" said Chia Hock Lai, co-chairman, Blockchain Association Singapore.",,idiosyncratic,15.44377474
+181,181,2021-12-03 12:15:05+08:00,Malaysia detects first Omicron case; VTL with Singapore continues,https://www.straitstimes.com/asia/se-asia/malaysia-detects-first-case-of-omicron-covid-19-variant,"KUALA LUMPUR (REUTERS, BLOOMBERG) - Malaysia has detected its first case of the Omicron coronavirus variant but its health minister said the Vaccinated Travel Lane (VTL) scheme between the country and Singapore will continue.
+The variant was identified in a 19-year-old woman who had arrived from South Africa via Singapore on Nov 19, Health Minister Khairy Jamaluddin said in a briefing on Friday (Dec 3).
+Authorities had re-tested earlier positive samples after the World Health Organisation (WHO) announced Omicron as a variant of concern on Nov 24, Mr Khairy said.
+""It's important to note that this case came in to Malaysia on Nov 19 before South Africa reported the first case to the World Health Organisation,"" he said.
+An increasing number of countries are reporting cases of the Omicron variant, which the WHO has said carries a very high risk of causing surges of infection.",,idiosyncratic,15.31766118
+182,182,2021-12-03 12:15:05+08:00,474 new COVID-19 cases and three deaths in Singapore,https://www.channelnewsasia.com/singapore/covid-19-new-cases-deaths-icu-moh-dec-15-2381401,"HOSPITALISATION AND VACCINATIONSThe intensive care unit (ICU) utilisation rate is at 49.9 per cent, down from the 50.8 per cent reported on Tuesday.
+There are 517 patients in hospital, with 68 requiring oxygen supplementation.
+In the ICU, four cases require close monitoring while 28 patients are critically ill.As of Tuesday, 96 per cent of Singapore's eligible population - those aged 12 and above - have completed their full vaccination regimen.
+About 31 per cent of the total population have received their booster shots.",,pandemic,8.119947795
+,,,,,,,idiosyncratic,13.94110675
